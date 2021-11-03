@@ -10,7 +10,7 @@ Cuisson alimentaire, Stérilisation médicale<br>
 	
 <p> Novembre 2012 / Février 2016</p>
         
-     
+## sous-titre 1     
 <p> Le propos est de rassembler les connaissances scientifiques et 
 technologiques relatives à la conception, la construction et 
 l'utilisation d'une installation solaire thermique à moyenne température
@@ -252,6 +252,7 @@ vrai coût technologique et économique de l'énergie.<br>
 </p>
 <p>o – o – o – o- o- o – o </p>
 
+### documentaiton
 <p>La documentation est divisée en parties et en chapitres. La 
 pagination est spécifique à chaque chapître. Une table des matières 
 détaillée figure en tête de chaque chapître. <br>
