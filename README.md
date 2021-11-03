@@ -1,281 +1,16 @@
-<!DOCTYPE html>
-<html><!-- Mirrored from jean.boubour.pagesperso-orange.fr/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Dec 2016 12:01:22 GMT --><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta charset="utf-8">
-	<title> Documentation soleil-vapeur.org Nov 2012 / Fev 2016 </title>
-	<link rel="stylesheet" type="text/css" href="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/index2012-style.css">
 
-<script language="javascript" type="text/javascript">
-<!--
-function popup_ouvrir(source,page) 
-{
-window.open(source,page,'width=660,height=550,top=80,left=300,scrollbars=yes,location=no');
-}
-//-->
-</script>
-<!-- Une notice concernant l'aspect infirmatique du site est disponible à l'adresse suivante <br />
-à copier/coller dans la barre d'adresse du navigateur:  <br />  
- www.soleil-vapeur.org/bibliotheque/Notice-du-site.pdf
--->
+# Bienvenue sur le site de documentation de soleil-vapeur.org
 
-
-
-
-<script type="text/javascript">
-//<![CDATA[
-var gs_d=new Date,DoW=gs_d.getDay();gs_d.setDate(gs_d.getDate()-(DoW+6)%7+3);
-var ms=gs_d.valueOf();gs_d.setMonth(0);gs_d.setDate(4);
-var gs_r=(Math.round((ms-gs_d.valueOf())/6048E5)+1)*gs_d.getFullYear();
-var gs_p = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + gs_p + "s.gstat.orange.fr/lib/gs.js?"+gs_r+"' type='text/javascript'%3E%3C/script%3E"));
-//]]>
-</script><script src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/gs.js" type="text/javascript"></script>
-</head>
-
-<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-<body>
-<div id="global">
-<!-- ====================début en-tête============ -->
-<div id="gauche_entete">
-<p>
-<a href="http://jean.boubour.pagesperso-orange.fr/index.html"> <img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/home.gif" alt="HOME"></a> 
-</p>
-</div><!-- gauche_entete -->
-<!-- ========== -->
-<div id="droite_entete">
-<p> 
-Soleil-vapeur est une petite association regroupant ...<br>
-<a href="http://jean.boubour.pagesperso-orange.fr/bibliotheque/doc-asso.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">plus d'info  </a>
-</p>
-</div><!-- droite_entete -->
-<!-- =========== -->
-<div id="entete">
 <p>
 Cuisson alimentaire, Stérilisation médicale<br> 
  Production de glace par adsorption<br> 
  avec le groupe solaire thermique à vapeur "soleil-vapeur"<br> 
 100 à 164°C / 0 à 6 bar / 0.5 à 10 kW
 </p>
-</div><!-- entete -->
-<!-- =====================fin en-tête=========== -->
-<hr>
-
-<!-- XXXXXXXXX   fin d' entete  XXXXX   début du corps de page XXXXXXXXXX              -->
-<!-- =============   début de la navigation ========== -->
-
-
-
-	<div id="navig">
-		<p style=" text-align: center;"> Accédez ici aux sommaires  puis aux versions complètes des chapitres</p>
-		<h4> 1ère partie: le capteur et la production de vapeur </h4>
-		<p> 
-<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-I-dossier-calculs.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.I- Dossier de calculs </a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-II-conception.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.II- Conception du capteur </a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-III-etude-capteur.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.III- Etude du capteur </a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-IV-etude-circuit.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.IV- Etude du circuit de  production de vapeur </a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-V-Construction.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.V- Construction du capteur </a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-VI-Installation-etc.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.VI- Installation, Conduite, Performances, Maintenance </a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-VII-Malle-Pedagogique.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.VII- La Malle Pedagogique </a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-VIII-Plans-Informatiques.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.VIII- Plans Informatiques </a> <br>	
-<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-IX-ombre-portee.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.IX- Ombre portée d'un baton </a> <br>	
-<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-X-positions-capteur.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.X- Positions du capteur </a> <br>	
-</p>
-
-
-		<h4> 2ème partie: Utilisation de la vapeur </h4>
-		 <p> 
-  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-I-Plaque.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.I- La plaque chauffante à vapeur </a> <br>       
-  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-II-Caisson.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.II- Le Caisson isolant </a> <br> 
-  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-III-Sterilisation.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.III- La Stérilisation Médicale </a> <br> 
-  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-IV-Cuisson.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.IV- La Cuisson Alimentaire </a> <br>
-  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-V-Performances-etc.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.V- Performances et autres concepts </a> <br>
-  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-VI-VIII-Autres-Utilisations.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.VI-VIII Autres Utilisations et Procedes</a> <br>
-   </p>
-
- 
- <h4> 3ème partie: Production de glace par adsorption </h4>
- <p>
- 
- <a href="http://jean.boubour.pagesperso-orange.fr/3-sommaires-et-pdf/3-I-presentation-machine.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">3-Chap.I- Présentation générale de la machine à glace </a> <br>  
- <a href="http://jean.boubour.pagesperso-orange.fr/3-sommaires-et-pdf/3-II-documentation-disponible.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">3-Chap.II- La Documentation disponible </a> <br>  
- <a href="http://jean.boubour.pagesperso-orange.fr/3-sommaires-et-pdf/3-III-etude-machine.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">3-Chap.I- Etude de la machine à glace </a> <br>  
-  <a href="http://jean.boubour.pagesperso-orange.fr/3-sommaires-et-pdf/3-IV-construction-machine.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">3-Chap.IV- La Construction de la machine à glace </a> <br> 
-3-Chap.V- Fonctionnement et Performances<br>
-3-Chap.VI- Choix fondamentaux et discussion<br>
-3-Chap.VII- Documentation technique et Fournisseurs<br>
- </p>
-		 
- <p> 
-<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-Intro-Memento.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"></a></p><h4><a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-Intro-Memento.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"> 4ème partie: Memento technologique </a></h4><a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-Intro-Memento.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"> </a> 
-<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-I-Vapeur.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.I- La Vapeur</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-II-Unites-anglo-saxonnes.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.II- Unites anglo saxonnes</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-III-Tubes-Toles-Etc.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.III- Tubes, Toles, etc</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-IV-Boulons.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.IV- Boulons, Vis, Rivets</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-V-Plomberie.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.V- Plomberie et Filetages</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-VI-Brasage.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.VI- Le Brasage</a> <br>
-
- <p></p>
-  <p>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/Horizons.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"></a></p><h4><a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/Horizons.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"> 5ème partie: vers d'Autres Horizons </a></h4><a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/Horizons.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"> </a>
-<p></p>
-	<p>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/bibliographie.pdf">- Bibliographie</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/Carnot.pdf">- Le rendement de Carnot</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/anthropologie.pdf">- Cuisson et Anthropologie</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20techniques.pdf">- Cuisson solaire : quelques aspects techniques</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/effet%20echelle%20et%20ses%20ravages.pdf">- L'effet d'echelle et ses ravages</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20thermiques.pdf">- Cuisson solaire : quelques aspects thermiques</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20humains.pdf">- Cuisson solaire : quelques aspects humains</a> <br>
-- Petit panorama partiel des cuiseurs solaires</p>
-	<p>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/caloducs.pdf">Cuiseur solaire à caloducs étagés</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/proposition%20de%20chauffage%20solaire%20a%20caloducs%20pour%20hautes%20latitudes.pdf">- Proposition : Chauffage à caloducs pour les hautes latitudes</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/proposition%20machine%20a%20glace-gaz%20echappement.pdf">- Proposition : Machine à glace et gaz d'échappement</a> <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/pommes%20de%20terre%20et%20refrigeration.pdf">- Proposition : Pommes de terre et réfrigération</a> <br>
-- Cuiseur photovoltaïque <br>
-- Dessin d'un CPC pour capteur symétrique <br>
-- Un capteur symétrique avec CPC: le Culbuto <br>	</p>
-	<p>
-- épilogue <br>
-	</p>	
 	
-<p>
-  
-  </p><h4> 6ème partie: Cuiseur "Fresnel" à conduite manuelle 
-  <i>en préparation pour début 2017</i></h4>
-  6-Chap.I-Vue d'ensemble<br>
-  <br>
-  <i>Conception et Etude du cuiseur </i><br>
-  6-Chap.II-Le suivi du soleil par un capteur Fresnel<br>
-  6-Chap.III-Méthode et choix initiaux pour l'étude d'un cuiseur "Fresnel" à conduite manuelle<br>
-  6-Chap.IV-Les miroirs sous tous leurs angles<br>
-  6-Chap.V-Recherche des rayons de courbure des miroirs<br>
-  6-Chap.VI-Leviers de manoeuvre et boitiers de réglage<br>
-  6-Chap.VII-Le CPC du second étage et le couplage du premier et du second étage<br>
-  6-Chap.VIII-Commentaires<br>
-  6-Chap.IX-Récapitulation des éléments théoriques et des cotes de construction<br>
-  <br>
-  <i>Construction du cuiseur</i> 
-  6-Chap.X-Les poutres<br>
-  6-Chap.XI-Les miroirs du Ier étage<br>
-  6-Chap.XII-Le CPC<br>
-  6-Chap.XIII-La charpente du cuiseur<br>
-  6-Chap.XIV-Dispositif manuel de suivi du soleil<br>
-  6-Chap.XV-Le circuit de vapeur<br>
-  6-Chap.XVI-Installation du cuiseur<br>
-  6-Chap.XVI-Conduite du cuiseur<br>
-  
-<p></p>
-
-
-	
-	</div><!-- navig -->
-	 
-<!-- ==========  fin de navigation ===============  début de acoté -->
-<!-- ====   Liens vers des avis divers === -->
-<div id="acote">
-<p> 
-Si les liens de navigation ne fonctionnent pas bien, <a href="http://jean.boubour.pagesperso-orange.fr/bibliotheque/problemes-liens.htm">cliquer ici </a>
-</p>
-<hr>
-<p> 
-Would you like a poster ?<br>
-Choose a size: 
-<a href="http://jean.boubour.pagesperso-orange.fr/bibliotheque/posterA4.pdf"> size A4</a>  , or <br>
-<a href="http://jean.boubour.pagesperso-orange.fr/bibliotheque/posterA0.pdf"> size A3</a> , or
-<a href="http://jean.boubour.pagesperso-orange.fr/bibliotheque/posterA0.pdf"> A2</a> , or
-<a href="http://jean.boubour.pagesperso-orange.fr/bibliotheque/posterA0.pdf"> A1</a> , or
-<a href="http://jean.boubour.pagesperso-orange.fr/bibliotheque/posterA0.pdf"> A0</a> . 
-</p>
-<hr>
-<!-- ====   Liens vers des video ===
-<h4 style= "margin: 0px;">vidéos </h4>
-<p>
-Accédez ici à une vidéo sur <a href=""><br /> La production de vapeur </a> <br />
-Accédez ici à une vidéo sur <a href=""><br /> La stérilisation médicale </a> <br />
-Accédez ici à une vidéo sur <a href=""><br /> La cuisson alimentaire </a> <br />
-</p>
-<hr />
- -->
-
-<!-- ====   début de la galerie photos === -->
-
-
-
-	<h4 style="margin: 0px;"> galerie photos </h4>
-<p> cliquez sur une photo pour l'agrandir</p>
-<p>
-
-
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo1.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign1.jpg" alt="vue d'ensemble"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo2.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign2.jpg" alt="Lever de soupape"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo3.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign3.jpg" alt="schéma optique"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo4.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign4.jpg" alt="coupe du capteur"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo5.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign5.jpg" alt="un miroir posé sur la poutre"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo6.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign6.jpg" alt="miroir vu de dessous"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo7.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign7.jpg" alt="La caisse de rangement des miroirs"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo8.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign8.jpg" alt="La poutre tubulaire, vue d'ensemble"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo9.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign9.jpg" alt="Extrait du plan de construction"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo10.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign10.jpg" alt="montage du capteur, préparation du matériel"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo11.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign11.jpg" alt="La face Nadir en cours de montage"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo12.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign12.jpg" alt="détail du tube-axe"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo13.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign13.jpg" alt="la partie centrale est montée"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo14.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign14.jpg" alt="détail des assemblages"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo15.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign15.jpg" alt="le montage de la poutre est achevé"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo16.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign16.jpg" alt="Le système de pointage"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo17.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign17.jpg" alt="Le Concentrateur Parabolique Composé, vu par le dessous"> </a>
-
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo18.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign18.jpg" alt="plaque à vapeur vue de dessus"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo19.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign19.jpg" alt="plaque à vapeur vue de dessous"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo20.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign20.jpg" alt="un caisson isolant"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo21.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign21.jpg" alt="un autre caisson isolant"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo22.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign22.jpg" alt="Les stérilisateurs médicaux"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo23.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign23.jpg" alt="les stérilisateurs dans le caisson"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo24.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign24.jpg" alt="une cuisson de pommes de terre"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo25.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign25.jpg" alt="Machine à glace: le réacteur et l'échangeur"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo26.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign26.jpg" alt="La machine à glace en cours d'assemblage"> </a>
-<a href="http://jean.boubour.pagesperso-orange.fr/photos/photo27.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"><img src="Documentation%20soleil-vapeur.org%20Nov%202012%20_%20Fev%202016_files/vign27.jpg" alt="Capteur solaire à caloducs étagés"> </a>
-
-
-</p>
-	
-	
-	</div><!-- acote -->	 
-
-<!-- ====== fin de la galerie photos ===== début de la partie cenrale du corps ====== -->
-	
-	<div id="corps">
-	
-	
-<marquee direction="up" behavior="scroll" scrollamount="1" onmouseover="this.setAttribute('scrollamount', 0);" onmouseout="this.setAttribute('scrollamount', 1);" style="height:60px;width:400px;background-color:#ffffff;
-font-family:Times;font-size:12pt;color:#000000;border-width:0px;border-style:solid;border-color:#000000;"> 
-Janvier 2016 - Cuiseur solaire thermique à caloducs étagés. <br>
-Voir en 5ème partie de la documentation.<br>
-<br>
-En préparation pour début 2017 : Un cuiseur "Fresnel" <br>
-à conduite manuelle, voir 6ème partie.</marquee>
-<br><br>
-
-
 <p> Novembre 2012 / Février 2016</p>
-		<p style="font-weight: bold;"> Bienvenue sur le site de documentation de soleil-vapeur.org</p> 
         
- 
- <p> 
-<a href="http://jean.boubour.pagesperso-orange.fr/bibliotheque/quatre-pages.pdf">FR résumé en quatre pages .pdf </a><br>
-<a href="http://jean.boubour.pagesperso-orange.fr/bibliotheque/four-pages.pdf">GB four pages sum up .pdf </a><br>
-<a href="http://jean.boubour.pagesperso-orange.fr/bibliotheque/cuatro-paginas.pdf">ES resumen en cuatro páginas .pdf </a><br>
-<a href="http://jean.boubour.pagesperso-orange.fr/bibliotheque/vier-seiten.pdf">DE vierseitige Kurzfassung.pdf </a>
-</p>
-
-
- <p style="text-align: right;"> 
-Welcome. Capteur-Soleil is a Solar Thermal Device using<br>
-Steam for Medical Wet Sterilization, for Cooking, and for<br>
-making Ice. 212-327°F /0-87 psi /1 700-34 000 Btu/h
-</p>
      
-        
 <p> Le propos est de rassembler les connaissances scientifiques et 
 technologiques relatives à la conception, la construction et 
 l'utilisation d'une installation solaire thermique à moyenne température
@@ -340,8 +75,6 @@ températures plus élevées, ne sont pas pour le moment une priorité dans
 les travaux de soleil-vapeur,  mais l'expérience acquise permet d'ores 
 et déjà de paramétrer un capteur apte à cuire du pain.</p>
 
-<p>-o-o-o-o-o-o-o-o-o-o-o-o-</p>
-
 <p>Les travaux concernant l'installation solaire se sont déroulés 
 principalement dans le cadre associatif de soleil-vapeur.org qui 
 regroupait initialement quelques bretons de la région de Brest en 
@@ -358,7 +91,7 @@ cette saga ne connait pas encore son point final, quelques chapîtres
 restent encore à écrire, particulièrement au sujet de la production de 
 la glace.</p>
 
-<p>-o-o-o-o-o-o-o-o-o-o-o-o-</p>
+------------
 
 <p>	Une machine de production de glace par adsoption (avec zéolite), 
 fonctionnant avec la vapeur produite par le capteur, a été 
@@ -371,7 +104,7 @@ l'objet d'une publication. Si la seconde machine  confirme les résultats
 2014.
 </p>
 
-<p>-o-o-o-o-o-o-o-o-o-o-o-o-</p>
+------------
 
 <p>On présente ci dessous tous les éléments nécessaires pour construire 
 une petite installation avec une surface de miroirs de 2m². En raison 
@@ -532,40 +265,107 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 	
 </ul>
 
-Contacts:<p></p>
-<p>
- jean.boubour@orange.fr<br>    
-	Jean Boubour<br>  
-	F 319	<br>  
-	6  Rue Nicolas Copernic <br>  
-	F - 27000 EVREUX<br>  
-	33  (0)6 79 87 78 64</p>
 
- <p>  Bernard Le Herissier  &nbsp; &nbsp;	bernpier@wanadoo.fr       </p>
-
- <p> 	Douglas Schuler	&nbsp; &nbsp;	schuler@rice.edu	          </p>
- <p>
-
+	<div id="navig">
+		<p style=" text-align: center;"> Accédez ici aux sommaires  puis aux versions complètes des chapitres</p>
+		<h4> 1ère partie: le capteur et la production de vapeur </h4>
+		<p> 
+<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-I-dossier-calculs.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.I- Dossier de calculs </a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-II-conception.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.II- Conception du capteur </a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-III-etude-capteur.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.III- Etude du capteur </a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-IV-etude-circuit.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.IV- Etude du circuit de  production de vapeur </a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-V-Construction.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.V- Construction du capteur </a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-VI-Installation-etc.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.VI- Installation, Conduite, Performances, Maintenance </a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-VII-Malle-Pedagogique.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.VII- La Malle Pedagogique </a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-VIII-Plans-Informatiques.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.VIII- Plans Informatiques </a> <br>	
+<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-IX-ombre-portee.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.IX- Ombre portée d'un baton </a> <br>	
+<a href="http://jean.boubour.pagesperso-orange.fr/1-sommaires-et-pdf/1-X-positions-capteur.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">1-Chap.X- Positions du capteur </a> <br>	
 </p>
 
-	</div><!-- corps -->
+
+		<h4> 2ème partie: Utilisation de la vapeur </h4>
+		 <p> 
+  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-I-Plaque.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.I- La plaque chauffante à vapeur </a> <br>       
+  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-II-Caisson.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.II- Le Caisson isolant </a> <br> 
+  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-III-Sterilisation.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.III- La Stérilisation Médicale </a> <br> 
+  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-IV-Cuisson.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.IV- La Cuisson Alimentaire </a> <br>
+  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-V-Performances-etc.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.V- Performances et autres concepts </a> <br>
+  <a href="http://jean.boubour.pagesperso-orange.fr/2-sommaires-et-pdf/2-VI-VIII-Autres-Utilisations.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">2-Chap.VI-VIII Autres Utilisations et Procedes</a> <br>
+   </p>
+
  
+ <h4> 3ème partie: Production de glace par adsorption </h4>
+ <p>
+ 
+ <a href="http://jean.boubour.pagesperso-orange.fr/3-sommaires-et-pdf/3-I-presentation-machine.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">3-Chap.I- Présentation générale de la machine à glace </a> <br>  
+ <a href="http://jean.boubour.pagesperso-orange.fr/3-sommaires-et-pdf/3-II-documentation-disponible.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">3-Chap.II- La Documentation disponible </a> <br>  
+ <a href="http://jean.boubour.pagesperso-orange.fr/3-sommaires-et-pdf/3-III-etude-machine.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">3-Chap.I- Etude de la machine à glace </a> <br>  
+  <a href="http://jean.boubour.pagesperso-orange.fr/3-sommaires-et-pdf/3-IV-construction-machine.htm" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">3-Chap.IV- La Construction de la machine à glace </a> <br> 
+3-Chap.V- Fonctionnement et Performances<br>
+3-Chap.VI- Choix fondamentaux et discussion<br>
+3-Chap.VII- Documentation technique et Fournisseurs<br>
+ </p>
+		 
+ <p> 
+<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-Intro-Memento.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"></a></p><h4><a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-Intro-Memento.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"> 4ème partie: Memento technologique </a></h4><a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-Intro-Memento.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"> </a> 
+<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-I-Vapeur.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.I- La Vapeur</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-II-Unites-anglo-saxonnes.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.II- Unites anglo saxonnes</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-III-Tubes-Toles-Etc.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.III- Tubes, Toles, etc</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-IV-Boulons.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.IV- Boulons, Vis, Rivets</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-V-Plomberie.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.V- Plomberie et Filetages</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/4-sommaires-et-pdf/4-VI-Brasage.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false">4-Chap.VI- Le Brasage</a> <br>
+
+ <p></p>
+  <p>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/Horizons.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"></a></p><h4><a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/Horizons.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"> 5ème partie: vers d'Autres Horizons </a></h4><a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/Horizons.html" target="popup" onclick="popup_ouvrir(this.href,this.target);return false"> </a>
+<p></p>
+	<p>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/bibliographie.pdf">- Bibliographie</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/Carnot.pdf">- Le rendement de Carnot</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/anthropologie.pdf">- Cuisson et Anthropologie</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20techniques.pdf">- Cuisson solaire : quelques aspects techniques</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/effet%20echelle%20et%20ses%20ravages.pdf">- L'effet d'echelle et ses ravages</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20thermiques.pdf">- Cuisson solaire : quelques aspects thermiques</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20humains.pdf">- Cuisson solaire : quelques aspects humains</a> <br>
+- Petit panorama partiel des cuiseurs solaires</p>
+	<p>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/caloducs.pdf">Cuiseur solaire à caloducs étagés</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/proposition%20de%20chauffage%20solaire%20a%20caloducs%20pour%20hautes%20latitudes.pdf">- Proposition : Chauffage à caloducs pour les hautes latitudes</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/proposition%20machine%20a%20glace-gaz%20echappement.pdf">- Proposition : Machine à glace et gaz d'échappement</a> <br>
+<a href="http://jean.boubour.pagesperso-orange.fr/5-sommaires-et-pdf/pommes%20de%20terre%20et%20refrigeration.pdf">- Proposition : Pommes de terre et réfrigération</a> <br>
+- Cuiseur photovoltaïque <br>
+- Dessin d'un CPC pour capteur symétrique <br>
+- Un capteur symétrique avec CPC: le Culbuto <br>	</p>
+	<p>
+- épilogue <br>
+	</p>	
 	
-</div><!-- global -->
+<p>
+  
+  </p><h4> 6ème partie: Cuiseur "Fresnel" à conduite manuelle 
+  <i>en préparation pour début 2017</i></h4>
+  6-Chap.I-Vue d'ensemble<br>
+  <br>
+  <i>Conception et Etude du cuiseur </i><br>
+  6-Chap.II-Le suivi du soleil par un capteur Fresnel<br>
+  6-Chap.III-Méthode et choix initiaux pour l'étude d'un cuiseur "Fresnel" à conduite manuelle<br>
+  6-Chap.IV-Les miroirs sous tous leurs angles<br>
+  6-Chap.V-Recherche des rayons de courbure des miroirs<br>
+  6-Chap.VI-Leviers de manoeuvre et boitiers de réglage<br>
+  6-Chap.VII-Le CPC du second étage et le couplage du premier et du second étage<br>
+  6-Chap.VIII-Commentaires<br>
+  6-Chap.IX-Récapitulation des éléments théoriques et des cotes de construction<br>
+  <br>
+  <i>Construction du cuiseur</i> 
+  6-Chap.X-Les poutres<br>
+  6-Chap.XI-Les miroirs du Ier étage<br>
+  6-Chap.XII-Le CPC<br>
+  6-Chap.XIII-La charpente du cuiseur<br>
+  6-Chap.XIV-Dispositif manuel de suivi du soleil<br>
+  6-Chap.XV-Le circuit de vapeur<br>
+  6-Chap.XVI-Installation du cuiseur<br>
+  6-Chap.XVI-Conduite du cuiseur<br>
+  
+<p></p>
 
-<script type="text/javascript">
-//<![CDATA[
-if (typeof _gstat != "undefined") _gstat.audience('','pagesperso-orange.fr');
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof _gstat != "undefined") _gstat.audience('','pagesperso-orange.fr');
-//]]>
-</script>
 
-
-
-
-
-</body><!-- Mirrored from jean.boubour.pagesperso-orange.fr/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Dec 2016 12:01:34 GMT --></html>
