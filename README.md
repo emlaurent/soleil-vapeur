@@ -288,12 +288,12 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 
 ### 2ème partie: Utilisation de la vapeur 
 <p> 
-<a href="2-sommaires-et-pdf/2-I-Plaque.pdf">2-Chap.I- La plaque chauffante à vapeur (version PDF)</a> - version
+<a href="2-sommaires-et-pdf/2-Chap-I-Plaque.pdf">2-Chap.I- La plaque chauffante à vapeur (version PDF)</a> - version
 <a href="2-sommaires-et-pdf/2-Chap-I-Plaque.md">markdown </a> <br>
-<a href="2-sommaires-et-pdf/2-II-Caisson.pdf">2-Chap.II- Le Caisson isolant </a> <br> 
-<a href="2-sommaires-et-pdf/2-III-Sterilisation.pdf">2-Chap.III- La Stérilisation Médicale </a> <br> 
-<a href="2-sommaires-et-pdf/2-IV-Cuisson.pdf">2-Chap.IV- La Cuisson Alimentaire </a> <br>
-<a href="2-sommaires-et-pdf/2-V-Performances-etc.pdf">2-Chap.V- Performances et autres concepts </a> <br>
+<a href="2-sommaires-et-pdf/2-Chap-II-Caisson.pdf">2-Chap.II- Le Caisson isolant </a> <br> 
+<a href="2-sommaires-et-pdf/2-Chap-III-Sterilisation.pdf">2-Chap.III- La Stérilisation Médicale </a> <br> 
+<a href="2-sommaires-et-pdf/2-Chap-IV-Cuisson.pdf">2-Chap.IV- La Cuisson Alimentaire </a> <br>
+<a href="2-sommaires-et-pdf/2-Chap-V-Performances-etc.pdf">2-Chap.V- Performances et autres concepts </a> <br>
 <a href="2-sommaires-et-pdf/2-VI-VIII-Autres-Utilisations.html">2-Chap.VI-VIII Autres Utilisations et Procedes</a> <br>
 </p>
 
