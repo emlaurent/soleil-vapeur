@@ -288,10 +288,10 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 <a href="2-sommaires-et-pdf/2-Chap-I-Plaque.md">version PDF</a> <br>
 [Version markdown](2-sommaires-et-pdf/2-Chap-I-Plaque.md) visible en ligne <br>
 <a href="2-sommaires-et-pdf/2-Chap-II-Caisson.pdf">2-Chap.II- Le Caisson isolant </a> <br> 
-<a href="2-sommaires-et-pdf/2-Chap-III-Sterilisation.pdf">2-Chap.III- La Stérilisation Médicale </a> <br> 
-<a href="2-sommaires-et-pdf/2-Chap-IV-Cuisson.pdf">2-Chap.IV- La Cuisson Alimentaire </a> <br>
-<a href="2-sommaires-et-pdf/2-Chap-V-Performances-etc.pdf">2-Chap.V- Performances et autres concepts </a> <br>
-<a href="2-sommaires-et-pdf/2-VI-VIII-Autres-Utilisations.html">2-Chap.VI-VIII Autres Utilisations et Procedes</a> <br>
+* <a href="2-sommaires-et-pdf/2-Chap-III-Sterilisation.pdf">2-Chap.III- La Stérilisation Médicale </a> 
+  * <a href="2-sommaires-et-pdf/2-Chap-IV-Cuisson.pdf">2-Chap.IV- La Cuisson Alimentaire </a>
+  * <a href="2-sommaires-et-pdf/2-Chap-V-Performances-etc.pdf">2-Chap.V- Performances et autres concepts </a>
+  * <a href="2-sommaires-et-pdf/2-VI-VIII-Autres-Utilisations.html">2-Chap.VI-VIII Autres Utilisations et Procedes</a>
 
 ### 3ème partie: Production de glace par adsorption 
 <p> 
