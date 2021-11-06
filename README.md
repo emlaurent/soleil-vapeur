@@ -258,7 +258,7 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 <li>Partie 4    Mémento technologique</li>
 <li>Partie 5    Vers d'autres horizons</li>
 <li>Partie 6    Cuiseur "Fresnel" à conduite manuelle</li> 
-
+<br>
 ### 1ère partie: le capteur et la production de vapeur
 <p> 
 <a href="1-I-dossier-calculs.pdf">1-Chap.I- Dossier de calculs </a> <br>
