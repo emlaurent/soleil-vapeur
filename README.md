@@ -1,11 +1,20 @@
 # Documentation de soleil-vapeur
 
 Cuisson alimentaire, Stérilisation médicale<br> 
- Production de glace par adsorption<br> 
- avec le groupe solaire thermique à vapeur "soleil-vapeur"<br> 
+Production de glace par adsorption<br> 
+avec le groupe solaire thermique à vapeur "soleil-vapeur"<br> 
 100 à 164°C / 0 à 6 bar / 0.5 à 10 kW
-	
-## Introduction     
+
+## Contexte
+
+Un travail de conception et d'expérimentation autour de systèmes solaires pour produire de la vapeur a été mené entre les années 1990 et 2017 par un petit groupe de chercheurs et d'ingénieurs indépendants en France et aux USA.
+Les résultats de ces travaux ont été soigneusement documentés entre 2012 et 2017. Depuis le groupe de travail n'est plus actif.
+Pour ne pas perdre cet énorme effort de documentation, Emmanuel a repris tous les documents et repris le site web
+
+Cette documentation, accessible en bas de cette page (ou par les liens sur la gauche), mériterait d'être mise à jour ( corrections des liens vers les fournisseurs, pagination, ...). Certaines parties n'ont pas été écrites
+
+
+## Introduction au travail de conception
 Le propos est de rassembler les connaissances scientifiques et 
 technologiques relatives à la conception, la construction et 
 l'utilisation d'une installation solaire thermique à moyenne température
@@ -18,15 +27,15 @@ besoin.
  
 <p>Cette installation solaire comprend.</p>
 <p>
-- Un dispositif de <em>production de vapeur</em> à l'aide d'un capteur solaire thermique à conduite manuelle, composé de<br>
+- **Un dispositif de <em>production de vapeur</em> à l'aide d'un capteur solaire thermique à conduite manuelle, composé de**<br>
   - un miroir cylindro parabolique, orienté Est-Ouest <br>
   - un Concentrateur Parabolique Composé,<br>
   - une chaudière, en l'occurence un tube installé en fond du Concentrateur,<br>
   - une charpente tubulaire,<br>
   - un dispositif manuel de pointage du capteur,.</p>
 <p>
-- Des  dispositifs <em>d'utilisation de la vapeur</em>, parmi lesquels 
-notamment une plaque de cuisson à vapeur, au fonctionnement identique à 
+- **Des  dispositifs <em>d'utilisation de la vapeur</em>, parmi lesquels 
+notamment une plaque de cuisson à vapeur**, au fonctionnement identique à 
 celui d'une plaque de cuisson électrique, sur laquelle l'utilisateur 
 pose son récipient de cuisson alimentaire ou de stérilisation médicale. 
 D'autres dispositifs (serpentin immergé, serpentin extérieur au 
