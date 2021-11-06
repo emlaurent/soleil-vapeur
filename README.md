@@ -272,6 +272,7 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 <li>Partie 5    Vers d'autres horizons</li>
 <li>Partie 6    Cuiseur "Fresnel" à conduite manuelle</li> 
 <br>
+
 ### 1ère partie: le capteur et la production de vapeur
 <p> 
 <a href="1-I-dossier-calculs.pdf">1-Chap.I- Dossier de calculs </a> <br>
@@ -287,6 +288,11 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 </p>
 
 ### 2ème partie: Utilisation de la vapeur 
+[markdown](2-sommaires-et-pdf/2-Chap-I-Plaque.md)
+
+<a href="2-sommaires-et-pdf/2-Chap-I-Plaque.pdf">2-Chap.I- La plaque chauffante à vapeur (version PDF)</a> - version
+<a href="2-sommaires-et-pdf/2-Chap-I-Plaque.md">markdown </a>
+
 <p> 
 <a href="2-sommaires-et-pdf/2-Chap-I-Plaque.pdf">2-Chap.I- La plaque chauffante à vapeur (version PDF)</a> - version
 <a href="2-sommaires-et-pdf/2-Chap-I-Plaque.md">markdown </a> <br>
