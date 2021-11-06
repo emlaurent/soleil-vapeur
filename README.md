@@ -252,12 +252,12 @@ détaillée figure en tête de chaque chapître. <br>
 Tous les documents  pdf sont datés en pied de page.<br>
 Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 </p>
-- <li>Partie I	Le capteur solaire et la production de vapeur</li>	
+<li>Partie 1	Le capteur solaire et la production de vapeur</li>	
 <li>Partie 2    Cuisson alimentaire et stérilisation médicale</li>
 <li>Partie 3    Production de glace par adsoption</li>
 <li>Partie 4    Mémento technologique</li>
 <li>Partie 5    Vers d'autres horizons</li>
-	
+<li>Partie 6    Cuiseur "Fresnel" à conduite manuelle</li> 
 
 ### 1ère partie: le capteur et la production de vapeur
 <p> 
@@ -296,7 +296,7 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
  
 ### 4ème partie: Memento technologique
 <p> 
-<a href="4-Intro-Memento.pdf"></a>
+<a href="4-Intro-Memento.pdf">Intro au Memento</a> <br>
 <a href="4-I-Vapeur.pdf">4-Chap.I- La Vapeur</a> <br>
 <a href="4-II-Unites-anglo-saxonnes.pdf">4-Chap.II- Unites anglo saxonnes</a> <br>
 <a href="4-III-Tubes-Toles-Etc.pdf">4-Chap.III- Tubes, Toles, etc</a> <br>
@@ -307,7 +307,7 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 
 ### 5ème partie: vers d'Autres Horizons
 <p> 
-<a href="Horizons.pdf"> </a> <br>
+<a href="Horizons.pdf">- Vers d'Autres Horizons</a> <br>
 <a href="bibliographie.pdf">- Bibliographie</a> <br>
 <a href="Carnot.pdf">- Le rendement de Carnot</a> <br>
 <a href="anthropologie.pdf">- Cuisson et Anthropologie</a> <br>
