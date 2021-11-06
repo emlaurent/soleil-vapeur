@@ -1,10 +1,5 @@
 # Documentation de soleil-vapeur
 
-*gras*  
-**gras texte**  
-_gras_  
-__gras texte__  
-
 Cuisson alimentaire, Stérilisation médicale<br> 
 Production de glace par adsorption<br> 
 avec le groupe solaire thermique à vapeur "soleil-vapeur"<br> 
@@ -288,20 +283,15 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 </p>
 
 ### 2ème partie: Utilisation de la vapeur 
-[markdown](2-sommaires-et-pdf/2-Chap-I-Plaque.md)
 
-<a href="2-sommaires-et-pdf/2-Chap-I-Plaque.pdf">2-Chap.I- La plaque chauffante à vapeur (version PDF)</a> - version
-<a href="2-sommaires-et-pdf/2-Chap-I-Plaque.md">markdown </a>
-
-<p> 
-<a href="2-sommaires-et-pdf/2-Chap-I-Plaque.pdf">2-Chap.I- La plaque chauffante à vapeur (version PDF)</a> - version
-<a href="2-sommaires-et-pdf/2-Chap-I-Plaque.md">markdown </a> <br>
+2-Chap.I- La plaque chauffante à vapeur 
+<a href="2-sommaires-et-pdf/2-Chap-I-Plaque.md">version PDF</a> <br>
+[Version markdown](2-sommaires-et-pdf/2-Chap-I-Plaque.md) visible en ligne <br>
 <a href="2-sommaires-et-pdf/2-Chap-II-Caisson.pdf">2-Chap.II- Le Caisson isolant </a> <br> 
 <a href="2-sommaires-et-pdf/2-Chap-III-Sterilisation.pdf">2-Chap.III- La Stérilisation Médicale </a> <br> 
 <a href="2-sommaires-et-pdf/2-Chap-IV-Cuisson.pdf">2-Chap.IV- La Cuisson Alimentaire </a> <br>
 <a href="2-sommaires-et-pdf/2-Chap-V-Performances-etc.pdf">2-Chap.V- Performances et autres concepts </a> <br>
 <a href="2-sommaires-et-pdf/2-VI-VIII-Autres-Utilisations.html">2-Chap.VI-VIII Autres Utilisations et Procedes</a> <br>
-</p>
 
 ### 3ème partie: Production de glace par adsorption 
 <p> 
