@@ -284,20 +284,21 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 
 ### 2ème partie: Utilisation de la vapeur 
 <p> 
-<a href="2-I-Plaque.pdf">2-Chap.I- La plaque chauffante à vapeur </a> <br>
-<a href="2-II-Caisson.pdf">2-Chap.II- Le Caisson isolant </a> <br> 
-<a href="2-III-Sterilisation.pdf">2-Chap.III- La Stérilisation Médicale </a> <br> 
-<a href="2-IV-Cuisson.pdf">2-Chap.IV- La Cuisson Alimentaire </a> <br>
-<a href="2-V-Performances-etc.pdf">2-Chap.V- Performances et autres concepts </a> <br>
-<a href="2-VI-VIII-Autres-Utilisations.pdf">2-Chap.VI-VIII Autres Utilisations et Procedes</a> <br>
+<a href="2-sommaires-et-pdf/2-I-Plaque.pdf">2-Chap.I- La plaque chauffante à vapeur (version PDF)</a> -
+<a href="2-sommaires-et-pdf/2-Chap-I-Plaque.md">version markdown </a> <br>
+<a href="2-sommaires-et-pdf/2-II-Caisson.pdf">2-Chap.II- Le Caisson isolant </a> <br> 
+<a href="2-sommaires-et-pdf/2-III-Sterilisation.pdf">2-Chap.III- La Stérilisation Médicale </a> <br> 
+<a href="2-sommaires-et-pdf/2-IV-Cuisson.pdf">2-Chap.IV- La Cuisson Alimentaire </a> <br>
+<a href="2-sommaires-et-pdf/2-V-Performances-etc.pdf">2-Chap.V- Performances et autres concepts </a> <br>
+<a href="2-sommaires-et-pdf/2-VI-VIII-Autres-Utilisations.html">2-Chap.VI-VIII Autres Utilisations et Procedes</a> <br>
 </p>
 
 ### 3ème partie: Production de glace par adsorption 
 <p> 
-<a href="3-I-presentation-machine.pdf">3-Chap.I- Présentation générale de la machine à glace </a> <br>
-<a href="3-II-documentation-disponible.pdf">3-Chap.II- La Documentation disponible </a> <br>
-<a href="3-III-etude-machine.pdf">3-Chap.I- Etude de la machine à glace </a> <br>
-<a href="3-IV-construction-machine.pdf">3-Chap.IV- La Construction de la machine à glace </a> <br> 
+<a href="3-sommaires-et-pdf/3-I-presentation-machine.pdf">3-Chap.I- Présentation générale de la machine à glace </a> <br>
+<a href="3-sommaires-et-pdf/3-II-documentation-disponible.pdf">3-Chap.II- La Documentation disponible </a> <br>
+<a href="3-sommaires-et-pdf/3-III-etude-machine.pdf">3-Chap.I- Etude de la machine à glace </a> <br>
+<a href="3-sommaires-et-pdf/3-IV-construction-machine.pdf">3-Chap.IV- La Construction de la machine à glace </a> <br> 
 3-Chap.V- Fonctionnement et Performances<br>
 3-Chap.VI- Choix fondamentaux et discussion<br>
 3-Chap.VII- Documentation technique et Fournisseurs<br>
@@ -305,30 +306,30 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
  
 ### 4ème partie: Memento technologique
 <p> 
-<a href="4-Intro-Memento.pdf">Intro au Memento</a> <br>
-<a href="4-I-Vapeur.pdf">4-Chap.I- La Vapeur</a> <br>
-<a href="4-II-Unites-anglo-saxonnes.pdf">4-Chap.II- Unites anglo saxonnes</a> <br>
-<a href="4-III-Tubes-Toles-Etc.pdf">4-Chap.III- Tubes, Toles, etc</a> <br>
-<a href="4-IV-Boulons.pdf">4-Chap.IV- Boulons, Vis, Rivets</a> <br>
-<a href="4-V-Plomberie.pdf">4-Chap.V- Plomberie et Filetages</a> <br>
-<a href="4-VI-Brasage.pdf">4-Chap.VI- Le Brasage</a> <br>
+<a href="4-sommaires-et-pdf/4-Intro-Memento.pdf"></a>
+<a href="4-sommaires-et-pdf/4-I-Vapeur.pdf">4-Chap.I- La Vapeur</a> <br>
+<a href="4-sommaires-et-pdf/4-II-Unites-anglo-saxonnes.pdf">4-Chap.II- Unites anglo saxonnes</a> <br>
+<a href="4-sommaires-et-pdf/4-III-Tubes-Toles-Etc.pdf">4-Chap.III- Tubes, Toles, etc</a> <br>
+<a href="4-sommaires-et-pdf/4-IV-Boulons.pdf">4-Chap.IV- Boulons, Vis, Rivets</a> <br>
+<a href="4-sommaires-et-pdf/4-V-Plomberie.pdf">4-Chap.V- Plomberie et Filetages</a> <br>
+<a href="4-sommaires-et-pdf/4-VI-Brasage.pdf">4-Chap.VI- Le Brasage</a> <br>
 </p>
 
 ### 5ème partie: vers d'Autres Horizons
 <p> 
-<a href="Horizons.pdf">- Vers d'Autres Horizons</a> <br>
-<a href="bibliographie.pdf">- Bibliographie</a> <br>
-<a href="Carnot.pdf">- Le rendement de Carnot</a> <br>
-<a href="anthropologie.pdf">- Cuisson et Anthropologie</a> <br>
-<a href="cuisson%20solaire%20-%20quelques%20aspects%20techniques.pdf">- Cuisson solaire : quelques aspects techniques</a> <br>
-<a href="effet%20echelle%20et%20ses%20ravages.pdf">- L'effet d'echelle et ses ravages</a> <br>
-<a href="cuisson%20solaire%20-%20quelques%20aspects%20thermiques.pdf">- Cuisson solaire : quelques aspects thermiques</a> <br>
-<a href="cuisson%20solaire%20-%20quelques%20aspects%20humains.pdf">- Cuisson solaire : quelques aspects humains</a> <br>
+<a href="5-sommaires-et-pdf/Horizons.pdf"> </a> <br>
+<a href="5-sommaires-et-pdf/bibliographie.pdf">- Bibliographie</a> <br>
+<a href="5-sommaires-et-pdf/Carnot.pdf">- Le rendement de Carnot</a> <br>
+<a href="5-sommaires-et-pdf/anthropologie.pdf">- Cuisson et Anthropologie</a> <br>
+<a href="5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20techniques.pdf">- Cuisson solaire : quelques aspects techniques</a> <br>
+<a href="5-sommaires-et-pdf/effet%20echelle%20et%20ses%20ravages.pdf">- L'effet d'echelle et ses ravages</a> <br>
+<a href="5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20thermiques.pdf">- Cuisson solaire : quelques aspects thermiques</a> <br>
+<a href="5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20humains.pdf">- Cuisson solaire : quelques aspects humains</a> <br>
 - Petit panorama partiel des cuiseurs solaires<br>
-<a href="caloducs.pdf">Cuiseur solaire à caloducs étagés</a> <br>
-<a href="proposition%20de%20chauffage%20solaire%20a%20caloducs%20pour%20hautes%20latitudes.pdf">- Proposition : Chauffage à caloducs pour les hautes latitudes</a> <br>
-<a href="proposition%20machine%20a%20glace-gaz%20echappement.pdf">- Proposition : Machine à glace et gaz d'échappement</a> <br>
-<a href="pommes%20de%20terre%20et%20refrigeration.pdf">- Proposition : Pommes de terre et réfrigération</a> <br>
+<a href="5-sommaires-et-pdf/caloducs.pdf">Cuiseur solaire à caloducs étagés</a> <br>
+<a href="5-sommaires-et-pdf/proposition%20de%20chauffage%20solaire%20a%20caloducs%20pour%20hautes%20latitudes.pdf">- Proposition : Chauffage à caloducs pour les hautes latitudes</a> <br>
+<a href="5-sommaires-et-pdf/proposition%20machine%20a%20glace-gaz%20echappement.pdf">- Proposition : Machine à glace et gaz d'échappement</a> <br>
+<a href="5-sommaires-et-pdf/pommes%20de%20terre%20et%20refrigeration.pdf">- Proposition : Pommes de terre et réfrigération</a> <br>
 - Cuiseur photovoltaïque <br>
 - Dessin d'un CPC pour capteur symétrique <br>
 - Un capteur symétrique avec CPC: le Culbuto <br>
