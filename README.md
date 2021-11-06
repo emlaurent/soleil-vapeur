@@ -27,14 +27,14 @@ besoin.
  
 <p>Cette installation solaire comprend.</p>
 <p>
-- **Un dispositif de <em>production de vapeur</em> à l'aide d'un capteur solaire thermique à conduite manuelle, composé de**<br>
+- _Un dispositif de <em>production de vapeur</em> à l'aide d'un capteur solaire thermique à conduite manuelle_, composé de<br>
   - un miroir cylindro parabolique, orienté Est-Ouest <br>
   - un Concentrateur Parabolique Composé,<br>
   - une chaudière, en l'occurence un tube installé en fond du Concentrateur,<br>
   - une charpente tubulaire,<br>
   - un dispositif manuel de pointage du capteur,.</p>
 <p>
-- **Des  dispositifs <em>d'utilisation de la vapeur</em>, parmi lesquels 
+- __Des  dispositifs__ <em>d'utilisation de la vapeur</em>, parmi _lesquels_ 
 notamment une plaque de cuisson à vapeur**, au fonctionnement identique à 
 celui d'une plaque de cuisson électrique, sur laquelle l'utilisateur 
 pose son récipient de cuisson alimentaire ou de stérilisation médicale. 
