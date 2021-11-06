@@ -18,28 +18,28 @@ Chap VIII – Autres modes d'utilisation de la vapeur
 ```
 # Chapitre I LA PLAQUE CHAUFFANTE A VAPEUR
 
-pages
-2 Section I -PRESENTATION DE LA PLAQUE CHAUFFANTE A VAPEUR
-4 Section II – ETUDE D LA PLAQUE CHAUFFANTE A VAPEUR
-4 § 1) Approvisionnement, débit et marquage des plaques
-5 § 2) Usinage au tour
-6 § 3) Percements et taraudages des plaques
-10 § 4) La gravure du circuit de vapeur
-13 § 5) L'assemblage
-13 § 6 Les entrées et sorties de vapeur
-13 § 7 Le choix du joint torique
-15 § 8 Perfectionnements envisageables
-15 § 9 Cotes pour une plaque Ø 216 mm
-20 Section III FABRICATION DE LA PLAQUE CHAUFFANTE A VAPEUR
-20 § 1 Approvisionnement, débit et marquage des plaques
-21 § 2 Usinage sur tour
-22 § 3 Percements et taraudages
-25 § 4 La gravure du circuit de vapeur
-27 § 5 L'assemblage
-28 Section IV UTILISATION ET PERFORMANCES DE LA PLAQUE A VAPEUR
-28 § 1 Utilisation
-28 § 2 Performances
-30 SECTION V UNE PLAQUE LOW COST
+Pages
+* 2 Section I -PRESENTATION DE LA PLAQUE CHAUFFANTE A VAPEUR
+* 4 Section II – ETUDE D LA PLAQUE CHAUFFANTE A VAPEUR
+* 4 § 1) Approvisionnement, débit et marquage des plaques
+* 5 § 2) Usinage au tour
+* 6 § 3) Percements et taraudages des plaques
+* 10 § 4) La gravure du circuit de vapeur
+* 13 § 5) L'assemblage
+* 13 § 6 Les entrées et sorties de vapeur
+* 13 § 7 Le choix du joint torique
+* 15 § 8 Perfectionnements envisageables
+* 15 § 9 Cotes pour une plaque Ø 216 mm
+* 20 Section III FABRICATION DE LA PLAQUE CHAUFFANTE A VAPEUR
+* 20 § 1 Approvisionnement, débit et marquage des plaques
+* 21 § 2 Usinage sur tour
+* 22 § 3 Percements et taraudages
+* 25 § 4 La gravure du circuit de vapeur
+* 27 § 5 L'assemblage
+* 28 Section IV UTILISATION ET PERFORMANCES DE LA PLAQUE A VAPEUR
+* 28 § 1 Utilisation
+* 28 § 2 Performances
+* 30 SECTION V UNE PLAQUE LOW COST
 
 **2ème Partie** Utilisation de la vapeur **Chap. I** La plaque chauffante à vapeur
 
