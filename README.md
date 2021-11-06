@@ -266,7 +266,6 @@ Quand c'est à l'homme de capter et concentrer le rayonnement solaire,
 de fabriquer lui même la confiture, on commence alors à  entrevoir le 
 vrai coût technologique et économique de l'énergie.
 
-
 -------------------
 
 ## Documentation
@@ -284,7 +283,6 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.
 
 ### 1ère partie: le capteur et la production de vapeur
 
-test
 * <a href="1-sommaires-et-pdf/1-I-dossier-calculs.pdf">1-Chap.I- Dossier de calculs </a> 
 * <a href="1-sommaires-et-pdf/1-II-conception.pdf">1-Chap.II- Conception du capteur </a> 
 * <a href="1-sommaires-et-pdf/1-III-etude-capteur.pdf">1-Chap.III- Etude du capteur </a> 
@@ -318,7 +316,7 @@ test
 * 3-Chap.VII- Documentation technique et Fournisseurs
 
 ### 4ème partie: Memento technologique
- 
+
 * <a href="4-sommaires-et-pdf/4-Intro-Memento.html">Introduction au memento</a>
 * <a href="4-sommaires-et-pdf/4-I-Vapeur-et-pertes.pdf">4-Chap.I- La Vapeur</a> 
 * <a href="4-sommaires-et-pdf/4-II-Unites-anglo-saxonnes.pdf">4-Chap.II- Unites anglo saxonnes</a> 
@@ -328,29 +326,29 @@ test
 * <a href="4-sommaires-et-pdf/4-VI-Brasage.pdf">4-Chap.VI- Le Brasage</a> 
 
 ### 5ème partie: vers d'autres horizons
- 
-* <a href="5-sommaires-et-pdf/Horizons.html">- Vers d'autres horizons</a> 
-* <a href="5-sommaires-et-pdf/bibliographie.pdf">- Bibliographie</a> 
-* <a href="5-sommaires-et-pdf/Carnot.pdf">- Le rendement de Carnot</a> 
-* <a href="5-sommaires-et-pdf/anthropologie.pdf">- Cuisson et Anthropologie</a> 
-* <a href="5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20techniques.pdf">- Cuisson solaire : quelques aspects techniques</a> 
-* <a href="5-sommaires-et-pdf/effet%20echelle%20et%20ses%20ravages.pdf">- L'effet d'echelle et ses ravages</a> 
-* <a href="5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20thermiques.pdf">- Cuisson solaire : quelques aspects thermiques</a> 
-* <a href="5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20humains.pdf">- Cuisson solaire : quelques aspects humains</a> 
+
+* <a href="5-sommaires-et-pdf/Horizons.html"> Vers d'autres horizons</a> 
+* <a href="5-sommaires-et-pdf/bibliographie.pdf"> Bibliographie</a> 
+* <a href="5-sommaires-et-pdf/Carnot.pdf"> Le rendement de Carnot</a> 
+* <a href="5-sommaires-et-pdf/anthropologie.pdf"> Cuisson et Anthropologie</a> 
+* <a href="5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20techniques.pdf"> Cuisson solaire : quelques aspects techniques</a> 
+* <a href="5-sommaires-et-pdf/effet%20echelle%20et%20ses%20ravages.pdf"> L'effet d'echelle et ses ravages</a> 
+* <a href="5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20thermiques.pdf"> Cuisson solaire : quelques aspects thermiques</a> 
+* <a href="5-sommaires-et-pdf/cuisson%20solaire%20-%20quelques%20aspects%20humains.pdf"> Cuisson solaire : quelques aspects humains</a> 
 * Petit panorama partiel des cuiseurs solaires
 * <a href="5-sommaires-et-pdf/caloducs.pdf">Cuiseur solaire à caloducs étagés</a> 
-* <a href="5-sommaires-et-pdf/proposition%20de%20chauffage%20solaire%20a%20caloducs%20pour%20hautes%20latitudes.pdf">- Proposition : Chauffage à caloducs pour les hautes latitudes</a> 
-* <a href="5-sommaires-et-pdf/proposition%20machine%20a%20glace-gaz%20echappement.pdf">- Proposition : Machine à glace et gaz d'échappement</a> 
-* <a href="5-sommaires-et-pdf/pommes%20de%20terre%20et%20refrigeration.pdf">- Proposition : Pommes de terre et réfrigération</a> 
-* - Cuiseur photovoltaïque 
-* - Dessin d'un CPC pour capteur symétrique 
-* - Un capteur symétrique avec CPC: le Culbuto 
-* - épilogue 
+* <a href="5-sommaires-et-pdf/proposition%20de%20chauffage%20solaire%20a%20caloducs%20pour%20hautes%20latitudes.pdf"> Proposition : Chauffage à caloducs pour les hautes latitudes</a> 
+* <a href="5-sommaires-et-pdf/proposition%20machine%20a%20glace-gaz%20echappement.pdf"> Proposition : Machine à glace et gaz d'échappement</a> 
+* <a href="5-sommaires-et-pdf/pommes%20de%20terre%20et%20refrigeration.pdf"> Proposition : Pommes de terre et réfrigération</a> 
+* Cuiseur photovoltaïque 
+* Dessin d'un CPC pour capteur symétrique 
+* Un capteur symétrique avec CPC: le Culbuto 
+* épilogue 
 
 ### 6ème partie: Cuiseur "Fresnel" à conduite manuelle 
 
 * [6-Chap.I-Vue d'ensemble](6-sommaires-et-pdf/Chap-I-Vue-d-ensemble.pdf)
-* *Conception et Etude du cuiseur*
+* **Conception et Etude du cuiseur**
   * [6-Chap.II-Le suivi du soleil par un capteur Fresnel](6-sommaires-et-pdf/Chap-II-Le-suivi-du-soleil-par-un-capteur-Fresnel.pdf)
   * [6-Chap.III-Les miroirs sous tous leurs angles](6-sommaires-et-pdf/Chap-III-Les-miroirs-sous-tous-leurs-angles.pdf)
   * [6-Chap.IV-Détermination du rayon de courbure des miroirs](6-sommaires-et-pdf/Chap-IV-Determination-du-rayon-de-courbure-des-miroirs.pdf)
@@ -360,8 +358,7 @@ test
   * 6-Chap.IX-Leviers de manoeuvre et boitiers de réglage
   * 6-Chap.X-Commentaires
   * 6-Chap.XI-Récapitulation des éléments théoriques et des cotes de construction
-
-* *Construction du cuiseur*
+* **Construction du cuiseur**
   * 6-Chap.X-Les poutres
   * 6-Chap.XI-Les miroirs du Ier étage
   * 6-Chap.XII-Le CPC
