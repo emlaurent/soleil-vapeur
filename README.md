@@ -298,7 +298,7 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 <a href="3-sommaires-et-pdf/3-I-presentation-machine.pdf">3-Chap.I- Présentation générale de la machine à glace </a> <br>
 <a href="3-sommaires-et-pdf/3-II-documentation-disponible.pdf">3-Chap.II- La Documentation disponible </a> <br>
 <a href="3-sommaires-et-pdf/3-III-etude-machine.pdf">3-Chap.I- Etude de la machine à glace </a> <br>
-<a href="3-sommaires-et-pdf/3-IV-construction-machine.pdf">3-Chap.IV- La Construction de la machine à glace </a> <br> 
+<a href="3-sommaires-et-pdf/3-IV-construction-machine.html">3-Chap.IV- La Construction de la machine à glace </a> <br> 
 3-Chap.V- Fonctionnement et Performances<br>
 3-Chap.VI- Choix fondamentaux et discussion<br>
 3-Chap.VII- Documentation technique et Fournisseurs<br>
