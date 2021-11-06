@@ -19,6 +19,7 @@
 **gras**
 *italique*
 ++souligné++
+~~barré~~
 
 ++**gras souligné**++
 
@@ -28,6 +29,9 @@ texte texte texte texte texte texte retour chariot
 texte texte texte texte texte texte retour chariot
 
 saut de ligne au dessus
+texte texte texte texte texte texte double retour chariot
+
+texte texte texte texte texte texte
 
 
     
