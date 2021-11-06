@@ -1,11 +1,8 @@
-# Documentation de soleil-vapeur
+# Soleil-vapeur - Documentation
 
-**Cuisson alimentaire, Stérilisation médicale**
-
-**Production de glace par adsorption**
-
-**avec le groupe solaire thermique à vapeur "soleil-vapeur"** 
-
+**Cuisson alimentaire, Stérilisation médicale**  
+**Production de glace par adsorption**  
+**avec le groupe solaire thermique à vapeur "soleil-vapeur"**  
 **100 à 164°C / 0 à 6 bar / 0.5 à 10 kW**
 
 ## Contexte et situation actuelle
@@ -13,10 +10,12 @@
 Un travail de conception et d'expérimentation autour de systèmes solaires à concentration a été mené entre les années 1990 et 2017 par un petit groupe de chercheurs et d'ingénieurs indépendants en France et aux USA.
 [Les résultats de ces travaux ont été soigneusement documentés entre 2012 et 2017](doc-asso.htm). Depuis le groupe de travail n'est plus actif et la documentation (et le site web) ne sont plus entretenus.
 
-Pour ne pas perdre cet énorme effort de cette riche documentation de près de 1000 pages, [Emmanuel](https://emlaurent.github.io/ingenierie_en_sobriete/) a repris toute la documentation et remis à jour le site web. Cette documentation, accessible en bas de cette page (ou par les liens sur la gauche), mériterait d'être mise à jour (corrections de liens vers les fournisseurs, pagination, ...). Certaines parties n'ont pas été écrites et mériteraient un travail de documentation - après des temps d'expérimentation. [Une ancienne version du site](http://jean.boubour.pagesperso-orange.fr/) reste encore accessible.
+**Pour ne pas perdre cet énorme effort de cette riche documentation de près de 1000 pages**, [Emmanuel](https://emlaurent.github.io/ingenierie_en_sobriete/) a repris toute la documentation et remis à jour le site web. Cette documentation, accessible en bas de cette page (ou par les liens sur la gauche), mériterait d'être mise à jour (corrections de liens vers les fournisseurs, pagination, ...). Certaines parties n'ont pas été écrites et mériteraient un travail de documentation - après des temps d'expérimentation. [Une ancienne version du site](http://jean.boubour.pagesperso-orange.fr/) reste encore accessible.
  
-Techniquement, la documentation a été transférée sur un compte github et la page initiale d'accueil a été conservée (voir le texte ci-dessous) avec seulement une remise en page. Les documents sont des fichiers PDF plus quelques pages au format html. A titre de test, [un fichier pdf a été transformé en fichier markdown](2-sommaires-et-pdf/2-Chap-I-Plaque.md) (en extrayant les images et le texte puis en effectuant une remise en page). L'idée est de tester l'utilisation de github pour faire du suivi des modifications et des mises à jours à plusieurs contributeurs.
-Si vous êtes intéressé pour mettre à jour cette documentation ou pour aider à gérer la mise à jour avec github, contactez [Emmanuel](https://emlaurent.github.io/ingenierie_en_sobriete/).
+Techniquement, **la documentation a été transférée sur un compte github** et la page initiale d'accueil a été conservée (voir le texte ci-dessous) avec seulement une remise en page et l'ajout de ce contexte. Les documents sont des fichiers PDF plus quelques pages au format html. A titre de test, [un fichier pdf a été transformé en fichier markdown](2-sommaires-et-pdf/2-Chap-I-Plaque.md) (en extrayant les images et le texte puis en effectuant une remise en page). L'idée est de tester l'utilisation de github pour faire du suivi des modifications et des mises à jours à plusieurs contributeurs.
+Si vous êtes intéressés pour contribuer à mettre à jour cette documentation ou à gérer la mise à jour avec github, contactez [Emmanuel](https://emlaurent.github.io/ingenierie_en_sobriete/).
+
+Certains documents sont sous licence Creative Commons mais un échange avec l'auteur des documents a permis de valider que sa volonté est de rendre accessible toute cette connaissance. **L'ensemble des éléments de ce site et tous les documents pdf téléchargeables sont donc sous licence Creative Commons CC-by-SA.** 
 
 ## Introduction au travail de conception
 Le propos est de rassembler les connaissances scientifiques et 
