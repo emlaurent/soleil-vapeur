@@ -1,5 +1,10 @@
 # Documentation de soleil-vapeur
 
+*gras*  
+**gras texte**  
+_gras_  
+__gras texte__  
+
 Cuisson alimentaire, Stérilisation médicale<br> 
 Production de glace par adsorption<br> 
 avec le groupe solaire thermique à vapeur "soleil-vapeur"<br> 
@@ -25,21 +30,20 @@ une pression de 0 à 6 bar manométriques, dans une gamme de puissance
 disponible pour l'utilisateur de l'ordre de 0,5 à 10 kW, ou plus si 
 besoin.
  
-<p>Cette installation solaire comprend.</p>
-<p>
-- _Un dispositif de <em>production de vapeur</em> à l'aide d'un capteur solaire thermique à conduite manuelle_, composé de<br>
+Cette installation solaire comprend.  
+
+- **Un dispositif de *production de vapeur* à l'aide d'un capteur solaire thermique à conduite manuelle**, composé de:
   - un miroir cylindro parabolique, orienté Est-Ouest <br>
   - un Concentrateur Parabolique Composé,<br>
   - une chaudière, en l'occurence un tube installé en fond du Concentrateur,<br>
   - une charpente tubulaire,<br>
-  - un dispositif manuel de pointage du capteur,.</p>
-<p>
-- __Des  dispositifs__ <em>d'utilisation de la vapeur</em>, parmi _lesquels_ 
+  - un dispositif manuel de pointage du capteur,.<br>
+- **Des  dispositifs *d'utilisation de la vapeur***, parmi _lesquels: 
 notamment une plaque de cuisson à vapeur**, au fonctionnement identique à 
 celui d'une plaque de cuisson électrique, sur laquelle l'utilisateur 
 pose son récipient de cuisson alimentaire ou de stérilisation médicale. 
 D'autres dispositifs (serpentin immergé, serpentin extérieur au 
-récipient de cuisson....) sont également décrits.</p>
+récipient de cuisson....) sont également décrits.
 
 <p>Cette installation solaire à concentration peut trouver une utilité 
 dans les régions bénéficiant d'un bon ensoleillement direct ( à 
@@ -284,8 +288,8 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.<br>
 
 ### 2ème partie: Utilisation de la vapeur 
 <p> 
-<a href="2-sommaires-et-pdf/2-I-Plaque.pdf">2-Chap.I- La plaque chauffante à vapeur (version PDF)</a> -
-<a href="2-sommaires-et-pdf/2-Chap-I-Plaque.md">version markdown </a> <br>
+<a href="2-sommaires-et-pdf/2-I-Plaque.pdf">2-Chap.I- La plaque chauffante à vapeur (version PDF)</a> - version
+<a href="2-sommaires-et-pdf/2-Chap-I-Plaque.md">markdown </a> <br>
 <a href="2-sommaires-et-pdf/2-II-Caisson.pdf">2-Chap.II- Le Caisson isolant </a> <br> 
 <a href="2-sommaires-et-pdf/2-III-Sterilisation.pdf">2-Chap.III- La Stérilisation Médicale </a> <br> 
 <a href="2-sommaires-et-pdf/2-IV-Cuisson.pdf">2-Chap.IV- La Cuisson Alimentaire </a> <br>
