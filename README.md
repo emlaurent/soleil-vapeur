@@ -1,4 +1,4 @@
-# Soleil-vapeur - Documentation
+# Documentation de soleil-vapeur
 
 **Cuisson alimentaire, Stérilisation médicale**  
 **Production de glace par adsorption**  
@@ -17,6 +17,8 @@ Si vous êtes intéressés pour contribuer à mettre à jour cette documentation
 
 Certains documents sont sous licence Creative Commons mais un échange avec l'auteur des documents a permis de valider que sa volonté est de rendre accessible toute cette connaissance. **L'ensemble des éléments de ce site et tous les documents pdf téléchargeables sont donc sous licence Creative Commons CC-by-SA.** 
 
+[![](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ## Introduction au travail de conception
 Le propos est de rassembler les connaissances scientifiques et 
 technologiques relatives à la conception, la construction et 
@@ -27,7 +29,9 @@ thermique de la vapeur d'eau à la température de 100 à 165° C, soit à
 une pression de 0 à 6 bar manométriques, dans une gamme de puissance 
 disponible pour l'utilisateur de l'ordre de 0,5 à 10 kW, ou plus si 
 besoin.
- 
+
+![](photos/photo1.jpg) 
+
 Cette installation solaire comprend:
 
 * **Un dispositif de *production de vapeur* à l'aide d'un capteur solaire thermique à conduite manuelle**, composé de:
@@ -63,6 +67,8 @@ dans l'espace, et de disposer d'une puissance importante. Le capteur
 « soleil-vapeur » n'est pas destiné à un usage personnel ou 
 familial, il est destiné à un usage professionnel ou collectif, là où 
 l'énergie thermique est désormais de plus en plus comptée.
+
+![](photos/photo4.jpg) 
 
 Il est un élément de solution pour l'approvisionnement en énergie 
 thermique, comme source principale ou comme appoint, par exemple en 
@@ -102,7 +108,7 @@ la glace.
 
 ------------
 
-Une machine de production de glace par adsoption (avec zéolite), 
+Une **machine de production de glace par adsoption** (avec zéolite), 
 fonctionnant avec la vapeur produite par le capteur, a été 
 spécifiquement conçue et réalisée. Au vu des résultats très 
 encourageants qui ont été obtenus, une seconde machine à glace est 
@@ -111,6 +117,8 @@ première machine, aux allures de prototype expérimental, ne fait pas
 l'objet d'une publication. Si la seconde machine  confirme les résultats
  de la première, on peut envisager une publication vers le début de 
 2014.
+
+![](photos/photo25.jpg) 
 
 ------------
 
@@ -127,6 +135,8 @@ taille moyenne sur une cuisinière, pendant six heures par jour. Elle est
 Sa puissance permet surtout de faire fonctionner un stérilisateur 
 médical à vapeur par exemple du type All American 1915X  ou 1925X, d'une
  capacité brute de 14 et 25 litres.
+
+![](photos/photo23.jpg) 
 
 Mais hormis la stérilisation médicale, le petit capteur de 2 m² a une
  vocation essentiellement pédagogique. En raison de l'absence de culture
@@ -171,6 +181,8 @@ bourrelier. Ainsi pour le capteur, certains composants proviennent
 d'usine: les profils paraboliques, l'approvisionnement en tubes et 
 tôles, la confection du bouilleur.., mais la construction du capteur lui
  même est à faire au plus près possible de ses utilisateurs.
+
+![](photos/photo14.jpg) 
 
 Un premier mot d'ordre: de la rigueur. La force (mais aussi la 
 faiblesse) du solaire, c'est que « ça marche toujours un 
@@ -265,6 +277,8 @@ Quand c'est à l'homme de capter et concentrer le rayonnement solaire,
 de fabriquer lui même la confiture, on commence alors à  entrevoir le 
 vrai coût technologique et économique de l'énergie.
 
+![](photos/photo2.jpg) 
+
 -------------------
 
 ## Documentation
@@ -357,6 +371,7 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.
   * 6-Chap.IX-Leviers de manoeuvre et boitiers de réglage
   * 6-Chap.X-Commentaires
   * 6-Chap.XI-Récapitulation des éléments théoriques et des cotes de construction
+
 * **Construction du cuiseur**
   * 6-Chap.X-Les poutres
   * 6-Chap.XI-Les miroirs du Ier étage
@@ -366,5 +381,4 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.
   * 6-Chap.XV-Le circuit de vapeur
   * 6-Chap.XVI-Installation du cuiseur
   * 6-Chap.XVI-Conduite du cuiseur
-
 
