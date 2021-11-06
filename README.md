@@ -294,6 +294,8 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.
 * Partie 5 Vers d'autres horizons
 * Partie 6 Cuiseur "Fresnel" à conduite manuelle 
 
+[**Toutes les documentations en un seul fichier**](documentation-totale.pdf) 
+
 ### 1ère partie: le capteur et la production de vapeur
 
 * <a href="1-sommaires-et-pdf/1-I-dossier-calculs.pdf">1-Chap.I- Dossier de calculs </a> 
