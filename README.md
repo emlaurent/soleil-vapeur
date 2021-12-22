@@ -301,7 +301,7 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.
 * <a href="1-sommaires-et-pdf/1-I-dossier-calculs.pdf">1-Chap.I- Dossier de calculs </a> 
 * <a href="1-sommaires-et-pdf/1-II-conception.pdf">1-Chap.II- Conception du capteur </a> 
 * <a href="1-sommaires-et-pdf/1-III-etude-capteur.pdf">1-Chap.III- Etude du capteur </a> 
-* <a href="1-sommaires-et-pdf/1-IV-etude-circuit.pdf">1-Chap.IV- Etude du circuit de production de vapeur </a> 
+* <a href="1-sommaires-et-pdf/1-IV-Etude-Circuit.pdf">1-Chap.IV- Etude du circuit de production de vapeur </a> 
 * <a href="1-sommaires-et-pdf/1-V-Construction.pdf">1-Chap.V- Construction du capteur </a> 
 * <a href="1-sommaires-et-pdf/1-VI-Installation-etc.pdf">1-Chap.VI- Installation, Conduite, Performances, Maintenance </a> 
 * <a href="1-sommaires-et-pdf/1-VII-Malle-Pedagogique.pdf">1-Chap.VII- La Malle Pedagogique </a> 
