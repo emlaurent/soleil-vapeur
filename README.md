@@ -335,7 +335,7 @@ Le sommaire à gauche de l'écran tient également lieu de plan du site.
 * <a href="4-sommaires-et-pdf/4-Intro-Memento.html">Introduction au memento</a>
 * <a href="4-sommaires-et-pdf/4-I-Vapeur-et-pertes.pdf">4-Chap.I- La Vapeur</a> 
 * <a href="4-sommaires-et-pdf/4-II-Unites-anglo-saxonnes.pdf">4-Chap.II- Unites anglo saxonnes</a> 
-* <a href="4-sommaires-et-pdf/4-III-Tubes-Toles-Etc.pdf">4-Chap.III- Tubes, Toles, etc</a> 
+* <a href="4-sommaires-et-pdf/4-III-Tubes-Toles-etc.pdf">4-Chap.III- Tubes, Toles, etc</a> 
 * <a href="4-sommaires-et-pdf/4-IV-Boulons.pdf">4-Chap.IV- Boulons, Vis, Rivets</a> 
 * <a href="4-sommaires-et-pdf/4-V-Plomberie.pdf">4-Chap.V- Plomberie et Filetages</a> 
 * <a href="4-sommaires-et-pdf/4-VI-Brasage.pdf">4-Chap.VI- Le Brasage</a> 
