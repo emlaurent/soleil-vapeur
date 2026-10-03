@@ -1,481 +1,323 @@
-1ère partie 2ème partie 3ème partie 4ème partie **5ème partie**
-Production Utilisation Production Memento **vers d'autres**
-de la vapeur de la vapeur de glace Technologique **horizons**
+第 1 部分　　第 2 部分　　第 3 部分　　第 4 部分　　**第 5 部分**
+蒸汽生产　　蒸汽利用　　制冰生产　　技术备忘　　**迈向其他视野**
 ▲
 
-**5ème Partie "Vers d'autres horizons"**
-La 5ème partie de la documentation de soleil-vapeur.org regroupe diverses rubriques
-relatives à l'énergie solaire
+**第 5 部分「迈向其他视野」**
+soleil-vapeur.org 文档的第 5 部分汇集了多个与太阳能相关的栏目
 
 ```
 http://www.soleil-vapeur.org
 ```
-# CAPTEUR SOLAIRE THERMIQUE à VAPEUR
+# 蒸汽太阳能集热器
 
-# à CALODUCS ÉTAGÉS
+# （多级热管式）
 
-Le cuiseur solaire à vapeur est destiné à
-fournir de l'énergie thermique à une température
-supérieure à 100° C nécessaire pour les opérations
-de cuisson alimentaire à l'eau ou à la vapeur
-(soupes, légumes, braisages, toutes cuissons à
-l'eau..) ou agro-alimentaires (production de savon,
-utilisation en petites laiteries, abattoirs, production
-de pâte d'arachide, de bière...) ou autres (distillation
-de plantes, production de bio-diesel...). Elle est
-destinée aux régions disposant d'un bon
-ensoleillement, mais dont les ressources
-énergétiques traditionnelles sont ou deviennent peu
-abondantes. Lors d'une journée correctement
-ensoleillée, sa capacité de cuisson est de l'ordre de trois lots de 4 kg de légumes par jour dans le cas
-d'un capteur de taille moyenne comme ci dessus, mais sa puissance est modulable en fonction du
-nombre de tubes.
-Ce capteur, à faire fonctionner en continu pendant six à sept heures par jour (le soleil
+蒸汽灶具 (cuiseur solaire à vapeur) 旨在提供 100° C 以上温度的热能，用于以水或蒸汽进行的食品烹饪作业（汤、蔬菜、焖煮、各种水煮等等），或食品加工作业（制皂、小型乳品厂使用、屠宰场、花生酱生产、啤酒生产等等），以及其他作业（植物蒸馏、生物柴油生产等等）。它面向日照条件良好、但传统能源资源原本或正变得匮乏的地区。在一个日照正常的日子里，若采用如上中等尺寸的集热器 (capteur)，其每日烹饪能力约为三批 4 kg 蔬菜，但其功率 (puissance) 可依据管数进行调节。
+这一集热器每天需要连续运行六到七小时（阳光
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-permettant), est destiné plus particulièrement à un usage professionnel du type artisanat ou micro-
-entreprise.
+允许的情况下），尤其适合手工业或微型企业一类的专业用途。
 
 ```
-L'installation est composée
+本装置由以下部分组成
 ```
-- d'un capteur solaire à tubes à double paroi sous vide et à caloducs, acheté dans le commerce,
-- d'un transfert de chaleur vers une plaque de cuisson,
-- d'un caisson isolant, abritant la plaque chauffante et le récipient de cuisson de 8 litres au
-maximum. L'énergie solaire est gratuite, mais sa collecte ne l'est pas : l'important en matière
-d'énergie solaire n'est pas tant de collecter l'énergie, que d'éviter de la gaspiller une fois qu'elle a été
-collectée!
+- 一个市售的、采用双层真空壁管与热管 (caloduc) 的太阳能集热器，
+- 一套把热量传递给加热板 (plaque chauffante) 的传热装置，
+- 一个隔热箱体 (caisson isolant)，内含加热板以及容量不超过 8 升的烹饪容器。太阳能本身是免费的，但收集它却不是：就太阳能而言，重要的与其说是收集能量，不如说是在收集到之后不去浪费它！
 
-Le cuiseur est un "piège à chaleur" : tout rayonnement solaire qui traverse le tube à double paroi
-sous vide est transformé en chaleur, laquelle est piégée de toutes parts par l'isolation ; sa seule issue
-est alors la "zone froide " du système, à savoir la plaque sur laquelle repose le récipient de cuisson,
-dénommée "plaque chauffante" du point de vue de l'utilisateur.
+灶具是一个「热陷阱」：所有穿过双层真空壁管的太阳辐射都被转化为热量，而热量被保温层从四面八方困住；它唯一的出口便是系统的「冷区」，也就是承载烹饪容器的那块板——从用户的角度看，它被称为「加热板」。
 
-Conçu au cours de 2014, construit en 2015, le cuiseur à caloducs étagés a été présenté
-publiquement pour la première fois lors du Village Alternatiba d'Evreux, en Septembre 2015, et à
-Montreuil en Décembre 2015.
-La documentation est en accès libre sous licence ""Créative Commons – Attribution/Share Alike" :
+多级热管 (caloducs étagés) 灶具于 2014 年设计、2015 年建造，首次公开展示是在 2015 年九月埃夫勒的 Alternatiba 村（Village Alternatiba d'Evreux），随后于 2015 年十二月在蒙特勒伊展出。
+文档采用「知识共享 – 署名/相同方式共享」许可协议（Creative Commons – Attribution/Share Alike），可自由获取：
 
-- les travaux de soleil-vapeur peuvent être utilisés, y compris à des fins commerciales, sous réserve
-de mentionner leur origine.
-- tout utilisateur peut effectuer des modifications, y compris à des fins commerciales, sous réserve
-que ces modifications soient publiquement disponibles avec les mêmes droits que les travaux
-originaux.
+- soleil-vapeur 的作品可以被使用，包括用于商业目的，但必须注明出处。
+- 任何用户都可以进行修改，包括用于商业目的的修改，但前提是这些修改须以与原始作品相同的权利公开提供。
 
-### Sommaire de la rubrique
+### 栏目目录
 
-Page
+页码
 
-5 SECTION I CALODUC, CAPTEUR, CUISEUR
-5 § 1 Le principe du caloduc
-5 § 2 Les capteurs solaires à caloducs
-6 § 3 Du capteur au cuiseur
+5 第 I 节 热管、集热器、灶具
+5 § 1 热管的原理
+5 § 2 热管太阳能集热器
+6 § 3 从集热器到灶具
 
-7 SECTION II LES CAPTEURS À CALODUCS
-7 § 1 Les differentes sortes de capteurs solaires
-7 § 2 La question du collecteur des capteurs à caloduc
-8 § 3 Quel capteur choisir?
-8 § 4 Quelle dimension de capteur?
-9 § 5 Un problème crucial : le transport des tubes
+7 第 II 节 热管集热器
+7 § 1 太阳能集热器的各种类型
+7 § 2 热管集热器集流管的问题
+8 § 3 该选择哪种集热器？
+8 § 4 应选择多大尺寸的集热器？
+9 § 5 一个关键问题：管子的运输
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-#### 10 SECTION III LE SUPPORT DU CUISEUR
+#### 10 第 III 节 灶具支架
 
-10 § 1 Quelle hauteur pour le support du cuiseur?
-12 § 2 La charpente en bois
-12 A) la face avant du chevalet
-13 B) la face arriere du chevalet
-13 C ) le cadre support du premier etage de caloducs
-14 D) le support du caisson isole de cuisson
-14 E) une vue d'ensemble
-15 F) une configuration plus adaptée aux zones intertropicales
-15 § 3 quelques détails d'exécution
-15 section de bois
-15 le dégauchissage
-16 équerrage
-17 préassemblage
-17 percements
-17 traitement de surface
-17 assemblage par boulon
-17 charnières
-18 § 4 installation du premier étage sur son cadre support
+10 § 1 灶具支架应设多高？
+12 § 2 木结构支架
+12 A) 支架的前侧面
+13 B) 支架的后侧面
+13 C) 第一级热管的支撑框架
+14 D) 烹饪隔热箱体的支撑
+14 E) 整体视图
+15 F) 一种更适合热带地区的配置
+15 § 3 若干制作细节
+15 木料截面
+15 找平校正
+16 找方
+17 预装配
+17 钻孔
+17 表面处理
+17 螺栓装配
+17 铰链
+18 § 4 第一级热管在其支撑框架上的安装
 
-19 SECTION IV LA PLAQUE DE CUISSON
-19 § 1 Principe, conception et calculs
-20 § 2 Version « assemblage usiné et boulonné. »
-20 A) présentation
-21 B) la plaque supérieure
-23 C) la plaque inférieure
-25 D) les piquages
-25 E) l'entretoise extérieure
-26 F) l'entretoise intérieure
-26 G) les joints toriques
-26 H) la boulonnerie
-27 § 3 version "assemblage soude"
-27 plaque supérieure
-27 entretoise extérieure
-27 entretoise intérieure
-27 plaque inférieure
-27 entré-sortie de vapeur
-27 départ pour accessoires
+19 第 IV 节 加热板
+19 § 1 原理、设计与计算
+20 § 2 版本：「机加工并螺栓装配」
+20 A) 介绍
+21 B) 上加热板
+23 C) 下加热板
+25 D) 接管口
+25 E) 外侧隔圈
+26 F) 内侧隔圈
+26 G) O 形密封圈
+26 H) 螺栓件
+27 § 3 版本：「焊接装配」
+27 上加热板
+27 外侧隔圈
+27 内侧隔圈
+27 下加热板
+27 蒸汽进出口
+27 附件接口
 
-30 SECTION V LE CAISSON ISOLÉ
-30 § 1 La base du caisson isole
-30 cotés gauche et droit
-31 face arrière
-31 face avant
-31 platine support d'accessoires
-33 brides de maintien de la soupape et du robinet de purge
+30 第 V 节 隔热箱体
+30 § 1 隔热箱体的底座
+30 左侧板与右侧板
+31 后面板
+31 前面板
+31 附件安装底板
+33 阀门与放水阀的固定卡箍
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-34 supports de la plaque chauffante
-36 installation de la plaque chauffante
-37 panneaux de fermeture supérieur et inférieur de la base du caisson isolé
-37 § 2 Le corps intermédiaire
-38 paroi extérieure
-39 paroi intérieure
-40 panneaux de fermeture supérieur et inférieur
-41 § 3 Le couvercle
-42 § 4 Proposition de debit de la feuille de contreplaqué
-
-43 SECTION VI LA PLOMBERIE
-43 Vademecum des diamètres et filetages
-44 § 1 Les accessoires de la plaque chauffante
-44 a) le manomètre
-45 b) la soupape
-46 c) le robinet de purge
-46 d) équipement de la plaque vapeur
-47 e) raccordement des accessoires, et installation sur la platine
-49 § 2 Le tuyau souple entre la plaque chauffante et le collecteur
-52 § 3 Une première épreuve d'étanchéité
-53 § 4 Equipement du collecteur du côte oppose au caisson
-54 § 5 L'alimentation sous pression
-
-55 SECTION VII L'INSTALLATION DU CUISEUR
-55 §-1 Installation de la charpente
-55 l'orientation générale
-55 l'inclinaison du cadre-support du premier étage
-55 si besoin : confectionner une estrade
-55 la réorientation périodique du capteur
-55 installation du caisson isolant à l'intérieur d'un bâtiment?
-56 trois points-clé à vérifier lors de l'installation :
-56 §-2 Installation du support du caisson
-56 § 3 Installation du caisson isolant
-57 § 4 Installation des tubes à caloduc du premier etage
-57 § 5 Installation d'une occultation des tubes
-
-58 SECTION VIII FONCTIONNEMENT ET UTILISATION
-58 § 1 Fonctionnement et utilisation du caloduc du second etage
-58 A) l' eau
-58 la qualité de l'eau
-58 remplissage du caloduc
-58 en fin de journée
-58 contrôle de la quantité d'eau
-58 ajout d'antigel?
-59 B) en cours de cuisson
-59 C) l'à-sec de la chaudiere
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-59 les causes
-59 les conséquences
-59 les remèdes
-60 § 2 Fonctionnement et utilisation du caisson isole
-60 A) la question du transfert thermique entre la plaque à vapeur et le récipient
-61 B) le choix du recipient de cuisson
-61 couvercle du récipient
-61 modification des anses et poignées.
-61 event de vapeur
-61 C) installation du récipient dans le caisson :
-61 le récipient
-62 l'isolation
-62 D) montee en temperature
-62 E) maintient en temperature
-62 la marmite norvégienne
-63 F) cuisson a l'eau et cuisson a la vapeur
-63 G) cuisson en auto-cuiseur
-63 § 3 fonctionnement general du cuiseur
-63 a) six heures par jour?
-63 b) le mode d'emploi
+34 加热板的支撑件
+36 加热板的安装
+37 隔热箱体底座的上封板与下封板
+37 § 2 中间箱体
+38 外壁
+39 内壁
+40 上封板与下封板
+41 § 3 箱盖
+42 § 4 胶合板流量估算建议
 
-64 SECTION IX LES PERFORMANCES ET LEUR CONTRÔLE
-64 § 1 température, pression, chaleur latente et casserole d'eau
-64 la relation température -pression
-64 la notion de chaleur latente
-65 il serait possible d'utiliser d'autres fluides thermiques
-65 dans une casserole,
-65 § 2 les instruments de mesure
-65 le manomètre
-65 le thermomètre
-65 le chronomètre
-66 § 3 le test du litre supplémentaire d'eau bouillante
-66 pour effectuer un test précis
-66 effectuer les calculs
-66 puissance effectivement disponible pour l'utilisateur
+43 第 VI 节 管路系统
+43 直径与螺纹速查表
+44 § 1 加热板的附件
+44 a) 压力表
+45 b) 安全阀
+46 c) 放水阀
+46 d) 蒸汽板的配套件
+47 e) 附件的连接以及在安装底板上的装配
+49 § 2 加热板与集流管之间的软管
+52 § 3 首次密封性试验
+53 § 4 箱体背面的集流管配套件
+54 § 5 带压供水
 
-67 SECTION X AMÉLIORATIONS ENVISAGEABLES
+55 第 VII 节 灶具的安装
+55 §-1 支架的安装
+55 总体朝向
+55 第一级支撑框架的倾角
+55 如有需要：制作一个底座平台
+55 集热器的定期重新定向
+55 是否把隔热箱体安装在建筑物内部？
+56 安装时需要核查的三个关键点：
+56 §-2 箱体支架的安装
+56 § 3 隔热箱体的安装
+57 § 4 第一级热管的安装
+57 § 5 管路遮光罩的安装
 
-69 SECTION XI QUELQUES ASPECTS NON TECHNIQUES
-68 §-1 Energie solaire et contraintes
-68 § 2 Quelques aspects économiques
-69 § 3 Quel(s) modèle(s) d'utilisation du capteur?
+58 第 VIII 节 运行与使用
+58 § 1 第二级热管的运行与使用
+58 A) 水
+58 水质
+58 热管注水
+58 一天结束时
+58 水量检查
+58 是否添加防冻液？
+59 B) 烹饪过程中
+59 C) 锅炉干烧
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-## SECTION I – CALODUC, CAPTEUR, CUISEUR
+59 原因
+59 后果
+59 补救措施
+60 § 2 隔热箱体的运行与使用
+60 A) 蒸汽板与容器之间的传热问题
+61 B) 烹饪容器的选择
+61 容器盖
+61 提耳与把手的改造。
+61 蒸汽排气口
+61 C) 容器在箱体中的安装：
+61 容器
+62 保温层
+62 D) 升温
+62 E) 保温
+62 挪威式焖锅
+63 F) 水煮与蒸煮
+63 G) 压力锅式烹煮
+63 § 3 灶具的一般运行
+63 a) 每天六小时？
+63 b) 使用说明
 
-#### §1 LE PRINCIPE DU CALODUC
+64 第 IX 节 性能及其检测
+64 § 1 温度、压力、潜热与一锅水
+64 温度与压力的关系
+64 潜热的概念
+65 也可以使用其他传热工质
+65 用于锅具，
+65 § 2 测量仪器
+65 压力表
+65 温度计
+65 秒表
+66 § 3 额外一升沸水的测试
+66 进行精确测试
+66 进行计算
+66 用户实际可获得的功率
 
-Le caloduc est un dispositif de transfert de
-chaleur, à l'instar du gazoduc qui transporte du gaz ou
-de l'acqueduc qui transfert de l'eau. Dans une
-configuration simple, le caloduc est un simple tube
-hermétiquement fermé, installé verticalement ou
-quelque peu incliné, et contenant un liquide, par
-exemple à base d'eau. Si l'on apporte de la chaleur en
-partie basse du tube, alors le liquide s'évapore, les
-vapeurs se dirigent vers le haut du tube, elles cèdent
-leur chaleur à la partie haute du tube, et se
-condensent ; les gouttes de condensats retombent vers
-le bas du tube, puis le cycle recommence.
-La vapeur montante et les gouttes descendantes se
-croisent donc à l'intérieur du même tube.
-Une abondante documentation est disponible sur le Web aux mots clé "caloduc" et "heat pipes".
+67 第 X 节 可以考虑的改进
 
-#### §2 LES CAPTEURS SOLAIRES À CALODUCS
+69 第 XI 节 若干非技术性方面
+68 §-1 太阳能及其制约因素
+68 § 2 若干经济性问题
+69 § 3 集热器有哪几种使用模式？
 
-En installant le caloduc à l'intérieur d'un tube en verre à double enveloppe sous vide
-(analogue à une longue bouteille "thermos" transparente) on obtient un capteur solaire. Cette
-technologie, initiée par l'université de Sydney à partir de 1975 (wikipedia / "tube sous vide") a fait
-l'objet de nombreuses améliorations : noir absorbeur, témoin de vide.... Elle est désormais très
-largement répandue pour la production d'eau chaude sanitaire.
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+
+## 第 I 节 – 热管、集热器、灶具
+
+#### § 1 热管的原理
+
+热管是一种热量传递装置，正如输送燃气的燃气管 (gazoduc) 或输送水的水渠 (acqueduc) 一样。在一种简单的构造中，热管只是一根气密封闭的管子，垂直安装或略微倾斜，内盛一种液体，例如以水为基的液体。若在管子的下部供热，液体就会蒸发，蒸汽向上流向管顶，把热量交给管的上部并凝结；冷凝水滴落回管底，然后循环重新开始。
+因此，向上升腾的蒸汽与向下滴落的水滴在同一根管子内部交错相遇。在网络上以「caloduc」和「heat pipes」为关键词可以查到大量资料。
+
+#### § 2 热管太阳能集热器
+
+把热管安装到双层真空壁的玻璃管内部（类似一个长颈的透明保温瓶），就得到了一个太阳能集热器。这项技术由悉尼大学自 1975 年起开创（wikipedia /「真空管」），此后经历了众多改进：黑色吸收层、真空度指示……如今它在生活热水供应方面已经十分普及。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
 ```
-Détail de la liaison entre les caloducs et le collecteur
+热管与集流管之间连接部位的细节
 ```
-#### § 3 DU CAPTEUR AU CUISEUR.
+#### § 3 从集热器到灶具。
 
-Pour la production d'eau chaude sanitaire , le niveau de température nécessaire est de l'ordre
-de 80° C, mais les capteurs à caloducs sont capables de produire de la chaleur à un niveau de
-température bien plus élevé, de l'ordre de 130 à 140° C : leurs capacités sont sous-utilisées. On
-constate même une température "de stagnation", c'est à dire lorsque il n'y a pas d'extraction de la
-chaleur récupérée, de l'ordre de 200° C.
-D'où l'idée d'utiliser les 130 à 140° C disponibles pour effectuer des opérations de cuisson à
-100° C : cuissons à l'eau, braisages, etc.
-Et pour transférer la chaleur depuis le capteur jusqu'au récipient de cuisson, l'idée retenue
-fut... d'installer un autre caloduc au dessus des caloducs du capteur : la partie haute du capteur
-devient en même temps la partie basse d'un second caloduc, dont la partie haute est la plaque
-chauffante du cuiseur.
-Le cuiseur est donc bien du type "à caloducs étagés", il comprend deux niveaux de caloducs,
-et trois niveaux de vapeur : la vapeur des caloducs des tubes à vide, la vapeur du caloduc du second
-étage (environ 3 bar/144° C), et la vapeur à pression atmosphérique produite dans le récipient de
-cuisson.
-La différence de température de quelques petites dizaines de degrés entre la source de
-chaleur (130 à 140° C) et la température d'utilisation (100° C) peut sembler faible. En fait, elle est
-tout à fait suffisante, l'équipe de soleil-vapeur.org en avait d'ailleurs eu l'expérience lors de travaux
-antérieurs sur les cuiseurs solaires à vapeur.
+为了供应生活热水，所需的温度水平约为 80° C，但热管集热器能够产生温度水平高得多的热量，约为 130 到 140° C：它们的能力被严重闲置了。还可以观察到一个「停滞温度」，即当回收的热量没有被取走时，温度约为 200° C。
+由此产生了一个想法：利用可获得的 130 到 140° C 去完成 100° C 的烹饪作业：水煮、焖煮等等。
+而为了把热量从集热器传递到烹饪容器，所采用的想法是……在集热器的热管上方再安装一个热管：集热器的上部同时成为第二级热管的下部，而第二级热管的上部就是灶具的加热板。
+因此，灶具确实属于「多级热管」类型，它包含两个级别的热管，以及三个级别的蒸汽：真空管内热管的蒸汽、第二级热管的蒸汽（约 3 bar/144° C），以及在烹饪容器中产生的常压蒸汽。
+热源（130 到 140° C）与使用温度（100° C）之间相差几十度，这个温差看起来似乎不大。实际上它完全足够；soleil-vapeur.org 团队此前在蒸汽太阳能灶具方面的工作中对此已有切身体验。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-## SECTION II LES CAPTEURS à CALODUCS
+## 第 II 节 热管集热器
 
-Le premier étage du cuiseur étant constitué d'un capteur à caloducs acheté dans le commerce, le
-propos est ici de fournir quelques rapides indications à leur sujet. Le lecteur trouvera toutes les
-informations complémentaires sur le Net
+由于灶具的第一级由一个市售的热管集热器构成，这里仅打算就其提供若干简要说明。读者可以在网络上找到全部补充信息。
 
-#### § 1 LES DIFFERENTES SORTES DE CAPTEURS SOLAIRES
+#### § 1 太阳能集热器的各种类型
 
-La capteurs solaires se répartissent en deux grands groupes : les capteurs photovoltaïques et les
-capteurs thermiques. Les capteurs photovoltaïques convertissent le rayonnement solaire directement
-en électricité et relèvent de la haute technologie. Il ne sera pas question ici de ce type de capteur, ni
-de batterie, ni de cable électrique. (Toutefois, concernant un dispositif de cuisson et la stérilisation
-médicale solaires photovoltaïques, on pourra consulter la rubrique éponyme, 5ème partie de la
-documentation de soleil-vapeur.org, à paraître en début 2016)
+太阳能集热器分为两大类：光伏集热器和热集热器。光伏集热器把太阳辐射直接转换成电，属于高技术范畴。本文不谈这类集热器，也不谈电池和电缆。（不过，关于太阳能光伏的烹饪装置和医疗灭菌，可参见 soleil-vapeur.org 文档第 5 部分中的同名栏目，该栏目预计于 2016 年初出版。）
 
-Les capteurs thermiques convertissent le rayonnement solaire en chaleur, et se répartissent en deux
-grandes catégories : les capteurs plans, et les capteurs à concentration.
-Les capteurs thermiques plans ne nécessitent pas de suivi, sont beaucoup plus simples d'utilisation,
-mais ils sont physiquement limités en température, (usuellement moins de 100° C) et ne
-conviennent pas pour la cuisson.
-Les capteurs à concentration (paraboliques, cylindro paraboliques, à miroirs, à miroirs "Fresnel"...)
-produisent de la chaleur à un niveau de température plus élevé, mais ils nécessitent un suivi du
-soleil, d'où certaines complications qui les rendent peu attrayants pour des installations de petite
-taille comme celle qui nous intéresse ici, de l'ordre de 0,5 à 1 kW disponibles pour l'utilisateur.
+热集热器把太阳辐射转化为热量，又分为两大类：平板集热器和聚光集热器。
+平板热集热器不需要跟踪太阳，使用起来要简单得多，但在温度上受到物理限制（通常低于 100° C），不适合用于烹饪。
+聚光集热器（抛物面、柱抛物面、反射镜式、「菲涅尔」反射镜式等等）能在更高的温度水平上产生热量，但它们需要跟踪太阳，由此带来的种种麻烦使它们对小型装置缺乏吸引力——我们这里关注的正是这种规模：用户可获得的功率约为 0,5 到 1 kW。
 
-Les capteurs à caloducs et à tubes sous vide ne sont pas à proprement parler des capteurs plans
-puisqu'ils concentrent quelque peu le rayonnement solaire, mais ils ne nécessitent pas de suivi du
-soleil, et récupèrent aussi bien le rayonnement diffus que le rayonnement direct. De plus la double
-enveloppe sous vide limite drastiquement les pertes thermiques.
-Un peu de concentration, et très très peu de pertes : telle est la recette du succès de ce type de
-capteur solaire pour obtenir un bon niveau de température et un bon rendement..
+严格说来，热管式真空管集热器并不属于平板集热器，因为它们对太阳辐射有一定的聚集作用；但它们不需要跟踪太阳，而且既能回收漫射辐射，也能回收直射辐射。此外，双层真空壁极大地限制了热损失。
+适度聚光，加上极少量的热损失——这就是这类太阳能集热器取得良好温度水平和良好效率 (rendement) 的成功秘诀。
 
-**§ 2 LA QUESTION DU COLLECTEUR DES CAPTEURS A CALODUC**
+**§ 2 热管集热器集流管的问题**
 
-Vus de l'extérieur, tous les capteurs à caloducs sous tube à vide se ressemblent, les tubes ont les
-mêmes dimensions et suivent peu ou prou la même technologie.
+从外部看，所有真空管热管集热器都差不多：管子尺寸相同，所用技术也大同小异。
+不过各制造厂家之间还是存在差别，体现在接收第一级热管蒸发端的横向集流管上。在多数情况下，集流管只是一根管子，其上以固定间距钎焊着铜质接座，第一级热管的蒸发端就安置在这些接座里。只要集流管略微倾斜，这种布置就能让冷凝水一直顺畅地流到第二级热管底部。
+另有一些厂家提供的集流管由两根平行管组成，有时这两根管并不笔直，
 
-Il y a toutefois une différence entre les fabricants, au niveau du collecteur horizontal recevant le
-bulbe des caloducs du premier étage. Dans la plupart des cas le collecteur est un simple tube sur
-lequel sont brasés à espaces réguliers des réceptacles en cuivre, dans lesquels viennent se loger les
-bulbes des caloducs du premier étage. Pour peu que le collecteur soit légèrement en pente, cette
-disposition permet parfaitement aux condensats de s'écouler jusqu'au fond du caloduc du second
-étage.
-D'autres fabricants proposent des collecteurs formés de deux tubes parallèles, parfois non
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-rectilignes, qui enserrent le réceptacle des bulbes. Cette disposition est certainement tout à fait
-adéquate pour ce qui est du propos initial du fabricant, l'un d'eux précise qu'elle permet d'éviter les
-brasures qui subissent des alternances nuisibles de variations de températures. Mais pour ce qui est
-de notre propos, la prudence s'impose quant à la possibilité pour les condensats de retourner au fond
-du caloduc dans le cas de tubes collecteurs non rectilignes. Pour le moment, les collecteurs formés
-d'un seul tube rectiligne semblent être le bon choix.
+它们夹抱着蒸发端的接座。这种布置就制造商原本的目的而言无疑完全合适，其中一位厂家还指出，它可以避免钎焊部位遭受有害的温度反复变化。但就我们的目的而言，在集流管不笔直的情况下，冷凝水能否回流到热管底部就必须谨慎对待。目前看来，由单一直管组成的集流管似乎是正确的选择。
 
-Dans ces collecteurs circule généralement de l'eau ou bien un liquide caloporteur à base d'eau. La
-Pression Maximale de Service usuellement indiquée par les fabricants est de 6 bar (avec une
-Pression d' Epreuve de 9 bar?)
-Pour le cuiseur proposé ici, la pression d'utilisation est de trois bar, avec deux soupapes de sécurité
-tarées à cette valeur.La vapeur est un gaz, et en cas d'accident une explosion de gaz est beaucoup
-plus dangereuse qu'une explosion due à un liquide, mais compte tenu des valeurs en jeu ici, il n'y a
-pas d'exagération majeure quant au risque encouru.
+这些集流管内通常流通的是水，或以水为基的载热液体。制造商通常标称的最大工作压力 (Pression Maximale de Service) 为 6 bar（试验压力 (Pression d'Epreuve) 为 9 bar？）。
+对于本文所提出的灶具，使用压力为三 bar，并装有两个定压到该值的安全阀。蒸汽是一种气体，一旦发生事故，气体爆炸要比液体爆炸危险得多；但考虑到这里涉及的数值，所承担的风险并不过分。
 
-Les collecteurs adaptés à notre usage comportent généralement un petit tube à chaque extrémité
-destiné à recevoir une sonde de thermomètre
+适合我们用途的集流管通常在两端各带有一根小管，用于安装温度计探头。
 
-#### § 3 QUEL CAPTEUR CHOISIR?
+#### § 3 该选择哪种集热器？
 
-Hormis la question du collecteur, il ne semble pas y avoir de préférence pour tel ou tel autre
-fabricant ou revendeur.
-Certains revendeurs proposent un réflecteur à installer derrière les tubes, en aluminium anodisé,
-avec des ondulations parfois présentées... comme des CPC. Les petites ondulations servent à la
-rigidité de la tôle, et ne sont en rien des CPC. Le réflecteur a un certain intérêt lorsque le soleil est
-"face au capteur", les rayons qui passent entre les tubes (et entre les deux enveloppes de verre?) sont
-alors récupérés, mais cet effet est très atténué lorsque le soleil est de part et d'autre du capteur. Il est
-difficile d'avoir un avis tranché sur la question.
-Nota : il existe également des capteurs à circulation d'eau sous tubes à vides, qui ne sont d'aucune
-utilité pour notre usage.
-Le prix d'un capteur "18 tubes -1,80m" est de l'ordre de 500 à 600 euros en 2015, hors transport.
-La question du transport des tubes est très délicate, moins en raison de leur fragilité qu'en raison de
-leur encombrement qui les rend très vulnérables aux chocs. La question du transport doit avoir été
-examinées dans tous ses détails avant achat, voir sur ci dessous § 5
+除了集流管的问题之外，似乎对某一家特定的厂商或经销商并无偏好。
+有些经销商提供一种阳极氧化铝制的反射板，可安装在管子后面，其上带有一些波纹，有时被吹捧成……是 CPC。这些小波纹的作用是增强板料的刚度，绝不是什么 CPC。当太阳「正对集热器」时，反射板有一定价值：此时穿过管子之间（以及两层玻璃壁之间？）的光线会被回收；但当太阳位于集热器两侧时，这种效果就大为衰减。对于这个问题，很难给出斩钉截铁的结论。
+注意：也有一些在真空管下走水流的集热器，对我们的用途毫无用处。
+一个「18 管 -1,80 m」集热器的价格约为 500 到 600 欧元（2015 年），不含运费。
+管子的运输问题非常棘手，与其说是因为它们易碎，不如说是因为它们体积笨重，因而在碰撞面前非常脆弱。运输问题必须在购买之前从各个细节上加以考察，见下文 § 5。
 
-**§ 4 QUELLE DIMENSION DE CAPTEUR**?
+**§ 4 应选择多大尺寸的集热器**？
 
-Le cuiseur proposé ici est construit à partir d'un capteur de 18 tubes de 1,80 mètres. Ce type de
-capteur est disponible dans différentes dimensions, entre 8 et 30 tubes.
-Dans des installations de petite taille, la puissance thermique dépend de la surface de captation des
-rayons solaires, mais la puissance disponible pour l'utilisateur n'est pas proportionnelle à cette
-surface : il faut tenir compte ici de l'effet d'échelle, d'autant plus redoutable en matière thermique
-qu'il est souvent mal évalué – quand il n'est pas franchement ignoré. Lorsque la dimension diminue,
-la puissance diminue encore plus rapidement, puis s'effondre complètement. Ce n'est pas le lieu de
-débattre ici de la question -laissons là aux thermiciens !- mais il serait naïf de ne pas en tenir
+本文所提出的灶具，是以 18 根 1,80 米长的管子构成的集热器为基础建造的。这类集热器有若干不同规格，管数在 8 到 30 之间。
+在小型装置中，热功率取决于收集太阳辐射的面积，但用户可获得的功率并不与该面积成正比：这里必须考虑尺度效应，而在热学领域这种效应尤为可怕，因为它常常被低估——甚至干脆被无视。当尺寸减小时，功率下降得更快，随后彻底崩塌。这里不是讨论这个问题的地方——就把它留给热工技术人员吧！——但如果对它不加考虑，那就太天真了。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-compte.
-Aussi par prudence, il faut éviter pour le moment de construire un cuiseur à partir d'un capteur de 8
-tubes. Il serait toujours possible de recouvrir partiellement un capteur de 18 tubes, et de mesurer
-finement les conséquences de l'effet d'échelle...
-Quant au capteur de 30 tubes, là aussi il faut être prudent : quelle quantité maximum d'énergie la
-plaque chauffante est-elle capable de transférer au récipient de cuisson? Cette valeur n'est pas
-encore connue expérimentalement (il sera toujours possible.... de retirer quelques tubes du
-capteur...).
-Il existe une version "balcon" de tubes sous vides, beaucoup moins long, mais à ce jour il n'est pas
-possible de fournir un avis autorisé sur le sujet.
+同样出于谨慎，目前应当避免用 8 根管子的集热器来建造灶具。始终可以对 18 管集热器做部分遮盖，并精细地测量尺度效应带来的后果……
+至于 30 管集热器，这里同样需要谨慎：加热板最多能够向烹饪容器传递多少能量？这一数值目前尚未通过实验确定（毕竟始终可以……从集热器上拆掉几根管子）。
+还有一种真空管的「阳台」版本，长度短得多，但迄今为止还无法就此给出权威意见。
 
-Il ne faut donc pas avoir d'appréhension majeure quant à la puissance thermique du système.L'ordre
-d'idées de sa capacité est "trois lots de quatre kilogrammes de légumes par jour, par un temps
-correctement ensoleillé" pour un capteur de 18 tubes de 1,80m. En fait, le résultat final dépend
-beaucoup plus du conducteur que du cuiseur : est-il vraiment utilisé à plein temps pendant six
-heures par jour?
+因此，不必对系统的热功率抱有太大的顾虑。对于 18 根 1,80m 的集热器，其容量的量级为「在日照正常的情况下，每天三批四公斤蔬菜」。实际上，最终结果更多地取决于使用者而不是灶具本身：他是否真的每天满负荷使用六小时？
 
-**§ 5 UN PROBLEME CRUCIAL : LE TRANSPORT DES TUBES**
+**§ 5 一个关键问题：管子的运输**
 
-Concernant leur résistance, les tubes en verre sont tout à fait correctement dimensionnés. Ils sont
-également très bien emballés par paquets de 20 tubes dans des cartons, et cet emballage convient
-parfaitement lorsqu'il s'agit d'empiler des cartons identiques dans un container maritime : ils sont
-parfaitement à l'abri des chocs.
-Mais lorsqu'il s'agit de transporter un seul carton de tubes dans un camion de messagerie, alors la
-catastrophe est quasiment assurée : pour peu que le carton de deux mètres de long soit posé sur une
-palette de 1,20m (donc avec un porte à faux de 40 cm de chaque côté), et qu'il soit nécessaire de
-manutentionner deux ou trois fois le colis avec un transpalette, en lui faisant effectuer des demi-tour
-à l'intérieur d'un camion de 2,40m, alors les chocs sont tels que pas un seul tube ne résiste, quel que
-soit le nombre de tours de papier-bulles à chaque extrémité du colis.
-La seule solution consiste à confectionner une caisse dans laquelle sera déposé le colis avec des
-sangles. La caisse doit être conçue de façon à
+就抗冲击能力而言，玻璃管的尺寸选得完全到位。它们同样也按每包 20 根装入纸箱，包装得非常好；而当需要在海运集装箱内堆放同规格纸箱时，这种包装非常合适：它们能很好地免受碰撞。
+但当需要在一辆货运卡车里只运送一箱管子时，灾难几乎是可以肯定的：只要那箱长两米的货被放在一个 1,20m 的托盘上（即每侧各有 40 cm 的悬臂），并且需要用托盘车搬动两三次，还要让它在一辆 2,40m 的卡车内部掉头，那么冲击之大，无论在货箱两端缠多少圈气泡膜，都不会有任何一根管子能够幸免。
+唯一的解决办法是制作一个箱子，把货箱用绑带固定放入其中。这个箱子必须满足下列要求：
+- 能够自承重，也就是说足够刚硬。箱体的刚度不应由管子来保证（纸箱包装的情形就不是这样……）。一旦放在托盘上，无论以何种方式吊装，箱体都不得变形。
+- 足够坚固，能够承受搬运过程中的冲击，而不把这些冲击传递给管子。
+最后，如果箱子是用挂接在汽车上的拖车来运输的，应选用带减震器的拖车（_除了_悬挂装置之外），以免任何一处高低不平都引发半打以上的颠簸。
+运输包装的制作遵循相当严格的规范，必须予以遵守。也存在周转箱这类装置。
+soleil-vapeur 制作的箱子曾让管子运输数千公里而毫无损伤。
 
-- être autoportante, c'est à dire suffisamment rigide. Ce ne sont pas les tubes qui doivent assurer la
-rigidité de la caisse (comme dans le cas d'un emballage en carton...). Une fois posée sur une palette,
-la caisse ne doit pas se déformer quelle que soit la façon dont elle est prise en charge.
-- être suffisamment résistante pour supporter les impacts de manutention, sans les transmettre aux
-tubes.
-Enfin, si la caisse est transportée dans une remorque attelée à une voiture, prévoir une remorque
-avec amortisseurs ( _en plus_ des suspensions) pour éviter que le moindre dénivelé ne provoque une
-demi-douzaine de soubresauts.
-La confection d'emballages pour le transport suit des normes bien précises, qu'il convient de
-respecter. Il existe également des dispositifs de caisses-palettes.
-La caisse fabriquée par soleil-vapeur a permis de transporter des tubes sur plusieurs milliers de
-kilomètres sans aucun dommage.
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+## 第 III 节 灶具支架
+
+这里提出的灶具支架是一套木结构，刻意做得比较粗犷、尺寸略有富余，但所有做法（金属支架、砖砌支架、土坯支架……）都是可接受的，只要它们能让灶具保持稳定、朝向正确，并依据当地纬度获得正确的倾角。
+
+这里给出的灶具支架由一个支架 (chevalet)、第一级的支撑框架，以及烹饪隔热箱体的支撑三部分组成。
+
+#### § 1 灶具支架应设多高？
+
+支架的高度取决于希望给集热器 (capteur) 的倾角，而这个倾角本身又取决于当地纬度和季节。首先大致应当让太阳光在_春分日的太阳正午时刻_与集热器互相垂直，但
+
+- 让管子始终与太阳辐射「完美」垂直，既非必要，也不可能：太阳在天空中始终处于（看起来的）运动之中，早晨和傍晚它在天空中比正午时低得多，等等……而这个集热器的优点之一恰恰是不需要跟踪太阳。因此，集热器的固定位置总是一种折中：在某些时段它的运行效果会优于
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-## SECTION III LE SUPPORT DU CUISEUR
+其他时段。经过数周或数月与集热器的磨合之后，使用者才能确定最符合其使用方式的配置。
 
-Le support du cuiseur proposé ici est une charpente bois, délibérément rustique et quelque peu
-surdimensionnée, mais tous les dispositifs (support métallique, support en maçonnerie, support en
-terre...) sont admissibles, tant qu'ils permettent au cuiseur d'être stable, correctement orienté, et
-correctement incliné en fonction de la latitude du lieu.
+- 在赤道上，理论上集热器应当是水平的，但由于第一级的热管需要一定的最小倾角（15 °？），这做不到。因此集热器在一个季节的效果会更好，而在「相反」的季节稍差一些。当然总可以定期把它重新调整方向，但先别平白无故地把情况弄复杂。
+作为参考（仅供参考）：
+假设有一根代表第一级支撑框架的木料，长度 L = 2.00 米，其一端被垫高 H，另一端支撑在地面上，与水平面成 α 角。
 
-Le support du cuiseur présenté ici comprend un chevalet, un cadre support du premier étage, et un
-support du caisson isolé de cuisson.
-
-#### § 1 QUELLE HAUTEUR POUR LE SUPPORT DU CUISEUR?
-
-La hauteur du chevalet dépend de l'inclinaison que l'on souhaite donner au capteur, qui elle même
-est fonction de la latitude, et de la saison. En première approche, cette hauteur devrait permettre aux
-rayons solaires d'être perpendiculaires au capteur _à l'heure de midi solaire au jour de l'équinoxe_ , ,
-mais
-
-- il n'est pas indispensable ni même possible que les tubes soient en permanence "parfaitement"
-d'équerre avec le rayonnement solaire : le soleil est en permanence en mouvement (apparent!) dans
-le ciel, matin et soir il est beaucoup plus bas dans le ciel qu'à l'heure de midi, etc ..., et c'est un des
-intérêts de ce capteur que de ne pas nécessiter de suivi du soleil. La position fixe du capteur est
-donc toujours un compromis, son fonctionnement sera toujours meilleur à certaines périodes de la
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-journées qu'à d'autres moments. C'est après quelques semaines ou quelques mois de connivence
-avec le capteur que son utilisateur sera en mesure de préciser la configuration la plus adéquate
-correspondant à ses modes d'utilisation.
-
-- sous l'équateur exactement, le capteur devrait en théorie être à l'horizontale, mais c'est impossible
-en raison des caloducs du premier étage, qui nécessitent une inclinaison minimum (15 °?). Le
-capteur fonctionnera donc mieux à une saison, et un peu moins bien à la saison "opposée". Il sera
-toujours possible de le réorienter périodiquement, mais ne commençons pas à compliquer
-inutilement la situation.
-À titre indicatif :
-soit une pièce de bois figurant le cadre support du premier étage, de longueur L = 2.00 mètres,
-dont une extrémité est surélevée d'une hauteur H, et dont l'autre extrémité repose sur le sol en
-formant une angle α avec l'horizontale.
-
-Tableau des valeurs de H en fonction de l'angle α H= Sinus(α) * L
-Dans le cas présent : L = 2,00 mètres
+依据角度 α 列出的 H 值表　H= Sinus(α) * L
+在本例中：L = 2,00 米
 
 ### α 15° 20° 25° 30° 35° 40° 45° 50° 60° 70°
 
@@ -484,603 +326,399 @@ Dans le cas présent : L = 2,00 mètres
 ```
 H (m) 518 684 845 1 000 1 147 1 285 1 414 1,532 1,732 1,
 ```
-Sur la banquise, le capteur serait pratiquement vertical ; serait-ce une utopie? Sur ce sujet, voir la
-rubrique "Les capteurs à caloducs, un dispositif de chauffage pour le Grand Nord ?", dans la 5ème
-partie de la documentation.
+在冰盖上，集热器实际上会接近垂直；这是不是空想呢？关于这个话题，请参阅本资料库第 5 部分中的栏目「带热管的集热器——大北方的一种供暖装置？」。
 
-Le chevalet proposé ici est très haut permet d'incliner le premier étage sous différents angles avec
-un important débattement, il convient à un cuiseur "de démonstration". Pour un cuiseur à poste fixe,
-il n'est que de s'adapter aux circonstances locales.
+这里提出的支架很高，可以把第一级以较大的调整范围倾斜到不同角度，适合用作「演示」灶具。至于固定安装的灶具，则只需因地制宜地调整即可。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-#### § 2 LA CHARPENTE EN BOIS
+#### § 2 木结构支架
 
-Le chevalet proposé ici n'est pas symétrique, la face arrière étant moins haute que la face avant. Ce
-choix n'est pas indispensable. Pour des latitudes peu élevées, il semble préférable d'avoir un
-chevalet symétrique.
-Les dimensions sont en centimètres, comme usuellement pur le travail du bois.
+这里提出的支架并不对称：后侧面比前侧面矮。这个选择并非必要。对于纬度较低的地区，采用对称的支架似乎更合适。
+尺寸以厘米为单位，这与木工活计的通常做法一致。
 
-A) - LA FACE AVANT DU CHEVALET
-section de bois : 9 x 3,5 cm environ, selon approvisionnements
-Deux montants L =205 ; Deux traverses L = 150; Une diagonale L = 250 environ ;
-**Percements pour recevoir le cadre support** : les deux montants sont percés pour recevoir le cadre
-support du premier étage, percements diam 12 ou 13mm, écartement 100 cm. L'entraxe entre les
-deux files de percements correspond à l'entraxe des charnières installées sur le cadre support ;
-entraxe entre les deux files de trous proposé ici : 140 cm, à confirmer
+A) - 支架的前侧面
+木料截面：约 9 x 3,5 cm，视进货情况而定
+两根立柱 L =205；两根横梁 L = 150；一根斜撑 L = 250 左右；
+**用于承接支撑框架的钻孔**：两根立柱上钻孔以承接第一级的支撑框架，孔径 12 或 13mm，间距 100 cm。两排钻孔的中心距对应于支撑框架上所装铰链的中心距；此处提出的两排孔的中心距为 140 cm，待确认
 
-**Charnières de liaison** entre la face avant et la face arrière : voir ci dessous § 3 ; ces charnières de
-liaison sont fixées par deux boulons de chaque côté, qui servent en même temps à l'assemblage de
-la traverse et du montant correspondant.
+**连接铰链** 位于前侧面与后侧面之间：见下文 § 3；这些连接铰链每侧用两个螺栓固定，同时兼作相应横梁与立柱的连接件。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-#### B) LA FACE ARRIERE DU CHEVALET
+#### B) 支架的后侧面
 
-Deux montants L = 178; Deux traverses L = 150; Une diagonale L =220 environ ;
+两根立柱 L = 178；两根横梁 L = 150；一根斜撑 L =220 左右；
 
-C ) LE CADRE SUPPORT DU PREMIER ETAGE DE CALODUCS
+C ) 第一级热管的支撑框架
 
-- deux montants L = 205, à confirmer selon le plan exact du capteurs, voir § 4 ci dessous
-- deux traverses hautes, L = 150, à confirmer, qui recevront le collecteur,
-- une traverse basse, L = 150 qui recevra le rail supportant les tubes sous vide,
-- une diagonale, L = 250 environ
-un « pare chocs » inférieur, en protection de la partie basse du cuiseur, de section plus carrée
+- 两根立柱 L = 205，需根据集热器的准确图纸确认，见下文 § 4
+- 两根上横梁，L = 150，待确认，用于承托集流管 (collecteur)，
+- 一根下横梁，L = 150，用于承托支撑真空管的导轨，
+- 一根斜撑，L = 250 左右
+底部一根「防撞条」，用于保护灶具下部，截面更接近方形
 
-**Charnières pour l'attache au chevalet** : elles sont maintenues au cadre par un seul boulon, de
-façon à pouvoir l'orienter quelque peu afin de faciliter le geste lors de l'installation du cadre sur le
-chevalet: même entraxe entre les charnières que la série de trous 140 cm, à confirmer. Faire un ou
-deux percements supplémentaires dans les charnières (coté chevalet) pour pouvoir affiner le réglage
-de l'inclinaison du collecteur lors de l'installation sur le chevalet, voir la section VII "installation".
-**Boulons d'attache du cadre sur le chevalet** : diam 8 ou 10 mm, pour des percements diam 12 ou
-13, ( afin de faciliter l'installation du cadre); écrou papillon si possible, et rondelle large.
+**用于安装到支架上的铰链**：这些铰链用单颗螺栓固定在框架上，从而可以略微调整方向，便于把框架装到支架上时的操作：铰链的中心距与 140 cm 的那排孔相同，待确认。在铰链上（靠支架一侧）再钻一两个孔，以便在安装到支架上时把集流管 (collecteur) 的倾角调得更精细，见第 VII 节「安装」。
+**框架固定到支架上的螺栓**：直径 8 或 10 mm，配直径 12 或 13 的钻孔（以便框架易于安装）；如有可能使用蝶形螺母，并配宽垫圈。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-#### D) LE SUPPORT DU CAISSON ISOLE DE CUISSON
+#### D) 烹饪隔热箱体的支撑
 
-Deux longerons fixés sur le
-chevalet supportent une
-plaque sur laquelle reposera
-le caisson isolé. Le caisson
-doit être (impérativement!)
-légèrement plus haut que le
-collecteur afin que le caloduc
-fonctionne bien. Si besoin, il
-sera toujours possible
-d'affiner le réglage en
-interposant des chevrons ou
-autres sous le caisson.
+固定在支架上的两根纵梁承托着一块板，隔热箱体就搁在这块板上。箱体（必须！）略高于集流管 (collecteur)，热管才能正常工作。如有需要，总可以在箱体下面垫入小木块或其他物件，把高度进一步调精确。
 
-#### E) UNE VUE D'ENSEMBLE
+#### E) 整体视图
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-#### F) UNE CONFIGURATION PLUS ADAPTÉE AUX ZONES INTERTROPICALES
+#### F) 一种更适合热带地区的配置
 
-Le cadre support du premier étage repose sur la tête d'un petit chevalet, le support du caisson isolé
-repose pour moitié sur la tête du chevalet et pour moitié sur des montants fichés au sol.
+第一级的支撑框架搁在一个小支架的顶端；隔热箱体的支撑则一半落在支架顶端，一半落在插入地面的立柱上。
 
-#### § 3 QUELQUES DETAILS D'EXECUTION
+#### § 3 若干制作细节
 
-Ci dessous, quelques conseils pour le néophyte, que le professionnel chevronné voudra bien
-considérer avec beaucoup de mansuétude.
+以下是给新手的一些建议，还请老手们多多包涵、酌情参考。
 
-**Section de bois** environ 9 x 3,5 cm, selon les usages commerciaux locaux. Veiller à l'absence de
-nœud important, c'est à dire qui affaiblirait la pièce de bois sur plus d'un quart de sa section.
+**木料截面** 约 9 x 3,5 cm，依当地商业供货的惯例而定。要注意避开大的节疤，也就是那种会使木料截面削弱超过四分之一的节疤。
 
-**le dégauchissage**
+**找平校正**
 
-Avant de percer et d'assembler, il est indispensable de dégauchir la face avant du chevalet.
+在钻孔和装配之前，必须先对支架的前侧面做找平校正。
 
-Une ligne et un point déterminent un plan ; par contre quatre points ne sont pas forcément sur un
-même plan : il est indispensable ici de dégauchir les assemblages.
+一条直线加一个点可以确定一个平面；但四个点却不一定落在同一平面内，因此这里必须对各构件做找平校正。
 
-On suppose ici que l'assemblage s'effectue sur quatre tréteaux. Le dégauchissage consiste à s'assurer
-que les deux montants (ou les traverses) sont bien dans un même plan, que l'ensemble n'est pas
-"voilé". Pour ce faire, il convient de porter l' oeil au niveau du plan formé par les deux montants ;
+这里假设装配是在四张工作台上进行的。找平校正就是确保两根立柱（或两根横梁）确实处在同一平面内、整个构件不「扭曲」。为此，应把眼睛降到两根立柱所形成的平面高度上；
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-Il est donc indispensable que l'observateur baisse non pas son regard mais baisse son oeil au niveau
-des deux montants : un vague coup d' oeil porté "d'en haut" ne fournit strictement aucune
-indication, et c'est un bon moyen d'avoir ensuite un support de cuiseur bancal sans trop comprendre
-pourquoi.
+因此，观察者必须降低的与其说是视线，不如说是眼睛的高度，降到两根立柱的高度：从「高处」漫不经心地瞥一眼，绝对得不到任何指示；而这正是日后得到一个歪歪扭扭的灶具支架、却又不太明白原因的好办法。
 
-En fonction des indications de l'observateur, caler sous le bois ou sous les chevalets, jusqu'à
-satisfaction. L'usage du niveau n'est pas interdit, mais il est superfétatoire et bien moins précis que
-le dégauchissage "à l'oeil".
+根据观察者的指示，在木料下方或支架下方加垫，直到满意为止。并不禁止使用水平尺，但这既属多余，精度也远不如「目测」找平。
 
-Ci dessus : il convient de caler jusqu'à satisfaction, au droit du point D
+上图：应在 D 点处加垫，直到满意为止。
 
-Ci dessous : les indications fournies par l'observateur, qui ne se baisse pas au niveau de
-l' assemblage, ne sont d'aucune utilité.
-**Equerrage**
+下图：如果观察者没有把眼睛降到装配平面的高度，他所给出的指示毫无用处。
+**找方**
 
-Affiner ensuite l'équerrage, non pas en utilisant une équerre de menuisier, mais en mesurant les
-diagonales qui doivent être égales
+随后再把方正度调精确——不要用木工直角尺，而要靠测量对角线来判断，两条对角线必须相等
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-**préassemblage**
-Préassembler l'ensemble avec des vis à bois provisoires avant de percer, lasurer, et boulonner.
+**预装配**
+在钻孔、上漆和上螺栓之前，先用临时木螺丝把整体预装配起来。
 
-**percements**
-On peut alors procéder aux percement,
-Veiller à bien tenir la perceuse d'équerre par rapport aux pièces de bois : il est très utile alors d'avoir
-l'avis d'une tierce personne observant l'opérateur avec un peu de recul. Si les trous sont "de travers",
-un éventuel démontage ultérieur devient rapidement une "galère"
+**钻孔**
+这时才可以开始钻孔。
+要注意把钻机相对于木料端端正；此时若能有第三个人退后几步观察操作者，将非常有帮助。如果孔钻「歪」了，日后一旦需要拆装，很快就会变成一场「灾难」。
 
-Diamètre des percements : percer à 8.0 mm (ou 10.0 mm) pour des boulons de 8 ( ou de 10), de
-façon à faire un assemblage "à trous bouchant", beaucoup plus satisfaisant qu'un assemblage où les
-boulons ont du jeu.
-Lorsque les têtes de boulons sont à noyer, percer préalablement à la mèche plate sur quelques
-millimètres
+钻孔直径：钻 8.0 mm（或 10.0 mm），配 8（或 10）的螺栓，这样可以得到「孔与螺栓相合」的装配，比螺栓在孔里有间隙的装配要理想得多。
+当螺栓头需要沉入板面时，先用扁钻在沉孔处钻几毫米深
 
-**Traitement de surface** : après percement des trous pour les boulons et avant assemblage final,
-quelques couches de lasure seront les bienvenues.
+**表面处理**：在为螺栓钻好孔、最终装配之前，刷上几道清漆是受欢迎的。
 
-**assemblage par boulons** M 10 Un bon choix : les vis à tête ronde collet carré « TRCC »
+**螺栓装配** M 10　一个不错的选择：方颈圆头螺钉「TRCC」
 
-Les écrous des traverses supérieures sont à orienter vers l'extérieur du chevalet, afin de ne pas
-gêner sa fermeture.
+上横梁的螺母要朝向支架外侧，以免妨碍支架的闭合。
 
-**charnières :**
+**铰链：**
 
-ci contre : charnière
-bichromatée castorama.fr
-Réf : 570744
+右图：镀铬铰链 castorama.fr
+货号：570744
 
-Afin de ne pas gêner la fermeture du chevalet, il est souhaitable de décaler quelque peu les tetes de
-boulons ; ne pas hésiter à repercer les charnières, et à limer le collet carré des boulons. On peut
-aussi préférer des vis à tête plate, et fraiser autant que besoin la charnière, ou bien encore cintrer
-quelque peu la charnière.
-Sur le chevalet, les charnières sont fixées par deux vis de chaque côté ; sur le cadre support des
-tubes, les charnières sont fixées par une seule vis de chaque côté, de façon à pouvoir rectifier
-quelque peu leur orientation pour faciliter le montage
+为了不妨碍支架闭合，最好把螺栓头略微错开；必要时可以重新给铰链钻孔，也可以把螺栓的方颈锉掉。也可以改用平头螺钉，并把铰链按需要做沉头处理，甚至把铰链略微弯折。
+在支架上，铰链每侧用两颗螺钉固定；在支撑管子的框架上，铰链每侧只固定一颗螺钉，以便能略微校正其方向，方便装配。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-#### § 4 INSTALLATION DU PREMIER ETAGE SUR SON CADRE SUPPORT
+#### § 4 第一级热管在其支撑框架上的安装
 
-Toutes les indications proposées ici sont à adapter en fonction des détails du capteur à
-caloducs qui a été acheté. En vue de leur installation, ces capteurs sont en général fournis avec un
-stand qui n'est ici d'aucune utilité, sinon pour connaître, en faisant un « montage à blanc », la
-distance exacte entre le rail inférieur et le collecteur supérieur
+这里提出的全部说明都需要根据实际买到的热管集热器的具体细节加以调整。为了安装，这类集热器通常会随附一个支架，在这里除了用来通过「空装试装」弄清下导轨与上集流管之间的准确距离之外，别无他用。
 
 #### .
 
-De part et d'autre du collecteur, visser deux Percer et visser le rail (couleur
-profilés plats en aluminium, section 30 x 3 mm grise) à bonne distance du
-environ (repères A et B, couleur grise); installer collecteur
-le collecteur, puis visser deux autres profilés plats
-pour le maintenir (repères C et D)
+在集流管 (collecteur) 两侧，在距导轨合适距离处各拧上两根铝制扁平型材，截面 30 x 3 mm（灰色）（标记 A 和 B，灰色）
+在导轨（灰色）上钻孔并用螺钉固定；装上集流管，然后再拧上另外两根扁平型材将其固定（标记 C 和 D）
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-## SECTION IV LA PLAQUE DE CUISSON
+## 第 IV 节 加热板
 
-La plaque chauffante, dite aussi plaque chauffante, est la zone froide du second étage du
-caloduc, c'est une originalité du dispositif de cuisson solaire à caloducs étagés. Elle est introuvable
-dans le commerce, il faut donc la fabriquer.
+加热板 (plaque chauffante)，也称灶面 (plaque de cuisson)，是热管第二级的冷区，这是多级热管式太阳能灶具装置的一大特色。成品在市场上买不到，因此必须自己做。
 
-**§ 1 PRINCIPE, CONCEPTION ET CALCUL** S
+**§ 1 原理、设计与计算** S
 
-Le principe est de disposer d'un corps creux dont la face supérieure reçoit le récipient de
-cuisson. On peut, dans un premier temps, se la représenter comme une grande boite de camembert
-vide. La vapeur pénètre dans la boite par le fond, se dirige vers la zone froide qui est la face
-supérieure (paradoxalement dénommée "plaque chauffante" du point de vue de l'utilisateur), et se
-condense. Les gouttes de condensats tombent au fond de la boite et retournent vers la zone chaude
-du caloduc, en empruntant le même chemin que la vapeur mais en sens inverse. Les deux flux – flux
-gazeux de vapeur et flux liquide de condensats – se croisent donc dans le tuyau souple reliant les
-deux extrémités du caloduc, mais sans se mélanger, grâce à la pente et à la courbure adéquates du
-tuyau, grâce aussi à la faible vitesse de la vapeur, de l'ordre de 1 mètre par seconde.
-Plusieurs conditions sont donc à respecter lors du dessin
+原理是设置一个中空腔体，其上表面承载烹饪容器。起初不妨把它想象成一个大的、去掉奶酪的卡芒贝尔奶酪盒。蒸汽从盒底进入，朝向冷区流动，而冷区正是上表面（从使用者的角度看，悖论性地被称为「加热板」），并在那里凝结。冷凝水滴落回盒底，再沿与蒸汽相同但方向相反的路径返回热管的热区。于是两股流——蒸汽的气流和冷凝液的液流——在连接热管两端的软管中交叉，却并不混合：这是因为管道具有合适的坡度和弯曲度，也因为蒸汽速度很低，只有每秒 1 米左右。
+因此在设计时必须满足若干条件
 
-- la résistance : la Presssion Maximale de Service à prendre en compte est de 6 bar, la pression
-usuelle étant de 3 à 4 bar manométriques. La Pression d' Epreuve sera donc de 6*1,5 = 9 bar.
-- l'étanchéité ; noter que la vapeur est un gaz, et que l'étanchéité aux gaz est toujours beaucoup plus
-délicate à réaliser que l'étancheité aux liquides.
-- la surface de la plaque supérieure doit correspondre aux dimensions du fond du récipient ; plus
-elle est importante, meilleur sera le transfert thermique, mais une plaque trop grande est inutile,
-voire nuisible en raison des pertes thermiques qui en résultent.
-- seul l'aluminium convient pour la plaque supérieure, afin d'assurer un bon transfert thermique.
-- l'état de surface de la face supérieure recevant le récipient de cuisson doit être correct: planéité et
-bon état de surface, sont des conditions sine qua non d'un bon transfert thermique.
-- l'écoulement des condensats vers la sortie doit être facilité. On se contentera ici de mettre
-l'ensemble plaque et caisson en léger faux-niveau sur 5 mm lors de l'installation du caisson sur le
-chevalet, mais d'autres solutions sont envisageables pour faciliter l'écoulement des condensats au
-fond de la plaque vers la sortie.
-- pour limiter le mélange des flux gaz-liquide dans le coude de sortie et dans le tuyau, prévoir une
-petite cloison de séparation des flux sur la plaque inférieure (voir schémas ci dessous).
+- 强度：需要考虑的最大工作压力 (Pression Maximale de Service) 为 6 bar，通常压力为 3 到 4 bar（表压）。因此试验压力 (Pression d' Epreuve) 为 6*1,5 = 9 bar。
+- 气密性；要注意蒸汽是气体，而气密的实现总是比液密困难得多。
+- 上加热板的表面尺寸应与容器底部的尺寸相配；面积越大，热传递效果越好，但板过大毫无意义，甚至因随之而来的热损失而有害。
+- 上加热板只适合用铝材，以保证良好的热传递。
+- 承载烹饪容器的上表面，其表面状态必须合格：平整度和良好的表面状态，是获得良好热传递的必要条件。
+- 必须让冷凝液顺畅流向出口。这里只需在把箱体装到支架上时，让加热板与箱体的整体形成 5 mm 的轻微反向倾斜即可；当然也可以考虑其他方案，以利板底的冷凝液流向出口。
+- 为限制气液两股流在出口弯头和管道中混合，应在下加热板上设置一道小小的分流隔板（见下图）。
 
-Quelle hauteur intérieure faut-il prévoir? Une hauteur de 25 mm donne toute satisfaction, mais elle
-pourrait probablement être réduite à 20 mm.
-Quel diamètre pour l'orifice d'entrée/sortie? Par expérience, un bossage + coude 3/4", suivis d'un
-tuyau souple de diam 13 mm intérieur, conviennent, mais sans pouvoir affirmer qu'il s'agit là d'un
-optimum.
-Enfin, il convient de noter que **la présente documentation ne contient aucun calcul de résistance
-des matériaux** : c'est donc au constructeur, professionnel ou non, de prendre ses responsabilités et
-d'effectuer les calculs nécessaires.
-Assemblage boulonné ou assemblage soudé? Sous réserve de respecter les quelques conditions ci
-dessus, le choix de la version dépend en grande partie des moyens disponibles et des préférences du
-constructeur.
+内部高度应设多少？25 mm 的高度完全够用，但很可能可以减到 20 mm。
+进出口孔径取多大？根据经验，一个 3/4" 凸台加上弯头，再接内径 13 mm 的软管，是合适的，但无法断言这就是最佳方案。
+最后要指出的是，**本资料库不包含任何材料强度计算**：因此应由制造者——无论是否专业——自行承担责任并完成必要的计算。
+采用螺栓装配还是焊接装配？在遵守上述若干条件的前提下，版本的选择很大程度上取决于现有的加工手段和制造者的偏好。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-#### § 2 VERSION « ASSEMBLAGE USINÉ ET BOULONNÉ. »
+#### § 2 版本：「机加工并螺栓装配」
 
-#### A) PRESENTATION
+#### A) 介绍
 
-C'est la méthode qui a prévalu lors de la confection des premiers exemplaires, mais rien n'indique
-que ce soit la meilleure solution. L'étancheité est assurée par des joints toriques, et afin de limiter
-les risques de fuite les deux couronnes de boulons sont disposées en dehors des zones sous pression
-de vapeur.
+这是制作最初几件样品时采用的方法，但没有任何迹象表明它就是最佳方案。密封由 O 形密封圈 (joints toriques) 保证；为降低泄漏风险，两圈螺栓都布置在蒸汽压力作用区之外。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-B) LA PLAQUE SUPÉRIEURE est une plaque d'aluminium épaisseur 9,52 mm, disponible en
-dimensions 203 x 203 mm / 8" * 8" (MSCdirect.com # 02255693), dans laquelle a été découpé un
-cercle diam 220 mm, d'où la forme définitive peu usuelle de la plaque.
-La plaque a été dressée sur une fraiseuse pour une bonne planéité et un bon état de surface, puis
-détourée à la scie sauteuse ; (pour l'aluminium, éviter d'utiliser une lame avec une denture trop fine
-qui se bourre facilement).
-La découpe a été achevée sur un tour : percer le centre de la plaque en son centre jusqu'à mi-
-épaisseur avec un foret à centrer, puis presser la plaque contre le mandrin avec la contre-pointe afin
-d'usiner le chant.
-Percements au diamètre 8,1 mm (ou 8,5 dans le cas d'un tracé manuel).
-Fraisages au diamètre 16 mm pour les têtes de vis, avec une fraise adaptée à la tête de vis. Contrôler
-impérativement chaque fraisage, de façon à ce que la tête de vis ne dépasse pas de la plaque
+B) 上加热板 是一块厚 9,52 mm 的铝板，市售规格为 203 x 203 mm / 8" * 8"（MSCdirect.com # 02255693），上面切出一个直径 220 mm 的圆，因此这块板的最终形状相当不常见。
+这块板先在铣床上铣平，以获得良好的平整度和表面状态，再用线锯粗切下料。（就铝材而言，应避免使用齿距过细的锯条，否则很容易塞屑卡住。）
+粗切完成后在车床上精加工：用中心钻把板料中心钻到半厚深度，然后用顶尖顶住板料，把板边加工出来。
+钻孔直径 8,1 mm（手工划线时用 8,5）。
+螺钉头沉孔直径 16 mm，用与螺钉头相配的铣刀加工。每一处沉孔都必须检查，确保螺钉头不高出板面。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-C) LA PLAQUE INFÉRIEURE est en inox épaisseur 5 mm, Ø 200 m, ou éventuellement en
-aluminium
+C) 下加热板 为厚 5 mm 的不锈钢板，Ø 200 m，也可选用铝材
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-#### D) LES PIQUAGES
+#### D) 接管口
 
-Les deux piquages sont confectionnés dans des demi-bobines en acier inox. En guise de cloison de
-séparation des flux pour l'entrée-sortie, faire pénétrer le bossage 3/4'' sur 5 mm environ à l'intérieur,
-après avoir ouvert une échancrure de 10 mm de large environ. Lors de l'assemble, l'échancrure
-"tourne le dos" au petit piquage destiné aux accessoires.
+两个接管口用不锈钢半圆棒料加工。作为进出的分流隔板：先把 3/4'' 凸台向内插入约 5 mm，此前要先开出约 10 mm 宽的缺口。装配时，该缺口「背对」供附件使用的小接管口。
 
-E) L'ENTRETOISE EXTÉRIEURE est débitée dans un tube inox de 6 pouces, Diamètre nominal
-150 mm, diam réel 168,3 mm, épaisseur 7,11 mm, dit « tarif 40 », dit aussi « schedule 40 ». Ce
-type de tube existe aussi en aluminium. L'approvisionnement n'est pas aisé : ces tubes sont vendus
-en longueurs de 6 mètres... En pratique, la seule solution est de trouver l'adresse d'un chaudronnier
-compatissant (le cas échéant : s'adresser à soleil-vapeur.org).
-La hauteur de 25 mm n'a rien d'impératif.
+E) 外侧隔圈 由 6 英寸不锈钢管切出，公称直径 150 mm，实际直径 168,3 mm，壁厚 7,11 mm，法方规格称为「tarif 40」，也写作「schedule 40」。这种管子也有铝制的。采购并不容易：这类管子按 6 米长卖……实际上，唯一的办法是找到一位愿意配合的钣金工（或冷作工）的地址（如有需要：请联系 soleil-vapeur.org）。
+25 mm 的高度并非强制要求。
 
-Les cotes de gorge pour joints
-torique sont impératives
+O 形密封圈沟槽尺寸为强制要求
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-#### F) L'ENTRETOISE INTERIEURE
+#### F) 内侧隔圈
 
-#### G) LES JOINTS TORIQUES
+#### G) O 形密封圈
 
-- pour l'entretoise extérieure : joints Ø intérieur 158,34, Ø de tore 3,53 Matériau Fluocarbone /DF
-801 ou similaire (bonne tenue à la température). Référence Le Joint Français 166307 ou 166306
-(aux USA : Dash number 259).
-- pour l'entretoise intérieure : joint Ø intérieur 34,52 , Ø de tore 3,53, Le Joint Français129409 ou
-129408 (aux USA Dash number 220)
+- 外侧隔圈：密封圈内径 158,34，线径 3,53，材料 氟碳 /DF 801 或类似材料（耐温性好）。参考号 Le Joint Français 166307 或 166306（美国：Dash number 259）。
+- 内侧隔圈：密封圈内径 34,52，线径 3,53，Le Joint Français 129409 或 129408（美国 Dash number 220）
 
-Les joints toriques sont disponibles en ligne par exemple sur oring.fr. Consulter si besoin le
-catalogue en ligne Le Joint Français.
+O 形密封圈可以在线购买，例如在 oring.fr 上。如有需要，可查阅 Le Joint Français 的在线目录。
 
-#### H) LA BOULONNERIE
+#### H) 螺栓件
 
-Boulonnerie : prévoir impérativement de la boulonnerie inox à tête chc dont la résistance est
-connue. Les vis à tête plate galvanisées disponibles en grande surface sont à proscrire, car leur
-résistance (très faible!) n'est ni indiquée ni certifiée. Utiliser impérativement des rondelles grower
-ou des rondelles fendues, en raison de l'alternance des cycles chaud/froid. Couple de serrage : se
-référer à la documentation ; il est inutile de serrer excessivement.
+螺栓件：务必选用强度已知的不锈钢内六角圆柱头（CHC）螺栓。大卖场里卖的镀锌平头螺钉应当弃用，因为它们的强度（非常低！）既没有标示也没有认证。务必使用弹簧垫圈或舌形垫圈，因为这里冷热循环交替。拧紧力矩：请参阅相关文档；过度拧紧没有必要。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-#### § 3 VERSION "ASSEMBLAGE SOUDE"
+#### § 3 版本：「焊接装配」
 
-Toutes les pièces doivent donc être en aluminium. Ne pas hésiter à surdimensionner quelque peu les
-épaisseurs d'aluminium, un léger excès d'aluminium sera sans dommage pour le cuiseur : avec une
-chaleur massique de 0,94 Joule par gramme et par degré Celsius contre 4,2 pour l'eau, l'aluminium
-est 4,5 fois plus facile à chauffer que le même poids d'eau.
+因此所有零件都必须是铝材。铝板厚度不妨略微加大一点，铝稍微多一点不会损害灶具：以每克每摄氏度 0,94 焦耳的比热容对水的 4,2 焦耳来算，同等重量的铝比水容易加热 4,5 倍。
 
-**Plaque supérieure** en alu ep 8 ou 10 mm, Ø 220
+**上加热板** 铝材，厚 8 或 10 mm，Ø 220
 
-**Entretoise extérieure** hauteur 25 mm en tôle d'alu roulée épaisseur? Diamètre extérieur 168 mm
+**外侧隔圈** 高 25 mm，轧制铝板，「厚度？」外径 168 mm
 
-**Entretoise intérieure** : rond alu Ø 18 mm plein, L = 40 mm environ, à souder au centre de la face
-inférieure de la plaque supérieure
+**内侧隔圈**：Ø 18 mm 铝实心棒，L = 40 mm 左右，焊在上加热板下表面的中心
 
-**Plaque inférieure**
-Plaqe alu ep 8 mm ;
+**下加热板**
+铝板厚 8 mm；
 
-4 percements Ø 6,8 pout
-taraudages M 8
-1 percement Ø 18,5 pour
-entrée/sortie
-1 percement Ø 12,5 pour les
-accessoires
-1 percement Ø 158,5 pour
-l'entretoise intérieure
+- 4 个 Ø 6,8 的孔，加工 M 8 螺纹
+- 1 个 Ø 18,5 的孔，供进出口
+- 1 个 Ø 12,5 的孔，供附件
+- 1 个 Ø 158,5 的孔，供内侧隔圈
 
-**Entré-sortie de vapeur**
-Elle pourrait être
-confectionnée dans du rond
-plein en alu Ø 18 mm (voir
-par exemple
-metalaladecoupe.com), à
-percer au Ø 12 mm, et à
-échancrer comme pour la
-version "assemblage usiné
-et boulonné"
+**蒸汽进出口**
+它可以用 Ø 18 mm 铝实心棒加工而成（例如可参见 metalaladecoupe.com），钻成 Ø 12 mm，并像「机加工并螺栓装配」版本那样开槽。
 
-**Départ pour accessoires** :
-en alu Ø 12 mm, à percer à
-Ø 5 mm
+**附件接口**：铝材 Ø 12 mm，钻成 Ø 5 mm
 
-Si les percements sont effectués sur une fraiseuse, voir les cotes au § précédent
+如果钻孔在铣床上进行，尺寸见前一节
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-le raccordement avec la plomberie s'effectuera avec des raccords bicones "à olives" Ø 18 et Ø 12.
-par exemple
+与管路的连接将采用 Ø 18 和 Ø 12 的「橄榄头」双锥接头。
+例如：
 
-- leroymerlin.fr manchon laiton biconique D 18 – 15 x 21 ( =1/2") Réf 65817395
-: castorama.fr raccord union bicone male 12x17xØ 12 Réf : 511935
-si besoin, reprendre la surface des deux piquages avec de la bande abrasive fine (240 ou plus) pour
-assurer un bon contact avec le bicône.
+- leroymerlin.fr 黄铜双锥套筒 D 18 – 15 x 21（=1/2"）货号 65817395
+- castorama.fr 公头双锥活接 12x17xØ 12 货号：511935
+如有必要，用细砂布（240 或更细）重新打磨两个接管口的表面，以保证与双锥头接触良好。
 
-Version "assemblage soudé" : vue d'ensemble
+「焊接装配」版本：整体视图
 
-Après soudure, reprendre si besoin le surfaçage de la plaque supérieure sur un tour ou bien à la
-fraiseuse, pour éliminer toute trace de bombé.
+焊完后，如有必要，在车床上或铣床上重新修整上加热板的表面，消除所有翘曲痕迹。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
+## 第 V 节 隔热箱体
 
-## SECTION V LE CAISSON ISOLE
+太阳能是免费的，但收集它却代价高昂；在太阳能领域，人们再怎么强调下面这一点也不为过：问题与其说是如何收集太阳能，不如说是如何避免在收集到之后再把它白白损失掉。因此，隔热是太阳能灶具正常运转的必要条件。
+下面介绍的隔热箱体用 5 mm 胶合板和 22 mm 方料 (tasseau) 制作，但只要能达到预期目的，任何其他工艺也都可行。
+它由三部分组成：
 
-L'énergie solaire est gratuite, mais sa collecte coûte cher ; et on ne répétera jamais assez qu'en
-matière d'énergie solaire, le problème n'est pas tant de la collecter que d'éviter de la perdre après
-l'avoir captée. L'isolation est donc une condition de bon fonctionnement du cuiseur solaire.
-Le caisson isolé présenté ci dessous est construit avec du contreplaqué de 5 mm et des
-tasseaux de 22 mm, mais tout autre procédé de construction conviendrait, pourvu que le but
-recherché soit atteint.
-Il comprend trois éléments :
+- 底座，内含加热板
+- 中间箱体，内含容器
+- 箱盖，盖住整个箱体
+这三部分相互搭接，并留有少量配合间隙。
 
-- la base, qui contient la plaque chauffante
-- le corps intermédiaire, qui contient le récipient,
-- le couvercle, qui coiffe le tout
-Les trois éléments s'emboitent avec un recouvrement et un léger jeu.
+胶合板须为「户外」级，也就是说，所用胶水的品质足以让它在潮湿环境中使用。涂漆是必不可少的。
 
-Le contreplaqué est de qualité "extérieur", c'est à dire que la qualité de la colle utilisée pour le
-confectionner lui permet de supporter une ambiance humide. Il est indispensable de le peindre.
+所有连接均采用胶接加螺钉固定，基础螺钉为十字头螺钉。
 
-Tous les assemblages sont collés-vissés, la visserie de base étant de la vis à tête cruciforme
+**§ 1 隔热箱体的底座**
 
-**§ 1 LA BASE DU CAISSON ISOLE**
+**左侧板与右侧板**
+两个约 Ø 18 mm 的孔，是留作日后安装绳索提手用的
 
-**Cotés gauche et droit**
-Les deux percements Ø 18 mm environ sont prévus pour installer ultérieurement des
-poignées en cordelette
+在其中一侧，可以预留一根上部方料，以便日后安装加热板的两件支撑件
 
-Sur l'un des côté, on peut laisser un tasseau supérieure en attente, afin de faciliter la mise en place
-des deux supports de la plaque chauffante
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+**后面板**
 
-**Face Arrière**
+**前面板**
 
-**Face Avant**
+前面板用来安装各附件：压力表、安全阀和放水阀。必须先备齐这些附件并加以准备（见下文「管路」），然后才能制作隔热箱体底座的前面板。
+用 5 mm 胶合板下料制作前面板，尺寸 426 x 140
+用 16 mm 胶合板下料制作**附件安装底板** (platine support d'accessoires)，尺寸 375 x 80。
+按下图把前面板与底板装配起来（暂时固定？）
 
-La face avant supporte les accessoires : manomètre, soupape de sûreté, et robinet de purge. Il est
-indispensable d'approvisionner ces accessoires et de les préparer (voir ci dessous « Plomberie »)
-avant de confectionner la face avant de la base du caisson isolé.
-Débiter la face avant en contreplaqué de 5 mm, dimensions 426 x 140
-Débiter la **platine support d'accessoires** en panneau de contreplaqué de 16 mm, 375 x80.
-Assembler (provisoirement?) la face avant et la platine selon le schéma ci dessous
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+在 16 mm 底板上划线，用 Ø 65 mm 的孔锯为放水阀和安全阀的位置开孔。
+接着用 16 mm 胶合板下料制作一块用于压力表的**副底板** (contre-platine)，尺寸 116 x 80。先把副底板临时固定到底板上；然后贯穿整个厚度划线并钻出螺栓孔和压力表孔。
+拆下副底板，并在底板和副底板上为压力表孔位倒角。压力表表体直径为 63 mm，因此被夹在两个倒角之间的，是压力表前部那个直径略大的凸缘。
+如果压力表表体是塑料的（其实并不推荐），就没有这个凸缘。此时应用直径 60 的孔锯钻孔，副底板将顶靠在压力表背面。
 
-Sur la platine de 16 mm, tracer et percer à la scie cloche de 65 mm pour l'emplacement de la purge
-et de la soupape.
-Débiter ensuite une **contre-platine** pour le manomètre, en contreplaqué 16 mm, 116 x 80. Fixer
-provisoirement la contre-platine sur la platine ; tracer et percer les emplacements de boulons et du
-manomètre sur toute l'épaisseur.
-Déposer la contreplatine, et chanfreiner l'emplacement du manomètre sur la platine et sur la contre-
-platine.. Le corps du manomètre est au diamètre 63 mm, c'est donc la collerette, à l'avant du
-manomètre, dont le diamètre est légèrement supérieur, qui sera maintenue à l'intérieur des deux
-chanfreins.
-Si le corps du manomètre est en matière plastique (ce qui n'est pas véritablement recommandé), il
-n'y a pas de collerette. Les logements sont alors à percer à la scie-cloche diamètre 60, et la
-contreplatine viendra s'appuyer sur l'arrière du manomètre
+压力表必须是「轴向出口」型，也就是说出口朝后，位于压力表的中心（而不是朝下）。
 
-Le manomètre doit
-être du type « à sortie
-axiale », c'est à dire
-vers l'arrière au
-centre du manomètre
-(et non pas vers le bas)
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+**阀门与放水阀的固定卡箍** (brides de maintien de la soupape et du robinet de purge)：
+准备两根 30 x 30、长 240 的方料。
+钻三个 Ø 8 mm 的孔，用于连接这两根方料的 M8 螺栓。
+把两根方料装配起来，然后根据附件的实际直径划线并钻出安全阀和放水阀的孔位。钻孔后：
 
-**Brides de maintien de la soupape et du robinet de purge** :
-Préparer deux tasseaux 30 x 30 L = 240.
-Effectuer trois percements Ø 8 mm pour boulons M8 d'assemblage des deux tasseaux.
-Assembler les tasseaux, puis tracer et percer les emplacements de la soupape et de la purge en
-fonction du diamètre réel des accessoires.. Après percement :
+- 用锉刀或粗锉把半孔大幅锉成椭圆，以便日后把安全阀和放水阀拧紧；
+- 用木工凿把前面板一侧的开口大幅倒角，以便日后操作放水阀和调整安全阀，同时让这两个附件充分缩进箱体外表面之内，以免受到可能的撞击。
 
-- ovaliser largement les demi-percements à la rape ou à la grosse lime, de façon à bien serrer
-ultérieurement la soupape et la purge,
-- chanfreiner très largement les ouvertures sur la face avant, au ciseau à bois, pour faciliter
-ultérieurement la manœuvre de la purge et le réglage de la soupape, tout en maintenant ces deux
-accessoires suffisamment en retrait du nu extérieur du caisson afin de les protéger d'éventuels
-chocs.
+把下半卡箍固定安装到底板上，上半卡箍保持可拆卸。
+钻 Ø 8 mm 的孔，供 M 6 管工螺栓使用。
+拧紧两个半卡箍时使用六角头螺栓。先用 10 mm 钻头在方料上做一个小沉孔，把螺栓头压入其中以将其卡住；这样日后反复拧紧、拆卸就方便得多。
+压力表处使用 M4 管工螺栓。
+最后完成前面板，按与后面板相同的方式装上 22 x 22 的方料。
 
-Installer la demi bride inférieure à demeure sur la platine, la demi bride supérieure restant amovible.
-Percer au diamètre 8 mm pour des boulons poeliers M 6
-Pour serrer les deux demi brides, utiliser des boulons à tête hexagonale. Forcer la tête du boulon
-dans le tasseau, après un petit chambrage au foret de 10 mm, afin de la bloquer ; cela facilitera les
-vissages-dévissages ultérieurs.
-Pour le manomètre, utiliser des boulons poeliers M4
-Achever enfin la face avant, en installant les tasseaux 22 x 22 comme pour la face arrière.
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+**加热板的支撑件**
 
-**Supports de la plaque chauffante**
+两件支撑件用 40 x 65 的方料制作；钻 Ø 10 或 12 的孔，以容纳加热板的 M8 螺纹杆。在孔的下部做沉孔，把螺母和垫圈（以及扳手）埋进去。沉孔必须用平底锪钻在钻孔*之前*加工。
 
-Confection des deux supports dans du tasseau 40 x 65 ; percements Ø 10 ou 12 pour recevoir les
-tiges filetées M8 de la plaque chauffante. En partie basse des percements, effectuer des chambrages
-pour noyer les écrous et rondelles (plus la clé de serrage). Les chambrages sont à effectuer à la la
-mèche plate _avant_ d'effectuer les percements.
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+把支撑件装入箱体下部：支撑件搁在底部的方料上，要检查它们在 5 mm 胶合板上的固定情况。
+在支撑件末端拧几颗螺钉，把它们固定在箱体内。
 
-Installation des supports dans la partie basse du caisson : les supports reposent sur les tasseaux du
-bas, vérifier leur fixation sur le contreplaqué de 5 mm.
-Immobiliser les supports dans le caisson par quelques vis en bout des supports.
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+**加热板的安装**
 
-**Installation de la plaque chauffante**
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+**隔热箱体底座的上封板与下封板**
+5 mm 胶合板，426 x 426
+下封板可以分成两三块制作。也可以在底板上对着支撑加热板的螺纹杆钻孔，以便接近螺母。
+上封板要按加热板开孔做出缺口，因为加热板会伸出几毫米；上封板还可以覆盖上一层薄铝板。
 
-**Panneaux de fermeture supérieur et inférieur de la base du caisson isolé**
-Panneaux de contreplaqué 5 mm, 426 x 426
-Le panneau inférieur peut être réalisé en deux ou trois parties. On peut aussi percer le panneau du
-fond au droit des tiges filetées supportant la plaque chauffante pour accéder aux écrous.
-Le panneau supérieur est à échancrer selon la plaque chauffante, qui dépasse de quelques
-millimètres ; on peut le recouvrir d'une tôle d'aluminium de faible épaisseur.
+**箱体底座的隔热**：考虑到涉及的最高温度为 145 ° C，任何隔热材料都不会有起火风险。玻璃棉 (laine de verre) 或岩棉 (laine de roche) 非常合适。
 
-**Isolation de la base du caisson** : .Compte tenu des températures en jeu, au maximum 145 ° C,
-aucun isolant ne risque de prendre feu. La laine de verre ou laine de roche conviennent très bien
+**§ 2 中间箱体**
 
-**§ 2 LE CORPS INTERMÉDIAIRE**
+这是一个既无底板也无盖板的箱体，其双层壁厚 70 mm，中间填充隔热材料。为了减少热损失，中间箱体嵌入箱体底座，嵌入高度为 20 mm。
 
-C'est un caisson sans fond ni couvercle, avec des doubles parois de 70 mm d'épaisseur contenant un
-matériau isolant. Afin de limiter les pertes thermiques, le corps intermédiaire s'encastre sur la base
-du caisson, sur une hauteur de 20 mm
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+**外壁**，左侧板与右侧板，从双层壁的内侧看
+前面板与后面板，从双层壁的内侧看
 
-**Paroi extérieure** , cotés gauche et droite, vus de l'intérieur de la double paroi
-faces avant et arrière, vues de l'intérieur de la double paroi
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+**内壁**，左侧板与右侧板，从双层壁的内侧看
+前面板与后面板，从双层壁的内侧看
+从箱体的内侧看
 
-**Paroi intérieure** , côtés gauche et droite vus de l'intérieur de la double paroi
-faces avant et arrière, vues de l'intérieur de la double paroi
-vues de l'intérieur du caisson
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+如果买不到三角截面方料，又没有带锯，也完全可以手工制作：备一根纹理很直的 40 x 40 方料，用台钳夹住，留出 30 cm 的外伸量，然后用木工凿把最前面的 18 cm 凿下来……
+中间箱体的**上封板与下封板**：两者相同
 
-Si l'approvisionnement des tasseaux triangulaires s'avère trop difficile, et en l'absence d'une scie à
-ruban, il est toujours possible de les confectionner à la main : approvisionner un tasseau 40 x 40
-bien droit de fil, le saisir dans l'étau avec un porte-à-faux de 30 cm, et débiter les 18 premier
-centimètres au ciseau à bois...
-**Panneaux de fermeture supérieur et inférieur** du corps intermédiaire : ils sont identiques
+在涂漆之前或涂漆过程中，要尽可能堵住各处缝隙，以免蒸汽渗入隔热层。
 
-Avant ou pendant la peinture, boucher autant que possible les interstices pour éviter que la vapeur
-ne pénêtre l'isolation.
+玻璃棉、岩棉或其他材料都适合用作隔热材料。
 
-La laine de verre ou de roche ou autre conviennent pour l'isolation.
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+#### § 3 箱盖
 
-#### § 3 LE COUVERCLE
+在箱盖和隔热层中部开的 Ø 24 mm 孔，是为让来自烹饪容器的蒸汽排出而预留的。
+箱盖的隔热：例如可以使用 60 mm 厚的挤塑聚苯乙烯板，如 Styrodur 或 Styrofoam 类型，它们比发泡聚苯乙烯更耐受。不过这并不是一个出色的方案，因为挤塑聚苯乙烯受热会膨胀。还是得找到一种更合适的隔热工艺。
 
-Le percement diam 24
-mm au milieu du
-couvercle et de l'isolation
-est prévu pour le passage
-d'un évent de la vapeur
-provenant du récipient de
-cuisson.
-Isolation du couvercle :
-on peut utiliser par
-exemple des plaques de
-de polystyrène extrudé en
-panneaux de 60 mm, du
-type Styrodur ou
-Styrofoam, plus résistants
-que le polystyrène
-expansé. Ce n'est
-cependant pas une
-solution excellente, le
-polystyrène extrudé
-gonfle avec la chaleur. Il
-faudra trouver un procédé
-d'isolation plus adéquat.
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+#### § 4 胶合板流量估算建议
 
-#### § 4 PROPOSITION DE DEBIT DE LA FEUILLE DE CONTREPLAQUÉ
+胶合板的标准规格通常是 1,25 x 2,50 m，较少见的是 1,22 x 244。让商家直接把胶合板锯成长条比较方便，之后再手工截短。
 
-Le format des plaques de contreplaqué est usuellement de 1,25 x 2,50 m, plus rarement 1,22
-x 244. Il est commode de faire débiter des bandes de contreplaqué, à recouper ensuite à la main.
+5 mm「户外」胶合板 (contre-plaqué)：板材下料建议；尺寸不含锯缝厚度；箱体底座的封板不在此下料之列。
 
-Contre-plaqué 5 mm "Extérieur" : proposition de débit de la plaque ; dimensions hors l'épaisseur du
-trait de coupe ; le panneau de fermeture de la base du caisson ne figue pas dans ce débit.
+首批下料方案：
 
-Proposition de premières coupes :
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
+## 第 VI 节 管路系统
 
-## SECTION VI LA PLOMBERIE
+为加热板配装管路，至少需要一点管工手艺……以及很多耐心。这里给出的细节多得过剩，请不要把它看作一种限制，而应当把它看作给新手的一种帮助。总是可以另想办法，而且考虑到采购条件，常常非如此不可。「管路，就是想象力当家」……
+新手可以在 soleil-vapeur.org 资料库的第 4 部分，以及第 1 部分——第 IV 章中，找到关于管路、接头、接头的密封、钎焊……等方面的资料。
 
-L'équipement de la plaque chauffante nécessite un minimum d'habileté manuelle en plomberie ... et
-beaucoup de persévérance. La surabondance de détails proposés ici ne doit pas être considérée
-comme une contrainte, mais comme une aide pour le néophyte. Il est toujours possible de faire
-autrement, et c'est souvent nécessaire compte tenu des possibilités d'approvisionnement. "La
-plomberie, c'est l'imagination au pouvoir"...
-Le néophyte trouvera des renseignements sur la plomberie, les raccords, l'étanchéité des raccords,
-le brasage... en 4ème partie de la documentation de soleil-vapeur.org, ainsi qu'en 1ère partie – Chap
-IV.
-
-Ci dessous : un petit vademecum concernant les diamètres et filetages des tubes acier et raccords
-laiton que nous aurons à rencontrer.
+下面是一份速查表，列出我们将会遇到的钢管和黄铜接头的直径与螺纹。
 
 ```
 DN 8 8 x 13 1/4 13,5 13,1 17 2
@@ -1089,1030 +727,716 @@ DN 15 15 x 21 1/2 21,3 21 19 24 2
 DN 20 20 x 27 3/4 26,9 26,4 24,3 29 2
 DN 25 26 x 34 1 33,7 33,2 2,3
 ```
-Le **diamètre nominal** DN est un nombre sans unité utilisé comme référence pour désigner un
-ensemble de composants d'une même tuyauterie (tubes, raccords...) compatibles entre eux.
-La correspondance entre le diamètre réel des composants et le chiffre du DN est approximative.
-Dans le cas des tubes en acier, le chiffre du DN se rapproche quelque peu du diamètre intérieur du
-tube qu'il désigne
-Tout cela semble bien compliqué de prime abord, mais peut se comprendre ainsi : l'épaisseur des
-tubes varie en fonction de la pression qu'ils ont à supporter ; pour des raisons pratiques et évidentes
-de compatibilité, c'est alors le diamètre intérieur qui varie, de façon à conserver une interchan-
-geabilité des raccords.( sinon il en faudrait... trois ou quatre fois plus !)
+**公称直径** DN 是一个不带单位的数字，用作参照，用来标识同一管路中一组彼此兼容的组件（管子、接头……）。
+组件的实际直径与 DN 数字之间的对应关系只是近似的。
+对钢管而言，DN 数字与它所指的管子的内径多少有些接近。
+这一切乍看起来很复杂，但可以这样理解：管壁厚度随管子所要承受的压力而变化；出于实际需要以及显而易见的互换性考虑，于是变化的是内径，以便保持接头的互换性（否则就得准备……三四倍多的接头！）
 
-La **dénomination française "Gaz"** est en principe désuète, mais elle est couramment employée. La
-dénomination oficielle d'un tube est, en principe, le diamètre extérieur réel suivi de l'épaisseur du
-tube
+法国的**「Gaz」规格名称**原则上已经过时，但仍被普遍使用。一根管子的正式规格名称，原则上是由管子的实际外径加上管壁厚度组成。
 
-La **dénomination en pouces** est souvent précédée de la lettre G ; le terme « pouces » s'écrit avec
-deux apostrophes, identiques aux guillemets français. Par exemple : raccord double Mâle G 3/8 ''»
-Un pouce = 25,4 mm ; La dimensions en pouces est une dimension nominale : rien (aucun diamètre,
+**英寸规格名称**前面常常冠以字母 G；「pouces」一词写作两个单引号，与法文双引号「」形状相同。例如：raccord double Mâle G 3/8 ''
+一英寸 = 25,4 mm；英寸尺寸是一个名义尺寸：一英寸管的任何部位（无论内径还是外径……
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-ni intérieur ni extérieur...), dans un tube d'un pouce, ne mesure 25,4 mm...
+……都不量到 25,4 mm……
 
-**Filetage Extérieur** et **Filetage Intérieur** indiquent les diamètres des différents filetages, afin de les
-repérer facilement à l'aide d'un pied à coulisse. Ces cotes sont approdximatives, notamment dans le
-cas des filetages en fonte ou en acier mâles, qui sont côniques.
+**外螺纹**与**内螺纹**给出各种螺纹的直径，以便用游标卡尺轻松辨认。这些尺寸是近似的，特别是在铸铁或钢制外螺纹的情况下，因为它们是锥形的。
 
-**Clé plate usuelle** indique la clé généralement utilisée pour serrer un écrou de raccord pour le DN
-correspondant
+**常用扳手**表示对应 DN 通常用于拧紧接头螺母的那种扳手
 
-**Epaisseur courante** des tubes correspond à la "série légère", usuellement disponible dans le
-commerce.
+管子的**常用壁厚**对应于「轻型系列」，商店里通常都有货。
 
-Les tubes de cuivre sont désignés par leur diamètre extérieur : Ø 4.8, 6, 8, 10 , 12, 14, 16, 18,
-22, 28 ... mm, puis parfois par leur épaisseur (usuellement 1 mm).
+铜管按外径标注：Ø 4.8、6、8、10、12、14、16、18、22、28……mm，有时也标注壁厚（通常 1 mm）。
 
-#### § 1 LES ACCESSOIRES DE LA PLAQUE CHAUFFANTE
+#### § 1 加热板的附件
 
-#### A) LE MANOMETRE
+#### A) 压力表
 
-**Manomètre, ou mano-vacuomètre?** Lorsque le cuiseur est en fonctionnement, la vapeur
-du second étage est à une pression de l'ordre de 3 à 4 bar manomètriques, c'est à dire 4 à 5 bar
-absolus compte tenu de la pression atmosphérique qui est de l'ordre de 1 bar. Le manomètre de
-l'installation mesure la pression manométrique, mais lorsque l'installation se refroidit, la pression à
-l'intérieur du caloduc du second étage (qui est une enceinte fermée) descend en dessous de la
-pression atmosphérique. Si l'installation est équipée d'un manomètre ordinaire, ce dernier risque de
-ne pas apprécier le fait d'être maintenu hors de la plage de mesure pour laquelle il a été conçu, alors
-qu'un manomètre-vacuomètre, qui peut descendre jusqu'à -1 bar relatif, ne subit aucun dommage. A
-défaut d'utiliser un mano-vacuomètre, il convient de casser le vide après utilisation du cuiseur, par
-exemple en ouvrant le petit robinet de purge.
-Le bon choix : mano-vacuomètre -1 à 5 bar "à tube de Bourdon", diamètre 63 mm, corps en
-inox, précision moyenne classe 1,6 ou 2,5 , sortie arrière (et non vers le bas), avec ou sans
-glycérine. Voir par exemple : catalogue Wika, type 213/53, Ø 63 mm, référence 30175062 ; on peut
-préférer le manomètre -1 à 9 bar.
-A défaut : manomètre 0-6 bar, par exemple Wika type 213/53, réf.13161831
-A défaut : manomètre en boitier plastique, série ordinaire, par exemple Wika série 111 soit
-en mano-vacuomètre avec sortie latérale, soit en manomètre avec sortie arrière. Noter que le
-manomètre, tel qu'il est installé dans le caisson, ne sera pas du tout soumis à la chaleur.
+**压力表，还是真空压力表？** 灶具运行时，第二级产生的蒸汽压力约为 3 到 4 bar 表压，即考虑到约 1 bar 的大气压之后，约合 4 到 5 bar 绝对压力。装置上的压力表测量的是表压，但当装置冷却时，第二级热管内部（这是一个密闭容器）的压力会降到大气压以下。如果装置装的是普通压力表，它可能受不了被长期保持在设计量程之外；而真空压力表（其量程可低至 -1 bar 相对压力）则不会受到任何损害。如果不用真空压力表，就应当在灶具使用结束后破坏真空，例如打开那个小的放水阀。
+好的选择：-1 到 5 bar 的真空压力表，「Bourdon 管式」，直径 63 mm，不锈钢表体，中等精度，等级 1,6 或 2,5，后出口（而不是朝下），可带可不带甘油充填。例如可参见：Wika 产品目录，型号 213/53，Ø 63 mm，货号 30175062；也可以选择 -1 到 9 bar 的压力表。
+次选：0-6 bar 压力表，例如 Wika 型号 213/53，货号 13161831
+再次选：塑料壳压力表，普通系列，例如 Wika 111 系列，既可以是侧出口的真空压力表，也可以是后出口的压力表。请注意，压力表按上述方式装在箱体内时，完全不会受热。
 
-**Equipement du manomètre** : le raccordement du manomètre est usuellement un filetage
-parallèle 1/8'' ou 1/4''
+**压力表的配套件**：压力表的接口通常是 1/8'' 或 1/4'' 的平行螺纹
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-- approvisionner un raccord laiton "Femelle 1/8 ( ou 1/4") / Mâle 1/4" ; réduire le filetage mâle sur
-un tour, au diamètre 12 mm ; braser le raccord laiton sur un raccord fer-cuivre à écrou prisonnier
-"Ø12-3/8".
-- visser le raccord laiton sur le manomètre. Utiliser obligatoirement un produit d'étancheité du type
-Filetfix ou autre ; les deux filetages étant parallèles, le Teflon est à proscrire.
+- 备一件黄铜接头「内螺纹 1/8（或 1/4"）/ 外螺纹 1/4"」；把外螺纹在 12 mm 直径上切掉一圈；把黄铜接头钎焊在一个带活接螺母的铁铜接头上，「Ø12-3/8」。
+- 把黄铜接头拧到压力表上。必须使用 Filetfix 或类似类型的密封剂；由于两端都是平行螺纹，不能使用 Teflon 生料带。
 
-**Installation du manomètre sur la platine** : serrer le mano entre la platine et la contre bride
-en contreplaqué
+**压力表在底板上的安装**：把压力表夹紧在底板与胶合板副卡箍之间
 
-B) LA SOUPAPE
+B) 安全阀
 
-Le bon choix : soupape en provenance des USA, référence MSCdirect.com 78063195 ;
-réduire le filetage sur un tour, et braser sur un raccord fer-cuivre 3/8"
-Pour régler ou modifier le tarage de la soupape : desserrer le contre écrou, puis visser ou dévisser la
-partie mobile pour contraindre plus ou moins le ressort. Il est utile de contrôler parfois l'état du
-siège de clapet, et l'état du clapet souple en silicone. Voir Documentation 1ère partie
+好的选择：美国产安全阀，货号 MSCdirect.com 78063195；把螺纹切掉一圈，并钎焊在 3/8" 的铁铜接头上。
+要调整或改变安全阀的整定压力：松开锁紧螺母，然后拧进或拧出活动部分，以不同程度地压缩弹簧。有时应检查阀瓣座的状态，以及硅橡胶柔性阀瓣的状态。参见第 1 部分资料。
 
-Installation sur la platine : serrer la soupape et le purgeur entre les deux tasseaux de 30 mm
+在底板上的安装：把安全阀和放水阀夹紧在两根 30 mm 的方料之间
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-#### C) LE ROBINET DE PURGE
+#### C) 放水阀
 
-C'est un robinet de purge de radiateur de chauffage central, du type "à pointeau", c'est à dire
-le plus simple qui soit, sans joint de caoutchouc. Réduire le filetage, et braser sur un raccord fer-
-cuivre 3/8"
+这是一种中央供暖散热器放水阀，属于「针阀」型，也就是最简单的、不带橡胶密封的那种。把螺纹切掉一圈，并钎焊在 3/8" 的铁铜接头上。
 
-#### D) EQUIPEMENT DE LA PLAQUE VAPEUR
+#### D) 蒸汽板的配套件
 
-Sur la plaque vapeur, le filetage du piquage prévu pour les accessoires est 1/4" conique, à
-équiper d'un raccord laiton " Femelle 1/4" – Mâle 3/8", apte à recevoir un joint plat. L'étanchéité
-entre le piquage et le raccord laiton s'effectue avec du Filetfix, ou avec du Teflon
+在蒸汽板上，为附件预留的接管口螺纹为 1/4" 锥管螺纹，应配一个「内螺纹 1/4" – 外螺纹 3/8"」的黄铜接头，该接头可加装平垫片。接管口与黄铜接头之间的密封用 Filetfix 或 Teflon 完成。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
-E) RACCORDEMENT DES ACCESSOIRES, et INSTALLATION SUR LA PLATINE
-
-Un bon choix : l'utilisation de tube de cuivre Ø extérieur 4,8 mm, cintrable à la main,
-usuellement utilisé pour les circuits de freinage des poids lourds, à approvisionner chez les
-fournisseurs de pièces détachées pour garages automobiles. De nombreuses méthodes sont
-possibles pour les raccordements, entre autres les raccords à olive bicones. Ici c'est la solution du
-brasage qui est proposée, avec des raccord à joint plat 3/8" comme précédemment dans les autres
-installations de soleil-vapeur.
+E) 附件的连接以及在安装底板上的装配
 
-Pour le brasage du tube Ø 4,8 sur les raccords fer cuivre : approvisionner des raccords fer-
-cuivre Ø 8 – 3/8" et de la barre laiton Ø 8 mm (par exemple: leroy-merlin ref 65286795) dans
-laquelle il sera possible de confectionner des petites fourrures.
-Les fourrures peuvent aussi être confectionnées dans de l'acier ordinaire, sous réserve
-d'effectuer des brasures "à l'argent 40 %".
+好的选择：使用外径 Ø 4,8 mm 的铜管，可用人工弯曲，通常用于重型卡车的制动管路，可在汽车维修零配件供应商处采购。接管的方法有很多，其中包括「橄榄头」双锥接头。这里提出的是钎焊方案，采用 3/8" 的平垫片接头，与 soleil-vapeur 其他装置中的做法一样。
 
-Faire des boucles avec le tube de cuivre, pour faciliter la mise en place des composants sur la
-platine. Au sujet des joints plats souples pour vapeur : consulter la doc de soleil-vapeur.
+要把 Ø 4,8 的铜管钎焊到铁铜接头上：备好 Ø 8 – 3/8" 的铁铜接头，以及 Ø 8 mm 的黄铜棒（例如 leroy-merlin 货号 65286795），可以在黄铜棒上做出小的套管 (fourrure)。
+套管也可以用普通钢制作，条件是采用「银 40%」钎焊。
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+把铜管弯成环圈，以便于把各零件装到底板上。关于蒸汽用的柔性平垫片：查阅 soleil-vapeur 的资料。
 
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
 
-
-#### § 2 LE TUYAU SOUPLE ENTRE LA PLAQUE CHAUFFANTE ET LE COLLECTEUR
-
-**1- Piquage inox** 1/2" soudé sous la plaque chauffante
-
-**2- coude laiton** F 1/2" – M 1/2". Le filetage mâle du piquage inox étant cônique, l'étancheité est à
-réaliser avec du Teflon ou bien du Filetfix ou similaire. Veiller à la bonne orientation du coude. Si
-le filetage vient en butée avant serrage, il est possible, selon le cas, de raccourcir quelque peu le
-filetage mâle, ou de le continuer à l'aide d'une filière cônique de plombier.
-
-**3- Raccord fer-cuivre** 1/2"- Ø 16 mm
-
-**4- Douille en laiton** Ø 16 mm brasée sur le raccord
-fer-cuivre. Il est quasiment impossible de trouver dans
-le commerce une douille du bon diamètre montée sur
-un raccord adéquat. La seule solution est souvent de
-fabriquer l'ensemble à savoir : confectionner une
-douille, et braser la douille sur le raccord fer-cuivre.
-
-**Confection d'une douille** :le mécanicien-tourneur et
-le plombier-braseur sont deux corps de métier
-différents ; dans le cas d'une construction à l'unité, il sera nécessaire de faire la navette entre les
-deux
-Tournage de la douille : dans du laiton de préférence, à défaut dans de l'acier sous réserve de braser
-ultérieurement à l'argent 40 %. Pour le brasage , le jeu préconisé est de
-0,1 mm pour le brasage cuivre -phosphore (douille laiton uniquement)
-0,07 à 0,08 mm pour le brasage à l'argent 6 % (douille laiton uniquement)
-0,05 mm pour le brasage à l'argent 40 % (douille laiton ou douille acier)
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-(approvisionner préalablement le raccord fer-cuivre, et le remettre au tourneur)
-Sur le schéma de douille proposé ci dessus, la partie annelée est délibérément plus longue que
-usuellement, en raison des problèmes d' étanchéité avec le tuyau souple.
-Le percement est proposé à Ø 10mm pour ne pas trop faiblir la douille.
-Diamètre extérieur des annelures : après essai avec le tuyau"Ø13 mm intérieur"
-**5 – Le tuyau souple**
-
-Deux flux en sens contraire circulent dans le tuyau. Le diamètre (réel!) intérieur retenu ici est de 13
-mm, d'où une vitesse de vapeur de l'ordre de Un mètre par seconde, ce qui est très faible.
-Un tuyau de qualité vapeur 6 bar/164° C convient, la qualité alimentaire n'est pas nécessaire.
-Vérifier le rayon du courbure admissible par le tuyau, avant de l'approvisionner.
-Pour déterminer la longueur du tuyau : faire une simulation de montage avec un tuyau quelque peu
-identique. Il est indispensable d'avoir une courbe régulière et surtout une **pente régulière sans
-point bas** , bref un parcours harmonieux : c'est là que repose en grande partie toute la subtilité du
-cuiseur. La longueur nécessaire est de l'ordre de cinquante centimètres de flexible proprement dit,
-Il est très difficile d'approvisionner une telle longueur de tuyau vapeur (ce pourrait être une
-occasion de contacter soleil-vapeur.org )
-
-Le tuyau sera bien sûr à isoler, par tous moyens, le plus simple étant une chute de serviette éponge
-correctement mise en place et bien maintenue.
-
-Collier de serrage : préférer un collier de serrage à vis, que l'on peut éventuellement resserrer, plutôt
-qu'un collier à oreilles. Préférer un collier large, par exemple Serflex 14 mm, pour éviter de blesser
-le tuyau, et veiller à utiliser un collier avec une tête de serrage correspondant au diamètre extérieur
-du tuyau. Si besoin, consulter la documentation Serflex.
-
-Enfin, amarrer par tous moyens le tuyau souple à la traverse support de la plaque chauffante, pour
-éviter tout effort parasite du tuyau sur le raccord de la plaque chauffante, y compris lorsque la
-plaque est déconnectée du capteur ou bien lorsqu'elle est transportée... (C'est précisément pour
-pouvoir maintenir fermement le tuyau sur la traverse que l'orifice d'entrée-sortie de la plaque à
-vapeur été placé "au fond du caisson", alors qu'il aurait été plus logique pour des raisons
-thermiques et des raisons de pente, de le rapprocher le plus possible du collecteur)
-
-Traversée de la paroi du caisson : percer le côté de caisson pour passer facilement le tuyau et le
-raccord. Ne pas hésiter à couper le tasseau inférieur du caisson, il sera possible ensuite de renforcer
-le caisson avec un "emplâtre" de contreplaqué qui servira en même temps à brider le tuyau.
-
-**Le tuyau souple est le talon d'Achille** du cuiseur. Sous l'effet de la chaleur, le matériau souple du
-tuyau vieillit rapidement. Or dans un caloduc l' étanchéité est bien sûr indispensable, et de plus
-l'étanchéité à la vapeur est plus délicate à obtenir que l' étanchéité au liquide. La vapeur étant un
-gaz, elle est invisible (quand on "voit de la vapeur", on ne voit en fait que des gouttelettes d'eau déjà
-condensée à moins de 100° C), une légère fuite est donc indétectable, surtout si elle se produit à
-l'extrémité du tuyau qui est cachée dans l'isolation.
-La douille a été rallongée de façon à pouvoir déplacer ou doubler le collier de serrage, mais ce n'est
-pas très satisfaisant. Deux autres solutions sont disponibles
-
-- sertir le tuyau sur la douille, c'est à dire remplacer le collier par un tube en tôle légère qui est serti
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-sur le tuyau ; cette opération est à faire en atelier,avec une machine spécifique, cf par exemple les
-ateliers de réparation de flexibles hydrauliques,
-
-- faire le choix d'un tuyau souple en acier inox : c'est LA solution, professionnelle et pérenne. Par
-exemple : tube souple Metalflex et collier Clamp à une extrémité ; à l'autre extrémité, un simple
-raccord fileté est suffisant.
-En attendant une solution idéale, il est prudent d'avoir en réserve un peu de tuyau souple comme ci
-dessus.
-**6 et 7 Douille brasée sur raccord fer cuivre** , comme précédemment. Femelle 3/4" -Ø 16 mm
-
-En cas de démontage du cuiseur, c'est ce raccord qu'il convient de séparer du raccord bicône, l'autre
-extrémité du tuyau souple étant installée à demeure sur la plaque chauffante.
-
-**8 – Raccord à olive Male 3/4" - Ø 22 mm, dits aussi "bicône"**
-Par exemple : leroymerlin.fr Réf 65817493 ; vérifier que la face d'appuis pour le joint plat est
-correcte
-Sous réserve de vérification, les extrémités du collecteur du capteur à caloduc du commerce sont en
-tube de cuivre diam extérieur 22 mm, sur lesquels il est possible d'installer des raccords "bicône"
-à disponibles au rayon plomberie de certaines grandes surfaces de bricolage
-L'étanchéité de ce type de raccord est effectuée par la compression de la bague bicône contre le tube
-cuivre (qui doit être sans défaut de surface), et contre les deux demi-raccords qui viennent aussi
-s'appuyer la bague.
-
-quelques remarques :
-
-- au sujet des raccords à joint plat :vérifier que la face d'appui qui recevra le joint plat est correcte
-et de largeur suffisante, sinon elle risque de couper le joint souple, et c'est une fuite assurée. Au
-besoin, reprendre la face d'appui sur un tour, en respectant la perpendicularité par rapport à l'axe.
-- Au sujet des raccords à olive :Le profil des deux demi-raccords est adapté à l'angle du bicône,
-veiller à ne pas intervertir avec d'autres composants de plomberie
-- Lors du serrage, le bicone rétreint quelque peu le tube de cuivre, il n'est donc plus possible de
-l'enlever, ainsi que l'écrou femelle situé entre le collecteur et le bicône. Donc pour le néophyte il est
-préférable de n'installer définitivement ce raccord qu'au dernier moment. Par précaution, on peut
-installer le raccord en extrémité du tube, et en cas de problème majeur il sera toujours possible de
-couper le tube et d'installer un autre bicône.
-- lors du serrage du raccord fer-cuivre sur le raccord à olive, il est indispensable de bloquer ce
-dernier avec une clé plate, sans quoi il viendrait tourner autour du bicône, ce serait une fuite
-assurée ; le couple de serrage n'étant pas très élevé (ne pas écraser le joint plat!), une clé plate
-découpée dans de la tôle convient très bien.
-- En principe un raccord bicone, s'il n'a pas été serré excessivement la première fois, peut être
-démonté et remonté "deux ou trois fois", mais c'est là une affaire de doigté ; hélas aucune
-information n'est publiée concernant le couple de serrage idéal
-
-au final, seule l'épreuve d'étanchéité fera foi.
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
-- si le collecteur est déposé, par exemple en cas de stockage ou de transport, protéger le filetage en
-extrémité du raccord bicône par un raccord adéquat.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-**9 - Sortie/entrée du collecteur** du capteur
-
-Il est possible mais non indispensable de raccourcir quelque peu le tube de cuivre Ø 22 mm
-Le petit tube qui débouche à côté du tube du collecteur est prévu pour l'installation d'une sonde de
-thermomètre
-**10 - Les joints souples**
-
-Les joints pour eau, chaude ou froide, ne conviennent absolument pas. Il est indispensable
-d'utiliser des joints spécifiques pour la vapeur, à découper dans de la plaque de joint ep 1,5 mm
-(voir documentation soleil-vapeur).
-Dans le cadre d'une construction à l'unité, il est possible de se procurer un ou deux décimètres
-carrés de plaque de joint auprès de soleil-vapeur.
-
-Pour confectionner un joint :
-
-- tracer les deux cercles sur la feuille de joint , pour effectuer des découpes concentriques
-- effectuer d'abord le percement intérieur à l'emporte pièce(sinon le joint éclate) ;
-- effectuer ensuite la découpe extérieure, éventuellement avec des ciseaux ; auquel cas, finir la
-découpe avec de la feuille abrasive
-
-On trouve aussi dans le commerce, y compris en grandes surfaces de bricolage, des joints agrées
-pour le gaz résistant à une température de 360° C (?) , usuellement de couleur bleue.
-
-Il est inutile de serrer excessivement les joints plats, qu'il peut être préférable de changer à chaque
-démontage/remontage du joint ; à chaque démontage, observer attentivement l'état du joint : a-t-il
-été trop serré auparavant?
-Si cela paraissait nécessaire (filetage arrivant en butée avant un serrage correct), il est possible de
-doubler les joints.
-
-Toutes ces indications, fournies à au sujet des joints 3/4", sont valables pour les joints 3/8"
-
-#### § 3 UNE PREMIERE EPREUVE D'ÉTANCHÉITÉ
-
-Après assemblage de la plaque chauffante, de ses accessoires et du tuyau, il est indispensable de
-procéder, en atelier (et non sur site) à une première épreuve d'étanchéité à l'air. Cela consiste à
-mettre l'ensemble sous pression d'air à environ 3 bar Noter que l'étanchéité à l'air est plus difficile à
-obtenir que l'étanchéité à l'eau.
-
-Utiliser un raccord avec valve et une pompe à air "à pied", à installer à l'extrémité libre du tuyau en
-interposant des réductions, voir documentation /Ière partie/chap IV/ Section VII. Régler la soupape
-sur 3,5 bar, et monter en pression jusqu'à 3 bars, puis surveiller le manomètre, qui ne doit pas
-bouger d'une largeur d'aiguille pendant 15 à 30 minutes. Traquer les fuites avec de l'eau savonneuse
-ou avec du produit détecteur de fuites du type "1000 bulles" sur tous les assemblages et raccords.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-#### § 4 EQUIPEMENT DU COLLECTEUR DU CÔTE OPPOSE AU CAISSON
-
-A cette extrémité du collecteur sont regroupés des dispositifs d'alimentation, de purge, et une
-soupape supplémentaire.
-
-1 extrémité du collecteur
-2- Raccord bicone Ø 22 / Mâle G 1/2" avec face d'appuis correcte pour recevoir un joint plat
-3- raccord fer cuivre coudé F, G1/2" / Ø 12
-4- manchon cuivre Ø 12
-4- raccord fer-cuivre droit Ø 12 / F G3/8"
-6- Te MMM G3/8"
-7- raccord fer-cuivre coudé F 3/8" / Ø 12
-8- soupape MSC direct.com 78063195 brasée sur raccord fer-cuivre droit G 3/8"
-9 Robinet à sphère M-F 3/8". Tous les robinets à sphère ont des joints souples, dont le matériau
-résiste plus ou moins bien à la chaleur. : voir les spécifications du fabricant.
-10- douille annelée brasée sur raccord fer-cuivre droit F G 3/8"
-11 Tuyau souple. Ce tuyau est très ponctuellement à la chaleur, mais il n'est pas soumis à la
-pression
-10- douille annelée brasée sur raccord fer-cuivre droit F G 3/8"
-12- valve automobile, brasée sur raccord, pour effectuer les essais d'étanchéité à l'air
-(13)- vidange du collecteur
-14 – entonnoir de remplissage.
-
-(voir schéma page suivante)
-
-#### § 5 L'ALIMENTATION SOUS PRESSION
-
-En cas de fuite de vapeur ou d'échappement important de vapeur par la soupape, il est impossible de
-recharger le collecteur en eau fraîche de façon gravitaire ; dès qu'elle parvient dans le collecteur
-chaud, l'eau se vaporise et expulse tout ce qui se trouve dans le tuyau d'alimentation. Il faut donc
-couvrir les tubes sous vide du capteur et attendre qu'il refroidisse, mais on peut aussi avoir recours à
-une pompe d'alimentation identique à celle proposée dans la documentation. Mais c'est là une
-complication que seules des circonstances exceptionnelles pourraient justifier, la meilleure solution
-étant de laisser refroidir la machine ... et de chercher la fuite.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-## SECTION VII L'INSTALLATION DU CUISEUR
-
-#### §-1 INSTALLATION DE LA CHARPENTE
-
-**L'orientation générale**
-En principe, le chevalet est à orienter vers le Sud - si l'on se trouve dans l'hémisphère Nord...
-Au sujet des méthodes de recherche du Sud, voir la documentation. Mais concernant le cuiseur à
-tubes sous vide, une orientation précise n'est pas indispensable, et l'on peut même préférer, pour
-tout un ensemble de raisons diverses, orienter le capteur plutôt vers l'Est ou vers l'Ouest, il
-fonctionnera alors mieux le matin ou le soir.
-
-**L'inclinaison du cadre-support du premier étage**
-Quelle inclinaison pour le cadre-support du premier étage?
-En principe,l'angle d'inclinaison est égal à 90° moins la latitude du lieu. Mais il ne s'agit là
-que d'une position moyenne, pour un bon fonctionnement à l'heure de midi aux jours d'équinoxe (22
-Mars, et 22 Septembre). Il est tout à fait possible d'avoir d'autres préférences.
-En cas d'installation près de l'équateur, respecter une inclinaison minimum de 15° environ,
-pour un bon fonctionnement des caloducs des tubes à vide.
-
-**Si besoin : confectionner une estrade**
-Si le caisson isolant et la plaque de cuisson semblent trop haut perchés, la bonne solution est
-de fournir une large estrade à l'utilisateur, afin qu'il puisse travailler dans de bonnes conditions.
-
-**Confectionner un abri**
-Dans tous les cas, il faut prévoir un abri pour le conducteur du capteur, qui aura à travailler
-pendant les heures chaudes de la journée.
-
-**La réorientation périodique du capteur**
-On peut tout à fait concevoir de réajuster à deux ou trois reprises l'inclinaison du cadre
-support des tubes sous vide au cours des saisons.
-Quant à la réorientation au cours de la journée de l'Est vers l'Ouest, c'est une très mauvaise
-idée, cela ne servirait qu'à dégrader le cuiseur. La bonne solution est d'utiliser le capteur au
-maximum de ses possibilité pendant au moins six heures par jour tous les jours et sans lui faire subir
-de manipulations quotidiennes.
-
-**Installation du caisson isolant à l'intérieur d'un bâtiment?**
-Dans certains cas bien spécifiques, il est possible d'installer le capteur à l'extérieur du
-bâtiment, et le caisson à l'intérieur, notamment si la façade est correctement orientée, et que le site
-d'implantation ne se situe pas entre les deux tropiques (auquel cas le soleil passe au-delà du zénith
-pendant une partie de l'année) ; mais le flux énergétique disponible est ténu, et au-delà d'un mètre
-de tuyau les pertes de vapeur seront rédhibitoires même avec une bonne isolation.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-**Trois points-clé à vérifier lors de l'installation :**
-
-- **chevalet :** Il n'est pas indispensable que les traverses soient rigoureusement horizontales, mais le
-chevalet doit bien reposer sur les quatre pieds, donc ne pas être bancal.
-**- la pente du collecteur :** le caloduc du second étage, tout comme les caloducs de premier étage, ne
-peut fonctionner qu'avec une pente minimum. Une pente de trois centimètres sur la longueur du
-collecteur, soit un centimètre sur un niveau de maçon de 50 cm, semble une bonne valeur.
-Si besoin, effectuer un percement supplémentaire sur l'une ou l'autre des charnières du cadre
-support des tubes à vide, ou sur le chevalet. Un calage sous le chevalet conviendrait également sous
-réserve qu'il soit correctement établi (une fois le calage disparu, le capteur risque de ne plus
-fonctionner...). Dégauchir, à toutes fins utiles, les deux traverses basses du chevalet.
-**- le dégauchissage du cadre mobile** : l'opération est tout à fait similaire à celle décrite à la section
-IV. Une fois les tubes installés, ils doivent être sur un même plan, et non pas former une surface
-voilée. Caler à la demande entre le point bas de la traverse basse du cadre, et le sol.
-
-#### §-2 INSTALLATION DU SUPPORT DU CAISSON
-
-Installer les deux traverses support du caisson sur le chevalet, par vissage dans un premier temps
-(protéger avec des bouchons les vis qui dépassent!), puis par boulonnage. Dégauchir les deux
-traverses-support.
-Pour le tuyau de liaison entre la plaque chauffante et le caloduc, prévoir une pente de l'ordre de 5
-cm. Si besoin, caler sous le caisson avec des chevrons.
-
-#### § 3 INSTALLATION DU CAISSON ISOLANT
+
+#### § 2 加热板与集流管之间的软管
+
+**1- 不锈钢接管口** 1/2"，焊在加热板下方
+
+**2- 黄铜弯头** F 1/2" – M 1/2"。由于不锈钢接管口的外螺纹是锥形的，密封需用 Teflon 或 Filetfix 或类似材料来实现。要注意弯头的朝向要正确。如果螺纹在拧紧前就顶死了，视情况可以把外螺纹稍微切短一些，或者用管工锥螺纹板继续攻出螺纹。
+
+**3- 铁铜接头** 1/2"- Ø 16 mm
+
+**4- 黄铜套管** Ø 16 mm，钎焊在铁铜接头上。要在商店里找到一个直径合适、并且已经装在合适接头上的套管，几乎是不可能的。唯一的办法往往是自行制作整个组件，也就是：做一个套管，再把套管钎焊到铁铜接头上。
+
+**套管的制作**：车工和钎焊工是两个不同的行当；在单件制作的情况下，就需要在两者之间来回跑一趟。
+套管的车削：最好用黄铜，不得不用钢时，后续须采用银 40% 钎焊。钎焊时建议的间隙为：
+铜磷钎焊 0,1 mm（仅限黄铜套管）
+银 6% 钎焊 0,07 到 0,08 mm（仅限黄铜套管）
+银 40% 钎焊 0,05 mm（黄铜套管或钢套管均可）
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+（事先备好铁铜接头，并交给车工）
+在上面给出的套管示意图中，带环纹的那一段刻意做得比通常更长，因为与软管配合时存在密封问题。
+建议钻 Ø 10 mm 的孔，以免套管被过度削弱。
+环纹段的外径：与「内径 Ø13 mm」的软管试装后确定
+**5 – 软管**
+
+管内有两股方向相反的流。这里采用的内径（实际值！）为 13 mm，由此得到的蒸汽速度量级为每秒一米，这是很低的。
+选用 6 bar/164 °C 蒸汽级软管即可，无需食品级。
+采购之前，先确认软管允许的最小弯曲半径。
+要确定软管长度：用一根大致相同的软管做一次装配模拟。必须做到弯曲平顺，尤其是要**坡度均匀且没有低点**，总之走向要流畅顺滑：整个灶具的微妙之处很大程度上就在这里。所需长度约为五十厘米真正的软管。要买到这么长的蒸汽软管非常困难（这或许是个联系 soleil-vapeur.org 的机会）。
+
+软管当然必须用一切手段加以隔热，最简单的做法是用一截浴巾正确地包覆并扎紧。
+
+管箍：优先选用螺钉式管箍（必要时可以再拧紧），而不要用耳夹式管箍。宜选用较宽的管箍，例如 Serflex 14 mm，以免损伤软管；并注意选用夹头尺寸与软管外径相配的管箍。必要时查阅 Serflex 的资料。
+
+最后，用一切手段把软管固定在加热板的支撑横梁上，以避免软管对加热板接头产生任何额外的作用力——包括在加热板与集热器脱开时，或在加热板被搬运时……（蒸汽板的进出孔之所以被放在「箱底」，正是为了能把软管牢牢固定在横梁上；单从热工和坡度的角度看，把它尽量靠近集流管本来更合理）
+
+穿箱壁：在箱体侧面钻孔，让软管和接头方便地穿过。不要犹豫把箱体下方的方料锯掉，之后可以用一块胶合板「补丁」来加固箱体，这块补丁同时还能用来固定软管。
+
+**软管是灶具的阿喀琉斯之踵**。受热作用下，软管的柔性材料很快就会老化。而在热管中，密封当然必不可少；更进一步，蒸汽密封比液体密封更难实现。由于蒸汽是气体，它是无形的（当人们「看见蒸汽」时，实际看到的只是已经在 100 °C 以下凝结的水珠），因此轻微的泄漏根本无法察觉，尤其是在泄漏发生在被隔热层遮住的软管末端时。
+套管已被加长，以便移动或叠加管箍，但这并不很理想。还有另外两种方案
+
+- 把软管压装在套管上，也就是用一段薄壁金属管代替管箍，压装在
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+软管上；这道工序要在车间用专用设备完成，可参考液压软管维修车间的做法，
+
+- 选用不锈钢软管：这才是专业而长久的解决方案。例如：一端用 Metalflex 软管配 Clamp 管箍；另一端一个普通螺纹接头就够了。
+在理想方案出现之前，手头备上一点上述那种软管是明智的。
+**6 和 7 钎焊在铁铜接头上的套管**，与前面相同。内螺纹 3/4" - Ø 16 mm
+
+拆装灶具时，应把这个接头与双锥接头分开，因为软管的另一端是永久装在加热板上的。
+
+**8 – 公锥面橄榄接头 3/4" - Ø 22 mm，也称「双锥」**
+例如：leroymerlin.fr 货号 65817493；要检查用于平垫片的支承面是否正确
+经核实，市售热管式集热器的集流管端部为外径 22 mm 的铜管，其上可以安装「双锥」接头，这类接头在某些大型家装超市的水暖柜台有售
+这类接头的密封，是靠双锥环同时压紧铜管（管子表面必须没有缺陷）以及两个半接头来实现的，那两个半接头同样压在环上。
+
+几点注意事项：
+
+- 关于平垫片接头：要检查承接平垫片的支承面是否正确、宽度是否足够，否则它有可能割伤柔性垫片，那就必然造成泄漏。必要时可在车床上修整支承面，并保证与轴线垂直。
+- 关于橄榄接头：两个半接头的锥面角度要与双锥环相配，注意不要与其他管路零件搞混。
+- 拧紧时，双锥环会把铜管稍微收紧，因此管子就再也取不出来了，位于集流管与双锥环之间的内螺母同样如此。所以对新手来说，最好只在最后时刻才把这个接头最终装上。稳妥起见，可以先把接头装在管端，一旦出现严重问题，总还可以把管子锯断、另装一个双锥环。
+- 把铁铜接头拧到橄榄接头上时，必须用一把平口扳手卡住后者，否则它就会跟着双锥环一起转，那必然造成泄漏；由于拧紧力矩并不大（不要压扁平垫片！），用薄铁皮剪成的平口扳手就很好用。
+- 原则上，如果第一次没有拧得过紧，双锥接头可以拆下再装上「两三次」，但这就要看手上的功夫了；可惜关于理想拧紧力矩，目前没有任何资料公布。
+
+归根结底，只有密封试验才是唯一可信的判据。
+
+- 如果集流管被拆下（例如存放或运输时），要用一个合适的接头保护双锥接头端部的螺纹。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+**9 - 集热器集流管的出口/入口**
+
+可以把 Ø 22 mm 的铜管稍微切短一些，但并非必须
+在集流管旁边开口的那根小管，是为安装温度计探头预留的
+**10 - 柔性垫片**
+
+冷水或热水用的垫片绝对不能用。必须使用蒸汽专用的垫片，从厚 1,5 mm 的垫片板材上裁出（参见 soleil-vapeur 资料）。
+在单件制作的情况下，可以向 soleil-vapeur 索取一两平方分米的垫片板材。
+
+垫片的裁制方法：
+
+- 在垫片板材上画出两个圆，以便做同心裁切
+- 先用打孔器冲出内孔（否则垫片会裂开）；
+- 然后做外轮廓的裁切，必要时可以用剪刀；此时要用砂纸把切口收尾
+
+商店里（包括大型家装超市）也能买到经燃气认证、可耐 360 °C（？）温度的垫片，通常是蓝色的。
+
+平垫片无需过度拧紧，而且每次拆装时最好更换垫片；每次拆卸时，都要仔细观察垫片的状态：此前是不是拧得太紧了？
+如果看起来有必要（螺纹在正常拧紧前就已顶死），可以叠用两层垫片。
+
+以上所有关于 3/4" 垫片的说明，同样适用于 3/8" 垫片。
+
+#### § 3 首次密封性试验
+
+加热板及其附件和软管装配完成后，必须在车间（而不是在现场）进行首次气密试验。做法是给整个组件加压空气至约 3 bar。
+请注意，气密比液密更难实现。
+
+使用带阀门的接头和「脚踏」式气泵，通过在中间加装变径接头，把它装到软管的自由端，参见资料／第 I 部分／第 IV 章／第 VII 节。把安全阀整定到 3,5 bar，加压到 3 bar，然后观察压力表，在 15 到 30 分钟内指针的移动不得超过一个指针宽度。用肥皂水或「1000 泡泡」式的检漏剂，在所有装配处和接头处查找泄漏。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+#### § 4 箱体背面的集流管配套件
+
+集流管的这一端集中了供水装置、放水装置和一个附加的安全阀。
+
+1 集流管端部
+2- 双锥接头 Ø 22 / 外螺纹 G 1/2"，配用于承接平垫片的正确支承面
+3- 铁铜弯头接头 F，G1/2" / Ø 12
+4- 铜套管 Ø 12
+4- 直铁铜接头 Ø 12 / F G3/8"
+6- 三通 外螺纹 G3/8"
+7- 铁铜弯头接头 F 3/8" / Ø 12
+8- 安全阀 MSC direct.com 78063195，钎焊在直铁铜接头 G 3/8" 上
+9 球阀，公-母 3/8"。所有球阀都带有柔性垫片，其材料的耐热程度各不相同：参见制造商的技术规格。
+10- 带环纹的套管，钎焊在直铁铜接头 F G 3/8" 上
+11 软管。这根软管只在很短时间内受热，但不承受压力
+10- 带环纹的套管，钎焊在直铁铜接头 F G 3/8" 上
+12- 汽车气门阀，钎焊在接头上，用于进行气密试验
+（13）- 集流管排空口
+14 – 加注漏斗。
+
+（见下一页的示意图）
+
+#### § 5 带压供水
+
+如果发生蒸汽泄漏，或安全阀大量排汽，就无法靠重力方式给集流管重新加注冷水；冷水一进入热集流管就立刻汽化，并把供水管里的所有东西顶出来。因此必须给集热器的真空管加盖并等待其冷却；也可以采用与资料中提出的相同的供水泵。但这是一件只有特殊情况才值得做的麻烦事，最好的办法还是让机器冷却下来……然后去找出泄漏点。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+## 第 VII 节 灶具的安装
+
+#### §-1 支架的安装
+
+**总体朝向**
+原则上，支架应朝向南方——前提是身处北半球……
+关于确定正南方向的方法，请参阅资料。但对于真空管灶具来说，精确的朝向并非必不可少；出于一整系列各不相同的理由，人们甚至宁愿把集热器朝向东方或朝向西方，这样它在早晨或傍晚就能工作得更好。
+
+**第一级支撑框架的倾角**
+第一级支撑框架应当取多大的倾角？
+原则上，倾角等于 90° 减去当地纬度。但那只是一个平均位置，用来保证春分日（22 mars 和 22 septembre）正午时分的良好工作。当然也完全可以有别的偏好。
+在赤道附近安装时，应保持约 15° 的最小倾角，以保证真空管热管工作良好。
+
+**如有必要：制作一个工作台**
+如果隔热箱体和灶面板看上去位置太高，正确的解决办法是给使用者配一个宽大的工作台，好让他能在良好的条件下干活。
+
+**制作一个遮蔽棚**
+无论如何，都必须为集热器的操作者准备一个遮蔽棚，因为他需要在一天里最热的那几个钟头里作业。
+
+**集热器的定期改向**
+完全可以设想过了一季又一季，两三次重新调整真空管支撑框架的倾角。
+至于一天之内从东转向西，那是个非常糟糕的主意，那只会让灶具变坏。正确的做法是：每天至少六小时、尽最大可能地使用集热器，并且不要让它每天都被人搬动。
+
+**把隔热箱体装在建筑物里面？**
+在某些十分特定的情况下，可以把集热器装在建筑物外面、而把箱体装在建筑物里面——尤其是在立面朝向正确、并且场地不落在两条回归线之间的时候（在这种情况下，一年中有一段时间太阳会越过天顶）；但此时可用的能量流很微弱，而且管子一旦超过一米，即便保温良好，蒸汽的损失也会大到无法接受。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+**安装时必须核查的三个关键点：**
+
+- **支架：** 横梁不必严格水平，但支架必须稳稳地落在四个支脚上，所以不能歪斜。
+**- 集流管的坡度：** 第二级热管和第一级热管一样，只有在具备最小坡度的前提下才能工作。在集流管长度方向上三厘米的坡度，也就是每 50 cm 砌筑高度上一个厘米，看来是个合适的数值。
+如有必要，可在真空管支撑框架的某一侧铰链上、或在支架上再钻一个孔。在支架下面垫木同样可行，前提是垫得足够妥当（垫木一旦丢失，集热器可能就再也无法正常工作了……）。为保险起见，把支架的两根下横梁校正找平。
+**- 活动框架的找平**：这项操作与第四节里描述的完全相同。管子装好之后，它们必须位于同一个平面上，而不是形成一个扭曲的曲面。按需用垫片把框架下横梁的最低点与地面之间垫平。
+
+#### §-2 箱体支撑的安装
+
+先把箱体的两根支撑横梁装到支架上：先以螺钉固定（露出来的螺钉要用保护帽盖住！），再改用螺栓连接。把两根支撑横梁校正找平。
+对于加热板与热管之间的连接管，应预留约 5 cm 的坡度。如有必要，在箱体下面用斜撑垫高。
+
+#### § 3 隔热箱体的安装
 
 ```
-Il y a ici une petite contradiction
+这里有一处小矛盾
 ```
-- d'un part le tuyau souple doit être en pente vers le collecteur
-- d'autre part la plaque chauffante elle même doit être quelque peu en pente, sur 5 mm pour 20 cm,
-pour un bon écoulement des condensats vers la sortie, c'est çà dire "vers la gauche" de l'observateur
-placé en bout du cuiseur.
-Il y a plusieurs solutions, par exemple :
-- incliner la plaque chauffante lors de son installation dans le caisson isolant
-- décaler quelque peu les traverses support du caisson, lors de leur installation sur le chevalet
-- caler sous le caisson.
-
-(Il aurait été plus simple de positionner différemment l'entrée/sortie 3/4" de la plaque chauffante,
-mais la solution choisie permet de fixer correctement le tuyau souple sur le caisson)
+- 一方面，软管必须朝集流管方向倾斜
+- 另一方面，加热板本身也必须略微倾斜，每 20 cm 落差 5 mm，以便冷凝水顺利流向出口，也就是流向站在灶具前端朝里看的操作者的「左手边」。
+有多种解决办法，例如：
+- 把加热板装进隔热箱体时，让它带上一点倾角
+- 把箱体的支撑横梁装到支架上时，让它们彼此略微错开
+- 在箱体下面加垫块。
 
-Lors du serrage du raccord fer-cuivre du tuyau sur le raccord à olive du collecteur, veiller à bien
-maintenir le raccord à olive pour ne pas rayer le bicône.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-**§ 4 INSTALLATION DES TUBES à CALODUC DU PREMIER ETAGE**
-
-L'insertion du bulbe des caloducs dans leur logement du collecteur n'est parfois pas très aisée
-
-- il est possible que, suite au brasage des logements sur le collecteur, des petites boules de résidus
-de brasure restent collées à l'intérieur du logement. On peut les éliminer avec une bande abrasive à
-grain fin (240 ou plus) entourée sur un tube de diamètre adéquat installé en bout d'une perceuse à
-main. Veiller à ne pas trop insister : c'est par le contact cuivre-cuivre qu'est transmise l'énergie
-thermique du caloduc vers le collecteur, il faut donc éviter tout jeu intempestif.
-- de la graisse thermique est parfois livrée avec le capteur, cela facilite l'opération.
-- pour insérer le bulbe dans le logement, ne pas le pousser avec le tube de verre, sous peine de briser
-le fond du tube intérieur ; sortir le caloduc sur 15 ou 20 cm, prendre le tube de cuivre à pleine main,
-puis insérer le bulbe.
-- on peut aussi saisir le caloduc de cuivre avec une pince plate, après avoir quelque peu profilé les
-mors à l'aide d'une lime ronde afin de ne pas blesser le tube de cuivre.
-- enfin, un peu de graisse ordinaire sur le tube en verre facilitera son insertion dans le joint en
-caoutchouc du capot du collecteur.
-
-#### § 5 INSTALLATION D'UNE OCCULTATION DES TUBES
-
-Prévoir un dispositif pour couvrir les tubes pendant les périodes de non-utilisation du
-capteur, par exemple un drap léger qui ne risque pas d'endommager les tubes en cas de coup de
-vent. Il est indispensable de confectionner un support spécifique pour l'occultation, fixé sur le cadre
-mobile, afin que le drap ne repose pas directement sur les tubes
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-## SECTION VIII FONCTIONNEMENT ET UTILISATION
-
-La puissance disponible permet d'effectuer trois cuissons de quatre kilogrammes de légumes par
-jour
-
-#### § 1 FONCTIONNEMENT ET UTILISATION DU CALODUC DU SECOND ETAGE
-
-#### A) L' EAU
-
-**La qualité de l'eau**
+（本来把加热板 3/4" 的进/出口换个位置会简单得多，但所选的方案能让软管正确地固定在箱体上）
 
-Le caloduc est une chaudière à vapeur, et comme pour toutes les chaudières le problème de la
-qualité de l'eau est très important. Il n'est pas question ici de le traiter de façon exhaustive, par
-manque de place et par manque de recul.
-Eliminer au maximum les impuretés en filtrant l'eau, par exemple avec des filtres en papier, et en
-vidangeant la chaudière périodiquement pour éliminer les boues. Lors des vidanges, conserver et
-observer attentivement les écoulements d'eau, ils peuvent fournir de précieuses indications sur ce
-qui se passe à l'intérieur. En cas d'eau calcaire, ajouter un verre de vinaigre de temps à autre, et
-vidanger plus souvent le second étage.
-
-**remplissage du caloduc**
-Le volume total du caloduc du second étage est de 1,5 litre environ, la quantité d'eau à introduire est
-de 0,75 litre environ.
-Introduction de l'eau dans le caloduc : utiliser un entonnoir emmanché dans une chute de tuyau Ø
-13 mm, voir section VI "Plomberie"
-Ouvrir préalablement la purge sur le caisson. Maintenir l'entonnoir surélevé par rapport au
-collecteur. Les joints des raccords 3/8 du circuit alimentation/vidange étant percés au diamètre 5 ou
-6 mm, l'écoulement est assez lent.
-Refermer ensuite la purge sur le caisson isolant. On peut préférer fermer la purge une fois que la
-vapeur commence à sortir ; c'est théoriquement très bien, mais ça ne semble pas indispensable.
-
-**En fin de journée**
-Lorsque le caloduc du second étage se refroidit, il entre en dépression, ce qui risque d'endommager
-le manomètre. Une bonne solution est d'installer un mano-vacuomètre, mais à défaut, il est toujours
-possible d'ouvrir la purge pour équilibrer les pressions.
-
-**Contrôle de la quantité d'eau**
-il n'est pas possible de contrôler la quantité d'eau dans le caloduc (ce serait en principe possible, en
-installant un niveau à réfraction comme c'est de règle sur les chaudières industrielles, mais ne
-commençons pas à compliquer la situation); en cas de doute la seule solution est de vidanger, puis
-de recharger. Utiliser un récipient gradué, par exemple un vieux biberon, pour faire des mesures
-précises.
-
-**Ajout d'antigel?**
-La question n'est pas à l'ordre du jour immédiat, mais il serait utile de la traiter.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-#### B) EN COURS DE CUISSON
-
-Le conducteur vérifie de temps à autre la pression au manomètre, qui doit être de l'ordre de 3 à 4 bar
-manométriques
-Si la pression tend à dépasser cette valeur, une solution consiste à recouvrir partiellement les tubes
-du premier étage (ce qui est un non sens pour un capteur solaire!).
-
-De temps à autre, insérer la sonde du thermomètre dans le petit tube de cuivre prévu à cet effet,
-relever la température et la pression, à comparer aux valeurs indiquées sur la table de vapeur
-affichée sur le cuiseur. Compte tenu de possibles imprécisions de lecture, il n'y a pas lieu de
-s'alarmer dans le cas d'un écart de 10 ou 12 degrés par rapport à la théorie, mais un écart plus
-important peut signifier un à-sec de la chaudière : la température augmente, mais la pression
-descend vers zéro.
-
-C) L'À-SEC DE LA CHAUDIERE
-
-**Les causes**
-Des excès de pression répétés provoquant des levers de soupape répétés peuvent entraîner un à-sec,
-mais alors le conducteur ne s'en étonnera pas , la situation est assez franche.
-Les très faibles fuites sont beaucoup plus insidieuses. La vapeur est un gaz, donc invisible. Une
-faible fuite par exemple sur la soupape du côté vidange peut être difficilement détectable ; le métal
-étant à plus de 100 °, l'eau liquide qui s'échappe se vaporise instantanément. Et il y a aussi le risque
-de fuite à l'intérieur du caisson isolé.
-Les fuites de vapeur font partie des affres rituels du débutant ; après quelques jours ou bien une ou
-deux semaines, ce n'est plus qu'un souvenir.
-
-**Les conséquences**
-En principe le cuiseur ne subit aucun dommage :
-
-- les caloducs du premier étage et le collecteur sont conçus pour supporter ce cas de figure, la
-température de stagnation pouvant atteindre 200° C
-- la plaque à vapeur est suffisamment éloignée pour ne pas être soumise à la chaleur, et de plus elle
-n'a rien à craindre, pas plus que l'isolation (la température d'ignition du coton est de l'ordre de 400°
-C)
-- le flexible de liaison, s'il est en caoutchouc "6bar/165°C" pourrait ne pas apprécier Il est de toutes
-façons prudent d'avoir un flexible de rechange, équipé de ses raccords (qui partirait faire un long
-voyage sans sa roue de secours?)
-
-**Les remèdes**
-
-- une impossibilité : recharger immédiatement la chaudière par gravité, avec l'entonnoir. En effet,
-compte tenu du niveau de température du collecteur, l'eau qui y est introduite est instantanément
-vaporisée, le mélange eau-vapeur reflue et refoule l'eau fraîche introduite dans l'entonnoir.
-- la bonne solution consiste à attendre que le collecteur soit à une température inférieure à 100° C,
-notamment en couvrant les tubes avec un drap
-- la solution de la pompe alimentaire, du type de celle proposée par ailleurs dans la documentation
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-de soleil-vapeur, est techniquement tout à fait valable (néanmoins, l'introduction de l'eau doit être
-assez lente afin de limiter les chocs thermiques sur les soudo-brasures du collecteur), mais au fur et
-à mesure de la maîtrise de son art par le conducteur du cuiseur, ce cas de figure deviendra peu à peu
-exceptionnel. L'acquisition d'une pompe alimentaire est à considérer comme superfétatoire.
-
-#### § 2 FONCTIONNEMENT ET UTILISATION DU CAISSON ISOLE
-
-#### A) LA QUESTION DU TRANSFERT THERMIQUE ENTRE LA PLAQUE À VAPEUR ET LE
-
-#### RÉCIPIENT
-
-Dans le cas du cuiseur présenté ci dessus, il s'agit d'une question primordiale. Sur la Terre, quelle
-que soit la latitude ou la longitude, et depuis que l'homme a conquis le feu, le niveau de température
-disponible pour la cuisson alimentaire est au moins de plusieurs centaines de degrés sinon plus : 600
-à 800 ° C environ pour un feu de bois, et 1850 °C pour la flamme du gaz. Un tel niveau de
-température est totalement inutile, mais il n'y a pas vraiment d'alternative à une température moins
-élevée ; et après tout, la nature travaille gratuitement pour fournir du bois et du gaz....
-Dand le cas du cuiseur solaire, nous disposons d'un niveau de température beaucoup plus faible, de
-l'ordre de 140° C. C'est tout à fait suffisant pour faire bouillir de l'eau à 100°, mais sans les facilités
-permises par la "gabegie" usuelle des hauts niveaux de température.
-Il va falloir se plier aux lois de la thermique, qui ne sont absolument pas négociables, notamment
-concernant
-
-- le transfert thermique : la puissance du transfert thermique est d'autant plus importante que la
-différence de température est élevée (d'où la facilité d'un niveau de température élevé). Ici la
-différence de température est faible, il est donc indispensable de veiller au bon passage de la chaleur
-entre la plaque et le fond du récipient : planéité, propreté, film d'huile.
-- la maitrise des pertes : pour élever la température d'un récipient et de son contenu, il faut que
-l'apport de chaleur soit plus important que les pertes thermiques. Dans le cas d'un feu de bois ou
-d'une flamme à 1850 °, il n'y a guère de problème, et même sans mettre de couvercle, l'eau finira
-bien par bouillir. Avec un cuiseur comme proposé ci dessus il est inutile d'essayer de faire bouillir
-de l'eau sans mettre de couvercle; et même en mettant un couvercle, les pertes thermiques à travers
-les parois du récipient sont trop importantes. Le caisson isolant est donc indispensable (on pourrait
-aussi double ou tripler la surface du capteur...)
-
-Il ne faut pas s'inquiéter pour autant : la technique de cuisson à la vapeur dans des marmites à
-double fond de plusieurs centaines de litres, fonctionnant avec des températures du même ordre de
-grandeur que pour le cuiseur, est très largement répandue, par exemple dans les chocolateries, les
-confiseries (la chaleur est parfaitement répartie et le sucre ne brûle pas...), et ainsi que dans la
-restauration collective. C'est une technique parfaitement maîtrisée, mais peu connue du grand
-public.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-#### B) LE CHOIX DU RECIPIENT DE CUISSON
-
-Pour un cuiseur tel que décrit ci dessus, un récipient de 6 à 8 litres convient très bien.
-Il faut utiliser le récipient le plus petit possible : dans le cas d'un récipient utilisé seulement à moitié,
-toute la partie non utilisée du récipient est source de pertes thermiques, et malgré l'isolation du
-caisson, cela va à l'encontre du mot d'ordre de "traque des pertes thermiques".(toutefois en cas de
-cuisson à l'eau, utiliser un récipient suffisamment grand et haut rempli seulement partiellement pour
-le manutentionner en sécurité)
-Exemple de dimension de récipient : diamètre 22 cm, hauteur 20 cm, soit 7,6 litres.
-
-Le récipient le plus simple et le moins lourd conviendra très bien, à condition toutefois que le fond
-soit bien plan, c'est à dire du type "électrique". En France en 2015, la quasi-totalité des récipients de
-cuisson disponibles dans le commerce sont à fond "électrique". (Eviter pour le moment les
-récipients électriques à fond extérieur ou intérieur émaillé : que vaut le transfert thermique à travers
-l'émail? )
-
-**Couvercle du récipient**
-Les couvercles en verre conviennent très bien. Ils ont généralement un petit évent de vapeur, par
-lequel il est possible de glisser la sonde du thermomètre. Veiller à ce qu'il soit possible d'installer l'
-évent de vapeur , c 'est généralement possible dans le cas des couvercle en verre avec une poignée-
-bouton. Le couvercle en verre permet de surveiller (furtivement) la cuisson, ce qui d'ailleurs est
-totalement inutile : vu le niveau de température de la plaque vapeur, "ça n'attache pas".
-Un couvercle métallique convient aussi, sous réserve que son pourtour soit profilé de façon à faire
-retomber les gouttes de condensation à l'intérieur du récipient, et de ne pas les laisser s'écouler à
-l'extérieur du récipient dans l'isolation.
-
-**Modification des anses et poignées.**
-Afin de faciliter la mise en place de l'isolation à l'intérieur du caisson, il est nécessaire de couper les
-poignées du récipient en laissant deux petits moignons, que l'on perce, et dans lesquels on passe des
-petits câbles métalliques dits "câbles d'horlogerie" pour remplacer les poignées.
-Faire un dispositif analogue sur le couvercle
-
-**Event de vapeur**
-C'est un petit tuyau souple du type "vapeur", Ø 6 ou 8 mm, emmanché dans une chute de tube de
-cuivre, traversant le couvercle et débouchant à l'air libre au dessus du couvercle du caisson.
-
-C) INSTALLATION DU RÉCIPIENT DANS LE CAISSON :
-
-**le récipient**
-
-- vérifier la propreté de la plaque chauffante et du fond du récipient : un grain de sable à lui seul -et
-cette fois, ce n'est pas une allégorie- peut compromettre le transfert thermique : la pression monte...
-et le récipient ne chauffe pas.
-- répandre une cuillerée à souple d'huile sur la plaque chauffante ; n'importe quelle huile,
-alimentaire ou non, convient. Par le phénomène de capillarité, l'huile reste entre la plaque et le
-récipient, et assure le transfert thermique là où le contact entre les métaux du récipient et de la
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-plaque chauffante laisserait à désirer.
-
-- tourner quelque peu le récipient dans un sens puis dans l'autre, puis tenter de le soulever
-légèrement. L'opérateur devrait sentir une certaine "adhérence" du récipient sur la plaque.
-
-**L'isolation**
-
-- Installer l'étage intermédiaire du caisson
-- compléter l'isolation entre le caisson et le récipient, y compris au dessus du couvercle : tissus de
-coton, mais aussi papier journal froissé conviennent très bien ; Il est totalement inutile de tasser, le
-propos est seulement d'empêcher l'air de circuler et de refroidir le récipient.
-
-Installer l'évent, puis le couvercle.
-
-D) MONTEE EN TEMPERATURE
-
-Comme pour toute cuisson alimentaire, il convient de distinguer la phase de montée en température,
-et la phase de cuisson proprement dite.
-Pendant la montée en température, toute l'énergie thermique disponible est requise, il n'y en aura
-jamais de trop. C'est une phase qui paraît toujours trop longue, où l'on se mettrait à regretter les
-bouteilles de gaz. L'opérateur impatient peut se consoler en surveillant son thermomètre, qui est
-d'ailleurs sans grande utilité sauf à rassurer le novice. En observant l'évent de vapeur ou en portant
-l'oreille contre le caisson, l'opérateur sait parfaitement ce qui s'y passe. Surtout, ne pas ouvrir le
-couvercle : c'est inutile, ça "n'attache pas".
-
-#### E) MAINTIENT EN TEMPERATURE
-
-Une fois que le récipient et son contenu sont à température de cuisson, la quantité d'énergie
-thermique à leur fournir est faible : il suffit de compenser les inévitables pertes thermiques, qui sont
-très faibles en raison de l'isolation.
-Le conducteur peut alors soit laisser le capteur en l'état ; l'eau contenue dans le récipient ne
-s'évaporera que plus rapidement, mais c'est inutile ; soit couvrir partiellement les tubes sous vide.
-
-**La marmite norvégienne**
-Supposons un passage nuageux. L'apport d'énergie thermique se tarit, mais compte tenu de
-l'isolation, le niveau de température varie très faiblement à l'intérieur du récipient (l'ordre de
-grandeur : quelques degrés en 15 minutes). _Les aliments continuent à cuire_ , légèrement moins vite
-certainement, mais la cuisson continue : c'est le procédé dit de "marmite norvégienne", où le
-récipient, une fois à température, est retiré du foyer et mis dans une caisse isolée.
-Ce pourrait être la réponse la plus intelligente au surplus d'énergie disponible après la montée en
-température : retirer le récipient, et démarrer la cuisson suivante.
-Mais ne compliquons pas les choses d'emblée.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-#### F) CUISSON A L'EAU ET CUISSON A LA VAPEUR
-
-Dans la nature, l'eau est le matériau le plus difficile à chauffer. Pour chauffer 1 gramme d'eau, 4,2
-Joule sont nécessaires, alors que pour chauffer 1 gramme d'aluminium 0,94 Joule suffisent, et pour
-le laiton 0,38 Joule.
-Soit une cuisson de tubercules. L'opérateur a le choix entre deux solutions
-
-- introduire les tubercules dans le récipient, puis les recouvrir d'eau
-- introduire un peu d'eau dans le récipient, sur deux ou trois centimètres d'épaisseur, puis y
-introduire les tubercules.
-Dans le premier cas, il faut chauffer l'ensemble de l'eau à grand renfort d'énergie. L'eau a ici
-principalement un rôle de transfert thermique
-Dans le second cas, une fois la petite quantité d'eau mise en ébullition, la vapeur se dirige vers les
-tubercules en haut du récipient, cède son énergie thermique (d'où la cuisson), les condensats
-redescendent au fond du récipient, et le cycle recommence, comme dans un caloduc.. L'eau a aussi
-un rôle de transfert thermique, mais dans des conditions différentes.
-Pourquoi est-ce généralement la première solution qui est adoptée? Il a probablement des
-explications : avec un niveau de température élevé, toute l'eau peut s'évaporer, et alors "ça attache".
-Néanmoins, dans un contexte de diminution des disponibilités en énergie thermique de cuisson, la
-cuisson à l'eau traditionnelle est un luxe souvent complètement inutile, voire une gabegie
-supplémentaire
-
-G) CUISSON EN AUTO-CUISEUR
-Dans les "cocottes minute", la pression, régulée par la soupape-poids, est généralement de
-0,5 bar, ce qui correspond, d'après les tables de vapeur, à une température de 112° C à l'intérieur du
-récipient. Il en résulte une diminution du temps de cuisson.
-La plaque à vapeur permet de porter une cocotte-minute à température de fonctionnement, et
-c'est d'autant plus intéressant que, dans le cas des autocuiseurs, la consigne des "2 centimètres d'eau
-en fond de récipient", ainsi que la non ouverture du couvercle, sont généralement respectées.
-La cuisson en autocuiseur est donc une option disponible pour le cuiseur solaire, mais ne
-compliquons pas les choses d'emblée.
-
-#### § 3 FONCTIONNEMENT GENERAL DU CUISEUR
-
-#### A) SIX HEURES PAR JOUR?
-
-Le cuiseur a été conçu et construit pour fonctionner pendant six heures par jour, de 9hoo à 15 hoo
-solaires. Quand les boosters seront installés (grands miroirs, à installer de part et d'autre du capteur)
-la journée de travail pourra même être rallongée d'une heure le matin, et une heure le soir.
-Qu'il fonctionne ou non, le capteur ne s'use pas, il ne coûte rien, et quand il fonctionne, il rapporte.
-
-#### B) LE MODE D'EMPLOI
-
-Le seul mode d'emploi valable est celui que chacun rédige à son propre usage en fonction de
-sa propre expérience : les autres ne sont lus qu'à moitié, ou mal appliqués. C'est à chaque utilisateur,
-ou à chaque groupe d'utilisateurs avec l'aide de son moniteur, de s'atteler à ce travail de rédaction,
-sachant qu'il n'y a aucun risque sauf de mettre à sec le caloduc, ce qui est un peu contrariant
-psychologiquement, mais sans dommage technique.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-## SECTION IX PERFORMANCES ET CONTRÔLE DES
-
-## PERFORMANCES
-
-#### § 1 TEMPÉRATURE, PRESSION, CHALEUR LATENTE ET CASSEROLE D'EAU
-
-**La relation température -pression**
-
-Lorsque l'eau est soumise à l'action de la chaleur, sa température augmente,
-puis elle se transforme en chaleur. Si l'eau est enfermée dans un récipient
-étanche et suffisamment résistant, la pression de la vapeur augmente avec la
-température.
-Il existe une relation précise entre la température et la pression. Sur une
-chaudière, il suffit de disposer d'un manomètre pour connaître à la fois la
-pression et donc aussi la température de la vapeur.
-
-Ci contre : une table de vapeur. La pression indiquée dans cette table est la
-pression manométrique, c'est à dire celle lue sur un manomètre, qui indique
-la différence de pression entre la pression contenue dans un récipient, et la
-pression atmosphérique qui est de l'ordre de 1 bar (autour de 1013 millibar
-au niveau de la mer, selon les conditions météorologiques)
-
-**La notion de chaleur latente**
-Pour passer de l'état liquide à l'état gazeux, l'eau (comme tous les autres
-liquides) a besoin d'une très grande quantité de chaleur, qui sert non pas à
-élever la température, mais seulement à passer d'un état à l'autre , de l'état
-liquide à l'état gazeux : lorsque l'on dispose d'eau à 100°, il faut pour la
-vaporiser (et sans changer sa température) environ 7 fois plus de chaleur qu'
-il n'en a fallu pour la passer de 20 à 100° C ; c'est une chaleur cachée, dite
-"chaleur latente", alors que la "chaleur sensible" est celle qui élève la
-température de l'eau.
-On peut se représenter le phénomène de chaleur latente en imaginant que
-chaque molécule d'eau-vapeur quitte le liquide en emmenant avec elle une
-grande quantité de chaleur cachée.
-Lorsque la vapeur retourne à l'état liquide en se condensant le long d' une
-surface froide (par exemple : le dessous de la plaque à vapeur), elle restitue
-la chaleur latente qu'elle avait prélevée : l'eau , de par son changement de phase, est un excellent
-fluide de transfert thermique.
-
-**La pression de la vapeur d'eau ne nous est d'aucun intérêt** , c'est pour nous un dommage
-collatéral, mais pour d'autres utilisations de la vapeur, par exemple pour fabriquer de l'énergie
-mécanique et ensuite de l'électricité, cette pression est du plus haut intérêt : ainsi toutes les centrales
-électriques, qu'elles soient nucléaires ou à énergie fossile, utilisent la vapeur comme fluide
-énergétique. La vapeur est le fluide énergétique le plus utilisé dans le monde.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-**Il serait possible d'utiliser d'autres fluides thermiques** , notamment l'huile, mais il s'agit là d'un
-autre vaste domaine que soleil-vapeur.org n'a pas abordé (et qu'il ne faudrait aborder qu'avec
-beaucoup de circonspection)
-
-**Dans une casserole** , l'eau est à la pression ambiante, c'est à dire environ 1 bar absolu, soit 0 bar
-relatif. Lorsque l'eau bout et se vaporise, à 100° C, on a beau augmenter l'apport d'énergie
-thermique, la température de l'eau n'augmentera pas ; toute l'énergie supplémentaire ne sert qu'à
-évaporer encore plus d'eau.
-Ainsi dans un récipient où cuisent des aliments à l'eau ou à vapeur à pression atmosphérique, la
-température ne dépasse jamais 100° C : cuissons à l'eau, braisages, pot au feu, riz, etc...Une fois que
-la température est atteinte, si l'apport d'énergie est trop important au vu des pertes thermiques du
-moment, toute l'eau contenue dans le récipient s'évapore et "ça attache" au fond du récipient.
-
-Dans le cas d'une cuisson à l'huile, il est possible de monter jusqu'à 170° C, mais c'est là un
-domaine inaccessible au capteur à tubes sous vide ; il faudrait alors utiliser une autre technologie de
-capteur solaire, qui permet des niveaux de température plus élevés.
-
-#### § 2 LES INSTRUMENTS DE MESURE
-
-**Manomètre et mano-vacuomètre**
-Le manomètre indique la pression atmosphérique relative, c'est à dire la différence entre la pression
-du récipient et la pression absolue. Dans le cas du cuiseur à caloduc, les caloducs se mettent en
-dépression lorsqu'ils se refroidissent ; il serait donc préférable d'installer un **mano-vacuomètre** sur
-la plaque à vapeur, au lieu d'un manomètre qui risque de ne pas apprécier d'être soumis à une
-pression inférieure à la pression atmosphérique.
-
-**Le thermomètre**
-Pour notre usage, un thermomètre digital à sonde K
-est un très bon choix.
-La sonde est à introduire
-
-- soit sur le collecteur, dans le petit tube de cuivre
-débouchant près du tube du collecteur
-- soit dans le récipient de cuisson, par exemple à
-travers un petit trou disponible dans le couvercle en
-verre, ou bien à pratiquer dans un couvercle en tôle. Il
-est inutile de faire descendre la sonde jusqu'au
-liquide : du fait de l'isolation, la température relevée à
-une dizaine de centimètres sous le couvercle, est
-identique à la température du contenu du récipient.
-    La sonde K est un thermocouple ; pour plus de
-renseignements, consulter l'article "thermocouple" sur
-Wikipedia.
-
-**Le chronomètre,** désormais disponible sur tous les téléphones portables
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-#### § 3 LE TEST DU LITRE SUPPLEMENTAIRE D'EAU BOUILLANTE
-
-Ce test a pour but de mesurer la puissance thermique disponible du cuiseur
-Le test consiste à
-
-- porter à ébullition environ deux litres d'eau
-- rajouter un litre d'eau froide
-- mesurer le temps de retour à l'ébullition
-- effectuer les calculs
-C'est une démarche quelque peu analogue à celle de la "double pesée".
-
-**pour effectuer un test précis**
-
-- noter la température de l'eau froide
-- mesurer la température à l'intérieur du récipient, et arrêter la mesure à 95 ou 98° C. On constate en
-effet que la courbe de température "s'aplatit" lorsqu'elle atteint les 100° C, et l'opérateur ne peut
-savoir quand exactement il convient d'arrêter le chronomètre, d'où des erreurs de lecture très
-importantes. En haute altitude la pression atmosphérique est moins importante, le niveau de
-température d'ébullition est donc moins élevé ; faire quelques mesures préalables de températures
-d'ébullition, puis effectuer la mesure à quelques degrés en dessous de ce seuil.
-
-**Effectuer les calculs**
-Soit un litre d'eau froide à 22° C, rajouté au contenu du récipient, et un retour à la température de
-96° C après 12 minutes et 45 secondes.
-Temps de retour : (12 * 60) + 45 = 765 secondes
-différence de température : 96° – 22° = 74 ° C
-La chaleur massique de l'eau est de 4,18 Joule par gramme et par degré Celsius (le Joule est l'unité
-d'énergie thermique, mécanique, électrique....)
-Pour effectuer notre opération, la quantité d'énergie nécessaire aura été de
-1 000 grammes * 4,18 Joule * 74° C = 309 320 Joule
-Cette opération s'est effectuée en 765 secondes.
-L'unité de puissance est le Watt ; une machine qui produit ou consomme ou produit Un Joule par
-seconde a une puissance de Un Watt.
-Les 309 320 Joule ont été fournis par le cuiseur en 765 secondes, soit une puissance de
-309 320 Joule / 765 secondes = **404 Watt**
-
-Il s'agit de la **puissance effectivement disponible pour l'utilisateur**. Ce chiffre tient compte de
-toutes les pertes, depuis celles des caloducs du premier étage jusqu'à celles du couvercle du caisson
-isolant, alors que habituellement la puissance indiquée d'une machine fait référence à la puissance
-_en entrée_. Ainsi, une perceuse de "500 Watt" consomme bien 500 Watt, mais seule une partie de
-l'énergie consommée se retrouvera à l'extrémité de la mèche – pourtant celle là seule intéresse
-l'utilisateur.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-L'intérêt du test du litre d'eau bouillante supplémentaire est de
-fournir un bon ordre d'idée de la puissance d'un capteur. S'il s'agit
-de comparer des capteurs entre eux, il convient de tenir compte de
-l'ensoleillement et de l'heure à laquelle est effectué le relevé (effet
-cosinus avant midi et après midi solaire). Des renseignements sur le
-sujet sont disponibles dans la documentation de soleil-vapeur.org.
-Pour la mesure de l'ensoleillement : voir Daystar Solar Meter chez
-Daystarpv.com. En connaissant la puissance du rayonnement
-solaire, il est possible de calculer le rendement thermique de
-l'installation.
-
-## SECTION X AMELIORATIONS ENVISAGEABLES
-
-De nombreuses variantes et améliorations sont envisageables, toutefois dans un premier temps il est
-préférable de se cantonner à une version simple comme celle présentée ici, et de bien la prendre en
-main.
-
-Le caloduc du second étage n'a pas fait l'objet d'études du type : nature et quantité de liquide,
-antigel, vide partiel....
-
-Quelle serait la taille maximale du cuiseur? Autrement dit : quelle est la capacité de transfert
-thermique maximum de la plaque chauffante?
-
-Serai-il possible d'installer une plaque chauffante à chaque extrémité du collecteur? Une fois qu'un
-récipient est monté à température, la quantité d'énergie qu lui est nécessaire est minime, d'autant que
-le récipient est dans un caisson isolé. Le capteur est alors notablement sous employé. Serait-il
-possible de mettre en chauffe un second récipient?
-
-Le caisson isolant pourrait être en tôle légère ; il serait alors souhaitable de lui donner une forme
-ovale et non pas ronde, pour faciliter la préhension des poignées du récipient à l'intérieur du
-caisson.
-
-Le tube du collecteur pourrait être en acier, les logements des bulbes des caloducs du premier étage
-étant en cuivre et soudo-brasés à la brasure laiton sur le collecteur en acier.
-
-Renforcement de la puissance du capteur : installer un réflecteur mobile et orientable, articulé sur la
-rive Ouest du cadre mobile pendant la matinée, et sur la rive Est durant l'après midi. Il appartient au
-conducteur du capteur de le réorienter périodiquement, de façon à ce que le flux de rayons réfléchis
-sot dirigé, sans grande précision, sur les tubes à vide.
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-## SECTION XI QUELQUES ASPECTS NON TECHNIQUES
-
-#### §-1 ENERGIE SOLAIRE ET CONTRAINTES
-
-Les énergies traditionnelles (bois/charbon....) ont entre autres comme caractéristiques d'être
-disponibles selon la volonté de l'utilisateur, pour peu qu'il puisse se les procurer : je peux allumer un
-feu de bois et cuire des aliments quand je veux -le jour, la nuit...-, où je veux - dans ma cuisine,
-dans ma cour, en voyage avec une bouteille de gaz...-, comme je veux – petit feu, grand feu...
-Avec l'énergie solaire, il n'en va pas de même : l'utilisateur est soumis à la bonne volonté du soleil,
-et le stockage d'énergie thermique, dans les petites puissances qui nous intéressent, est illusoire ;
-voir à ce sujet la rubrique "énergie et effet d'échelle", dans la 5ème partie de la documentation.
-Il en résulte, pour l'utilisateur, une impression de soumission et de régression par rapport à "avant".
-
-Qu'il s'agisse de bois ou de charbon, que leur approvisionnement soit gratuit ou payant, l'utilisateur
-s'est habitué depuis des temps immémoriaux à bénéficier sans s'en rendre compte du travail de mise
-en conserve de l'énergie solaire sous forme de bois ou de charbon, effectué gratuitement par la
-nature
-Les habitudes sont faites pour être changées, mais le changement sous contraintes est rarement
-euphorique. Dans le cas de l'énergie solaire -qu'il s'agisse du capteur à caloducs ci dessus ou d'un
-autre-, il serait naïf d'imputer les inconvénients à la mauvaise volonté du soleil. La vraie contrainte
-proviendra de la disponibilité décroissante des diverses "sources" d' énergie usuelles.
-
-**§ 2 QUELQUES ASPECTS ECONOMIQUES**
-
-Il s'agit ici de donner quelques ordres d'idées, c'est bien sûr au lecteur qu'il appartiendra de faire ses
-propres évaluations.
-
-En 2015, le prix d'un capteur de 18 tubes avec son collecteur était de l'ordre de 500 Euros toutes
-taxes, hors transport.
-Le prix des éléments à confectionner (support, plaque chauffante, caisson isolé...) peut varier du
-simple au décuple, selon qu'il s'agit d'une auto-construction par l'utilisateur, ou d'un prix de
-prototype exécuté par une entreprise.
-Le chiffre de 1200 Euros pourrait être un point de départ pour le raisonnement.
-
-La durée d'amortissement technique s'étend sur plusieurs années ; il serait illusoire ici de raisonner à
-long terme, retenons le chiffre de quatre à cinq ans. Les pièces de rechange, sur cette période,
-pourraient être un ou deux tuyaux souple entre le collecteur et la plaque chauffante, et quelques
-tubes sous vide à 15 ou 20 euros pièces en cas de casse. (rappel : le capteur continue à fonctionner,
-même en l'absence d'un ou plusieurs tubes)
-
-Dans le cas d'une installation énergétique solaire, la somme déboursée lors de l'achat correspond,
-sur un plan économique, au prix du matériel PLUS le prix de l'énergie équivalente disponible
-pendant toute la durée de vie du matériel. Pour faire une analogie, c'est un peu comme si l'acheteur
-d'un véhicule automobile destiné à rouler plus de 200 000 km payait en même temps et d'un seul
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
-
-
-coup tout le carburant qu'il va consommer pendant la durée de vie de son véhicule, soit une
-quinzaine de tonnes de carburant.
-
-Enfin, sachant que le capteur est destiné à fonctionner six à sept heures par jour, pendant 200 à 300
-jours par ans, (trois cuissons de quatre kg de légumes par jour), quel est le coût du combustible
-traditionnel équivalent?
-
-Pour ne pas trop embrouiller le raisonnement, on s'abstiendra ici d'aborder les notions de
-déforestation ou de limitation de production de gaz à effet de serre.
-
-**§ 3 QUEL(S) MODÈLE(S) D'UTILISATION DU CAPTEUR**?
-
-Pour des raisons inhérentes à la thermique et aux effets d'échelle (voir la rubrique consacrée
-à ce sujet dans la 5ème partie de la documentation), les dispositifs à énergie solaire doivent avoir
-une taille minimum pour fonctionner correctement, et cette taille est souvent au-delà de celle
-nécessaire pour satisfaire les besoins d'un utilisateur individuel.
-A priori, le cuiseur à caloducs étagés serait à usage professionnel du type micro entreprise
-ou artisanat plutôt qu'à usage familial, à tout le moins à usage collectif.
-
-On pourrait faire ici l'analogie avec le four banal du Moyen Age : une famille paysanne
-n'était pas en mesure d'avoir à elle seule l'utilité d'un four à pain, en raison du montant de
-l'investissement initial, et de la quantité de fagots à utiliser pour chaque fournée quelque soit la
-quantité de pain à cuire ; le même raisonnement s'applique au moulin banal. Moulin banal et four
-banal ne pouvaient être que d'utilisation collective. Mais c'est le seigneur local, c'est à dire le
-détenteur du pouvoir social et politique local, qui était propriétaire du four et du moulin.
-
-Qu'en sera-t-il des dispositifs à énergie solaire, qui pour être rentables doivent être d'usage
-collectif? Appartiendront-ils à des personnes privées, avec revente de l'utilisation, ou bien seront-ils
-utilisés de façon partagée, à l'instar des moulins à mil installés par des groupes villageois? Et quelle
-sera l'influence de la raréfaction croissante des disponibilités en énergie thermique de cuisson?
-
-**5ème partie :** vers d'autres horizons **Rubrique** : capteur solaire thermique à vapeur à caloducs étagés
+把管子的铁铜接头拧到集流器的锥形接头上时，务必把锥形接头牢牢夹住，以免刮伤双锥面。
 
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
 
 
+**§ 4 第一级热管的安装**
+
+把热管的蒸发端插进集流管上的座孔，有时并不太容易
+
+- 集流管上的座孔钎焊之后，孔内有时会残留着一些钎焊渣的小球。可以用细粒号（240 或更细）的砂布条来清除，把砂布卷在直径合适的管子上，装到手摇钻的钻头上。要注意别太用力：热量正是通过铜与铜的接触从热管传给集流管的，因此必须避免出现任何不该有的间隙。
+- 集热器有时会随货附带一些导热膏，这让操作更省事。
+- 把蒸发端插入座孔时，不要用玻璃管去顶，否则会撑破内管的底部；应把热管往外抽出 15 或 20 cm，整只手握住铜管，然后再把蒸发端插进去。
+- 也可以用平口钳夹住铜热管，但事先要用圆锉把钳口稍微修出弧度，以免伤到铜管。
+- 最后，在玻璃管上抹一点普通润滑脂，会让它更容易插进集流管端盖的橡胶密封圈里。
+
+#### § 5 管子遮盖装置的安装
+
+必须准备一套装置，在集热器不使用期间把管子盖住，例如一块轻薄的布，刮大风时也不会损坏管子。必须专门做一个遮盖罩的支架，固定在活动框架上，好让布不直接压在管子上。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+## 第 VIII 节 运行与使用
+
+可用的功率足以每天完成三批各四公斤蔬菜的烹煮
+
+#### § 1 第二级热管的运行与使用
+
+#### A) 水
+
+**水的质量**
+
+热管就是一台蒸汽锅炉，而和所有锅炉一样，水质问题非常重要。这里不打算详尽论述，一来篇幅不够，二来经验也不足。
+
+应尽量通过过滤来清除杂质，例如用纸质滤芯；并定期排放锅炉以清除水垢。排放时，要保留并仔细观察流出的水，它能就内部正在发生什么提供宝贵的线索。如果水是硬水，偶尔加一杯食醋，并且更频繁地排放第二级热管。
+
+**给热管加水**
+第二级热管的总容积约为 1,5 升，需要加入的水量约为 0,75 升。
+向热管内加水：用一个套接在 Ø 13 mm 管段上的漏斗，见第 VI 节「管路系统」
+事先打开箱体上的放水口。放漏斗时，漏斗要保持高于集流管。由于供水/排放回路 3/8 接头的密封圈是按 5 或 6 mm 直径钻的孔，所以出水相当缓慢。
+然后关上隔热箱体上的放水口。也可以等蒸汽开始冒出来之后再关放水口；理论上这样很好，但看起来并非必要。
+
+**一天结束时**
+第二级热管冷却时内部会形成负压，这有可能损坏压力表。一个好办法是装一只复合压力真空表；但如果做不到，也总可以打开放水口来平衡压力。
+
+**检查水量**
+热管内的水量是无法检查的（原则上本可以做到——工业锅炉通常都装有折射式液位计——但我们别把事情弄复杂）；拿不准时唯一的办法就是排空，然后重新加注。使用一个带刻度的容器，例如一个旧奶瓶，以便精确计量。
+
+**要不要加防冻液？**
+这个问题眼下还不算紧迫，但值得处理一下。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+#### B) 烹煮过程中
+
+操作者不时查看压力表上的读数，它应当在 3 到 4 bar 表压的数量级上。
+如果压力眼看要超过这个值，一个办法是部分遮盖第一级的管子（对太阳能集热器来说，这当然是无稽之谈）。
+
+不时把温度计的探头插入为此预留的小铜管里，读取温度和压力，并同灶具上贴着的蒸汽表所标数值作比较。考虑到读数可能有偏差，与理论值相差 10 或 12 度不必惊慌；但如果偏差更大，可能意味着锅炉已经烧干：温度在升高，而压力却在降向零。
+
+C) 锅炉烧干
+
+**原因**
+反复超压导致反复顶开阀门，可能造成烧干；但这时操作者不会感到意外，情况相当明显。
+极小的泄漏要阴险得多。蒸汽是气体，因而看不见。例如排放那一侧的阀门上有一处小泄漏，就很难发现；金属的温度超过 100 °，渗出的液态水会瞬间汽化。此外还有在隔热箱体内部泄漏的风险。
+蒸汽泄漏算是新手必交的学费；过几天、或者一两周之后，就再也不是个问题了。
+
+**后果**
+原则上灶具不会受到任何损坏：
+- 第一级热管和集流管就是按能承受这种情况设计的，滞止温度可能达到 200° C
+- 蒸汽加热板离得足够远，不会被热量直接烤到，而且它本身也没什么可担心的，保温材料同样如此（棉的着火温度约为 400° C）
+- 连接软管如果是标着「6bar/165°C」的橡胶管，可能受不了这种工况。无论如何，备一根配有接头的替换软管是明智的（它会不会因为没带备胎而出趟远门呢？）
+
+**补救办法**
+- 一个做不到的办法：用漏斗靠重力立即给锅炉重新加注。事实上，考虑到集流管的温度水平，注入的水会瞬间汽化，水-汽混合物回流，把漏斗里刚加进去的淡水顶了回来。
+- 正确的办法是等集流管降到 100° C 以下，例如用一块布把管子盖起来
+- 采用食物泵，即其他地方在
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+soleil-vapeur 资料中提出的那种，在技术完全站得住脚（不过加水必须足够缓慢，以免集流管的钎焊部位受到热冲击），但随着灶具操作者越来越熟练，这种情况会逐渐变得罕见。购置一台食物泵应当说是多余的。
+
+#### § 2 隔热箱体的运行与使用
+
+#### A) 蒸汽加热板与
+
+#### 容器之间的传热问题
+
+对于上面介绍的这种灶具来说，这是一个首要问题。在地球上，无论纬度还是经度如何，自从人类掌握了火以来，可用于烹煮食物的温度水平至少也有好几百度，否则更高：柴火约 600 到 800 ° C，燃气火焰更是 1850 °C。这样的温度水平完全用不上，但面对低一些的温度也确实没有别的替代方案；而且说到底，大自然免费供应木材和燃气……
+在太阳灶具的情况下，我们能拿到的温度水平要低得多，大约是 140° C 的量级。这足以把水烧到 100° 的沸点，但享受不到高温水平通常那种「浪费」所带来的便利。
+必须服从热力学的规律，这些规律绝对不容讨价还价，尤其是以下几方面
+- 传热：温差越大，传热的功率就越大（高温水平之所以方便，正在于此）。这里温差很小，因此必须确保热量能在加热板与容器底之间顺利通过：平面度、清洁度、油膜。
+- 控制损失：要把容器及其内容物的温度升高，供入的热量必须大于热损失。在柴火或 1850° 火焰的情况下，这根本不成问题，即便不加盖子，水最终也一定会烧开。而用上面提出的这种灶具，若不加盖子就想把水烧开是白费力气；即便加了盖子，容器壁面的热损失也太大。因此隔热箱体是必不可少的（当然也可以把集热器的面积加倍或三倍……）
+
+不过也不必担心：在数百升的双层底大锅里用蒸汽烹煮，温度水平与本灶具属于同一数量级，这项技术已经非常普及，例如在巧克力厂、糖果厂（热量分布极佳，糖不会糊锅……），以及集体餐饮业中就是如此。这是一项技术已经完全成熟、但大众却很少了解的技术。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+#### B) 烹煮容器的选择
+
+对于上面描述的这种灶具，6 到 8 升的容器非常合适。
+应尽量使用最小的容器：如果容器只用了一半，那么容器未使用的部分全都是热损失来源；即使有箱体保温，这也与「严查热损失」这一原则背道而驰。（不过在水浴烹煮时，要用足够大、足够高的容器，但只装一部分水，以便安全搬动）
+容器尺寸示例：直径 22 cm，高 20 cm，即 7,6 升。
+
+最简单、最轻便的容器就很好，前提是底部足够平整，也就是所谓「电炉型」。在 2015 年的法国，市面上能买到的烹煮容器几乎清一色是「电炉型」底。（暂时避开内底或外底搪瓷的电炉容器：搪瓷层的传热性能究竟如何？）
+
+**容器盖**
+玻璃盖很合适。它们通常带有一个小排气口，可以把温度计探头从那里插进去。要注意必须留出安装排气口的余地——带把手-按钮的玻璃盖一般都能做到。玻璃盖让人可以（偷偷地）观察烹煮过程，而这其实完全没必要：看蒸汽加热板的温度水平，「根本不会糊」。
+金属盖也可以，但前提是其边缘要做出合适的形状，让冷凝水滴落回容器内部，而不要流到容器外面、流入保温层。
+
+**改动提手与把手。**
+为了让隔热材料能顺利放进箱体内，需要把容器的把手锯掉，只留下两个小残根，在它们上面钻孔，再穿入所谓的「钟表钢丝」来代替把手。
+在盖子上做同样的装置。
+
+**排气口**
+这是一根「蒸汽」型的细小软管，Ø 6 或 8 mm，套接在一段铜管上，穿过盖子，并在箱盖上方的露天空气中开口。
+
+C) 把容器装进箱体：
+
+**容器**
+
+- 检查加热板和容器底的清洁度：只要一粒沙——而且这一次绝不是比喻——就可能损害传热：压力在上升……而容器却热不起来。
+- 在加热板上摊一汤匙油；任何油都行，食用油与否都无所谓。靠毛细现象，油会留在加热板与容器之间，在金属与金属的接触本会留下不足的地方，确保传热得以进行。
+- 把容器稍稍转一下，一个方向再另一个方向，然后试着轻轻把它提起来。操作者应该能感觉到容器对加热板有一定的「吸附力」。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+**保温层**
+
+- 装上箱体的中间层
+- 补齐箱体与容器之间的保温，包括盖子上方：棉布、以及揉皱的报纸都很合适；把它压实完全没有意义，目的只是阻止空气流通、把容器冷却。
+
+装上排气口，然后盖上盖子。
+
+D) 升温
+
+和所有食物烹煮一样，需要把升温阶段和正式的烹煮阶段区分开来。
+在升温阶段，可用的全部热能都会被用掉，永远不会嫌多。这个阶段看上去总是太漫长，让人忍不住怀念气瓶。不耐烦的操作者可以靠盯着温度计自我安慰，不过说实话，除非用来安抚新手，这东西也没什么用。观察排气口，或者把耳朵贴在箱体上，操作者完全清楚里面在发生什么。尤其是，不要打开盖子：没必要，而且「根本不会糊」。
+
+#### E) 保温维持
+
+一旦容器及其内容物达到烹煮温度，需要供给它们的热能就很少了：只需补偿那些不可避免的热损失即可，而由于保温良好，这些损失非常小。
+这时操作者可以让集热器保持原样；容器里的水只会蒸发得更快一些，但这没有意义；也可以部分遮盖真空管。
+
+**挪威锅**
+假设遇到一段多云的时段。热能的输入枯竭了，但由于保温良好，容器内部的温度水平变化极小（数量级：15 分钟内几度）。_食物继续加热_，速度当然会慢一些，但加热仍在继续：这就是所谓的「挪威锅」工艺，即容器达到温度后从灶上取下，放进一个保温箱里。
+这或许是升温阶段结束后面对能量过剩时最聪明的回应：把容器取下来，开始下一轮烹煮。
+但我们还是别一上来就把事情弄复杂。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+#### F) 水煮与蒸煮
+
+在自然界，水是最难加热的材料。要加热 1 克水需要 4,2 焦耳，而加热 1 克铝只需 0,94 焦耳，加热黄铜只需 0,38 焦耳。
+以烹煮块茎为例。操作者有两种方案可选
+- 把块茎放进容器，然后加水没过
+- 先在容器里放一点水，厚度两三厘米，再把块茎放进去
+
+第一种情况下，必须耗费大量能量把全部的水一起加热。这里水主要起传热的作用。
+第二种情况下，那少量的水一旦沸腾，蒸汽就朝容器上部的块茎升去，把热能交给它们（这就是加热的原因），冷凝水再回落到容器底部，循环重新开始——和在热管里一样。这里的水同样起传热作用，只是条件不同。
+为什么一般采用的是第一种方案？大概是有原因的：在高温度水平下，所有的水都可能蒸发掉，于是就「糊」了。然而，在烹煮热能供应日益减少的背景下，传统的加水烹煮往往是一种完全不必要的奢侈，甚至是一种额外的浪费
+
+G) 高压锅烹煮
+在「高压锅」里，由限压阀调节的压力通常是 0,5 bar，按蒸汽表相当于锅内 112° C 的温度。由此可以缩短烹煮时间。
+蒸汽加热板能把高压锅加热到工作温度，这就更有意思了，因为在高压锅的情况下，「锅底放 2 厘米水」这一要求以及不开盖这一点通常都能做到。
+因此，高压锅烹煮是太阳灶具的一个可选方案，不过我们还是别一上来就把事情弄复杂。
+
+#### § 3 灶具的总体运行
+
+#### A) 每天六小时？
+
+灶具在设计与制造上，就是按每天运行六小时、从太阳时 9 点到 15 点来考虑的。等聚光增强板（大镜子，装在集热器两侧）装好之后，工作日甚至可以早晨延长一小时、晚上延长一小时。
+无论它运不运行，集热器都不会磨损，不花一分钱；而一旦运行起来，它就有回报。
+
+#### B) 使用说明
+
+唯一有效的使用说明，是每个人根据自己经验为自己编写的那一份：别人的说明书只会读个半懂，或者被错误地执行。应当由每一位使用者、或每一个使用小组在其指导员协助下，来承担这份编写工作——须知这里没有任何风险，最多就是把热管烧干，这在心理上有点让人懊恼，但技术上并无损害。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+## 第 IX 节 性能
+
+## 及其检测
+
+#### § 1 温度、压力、潜热与一锅水
+
+**温度与压力的关系**
+
+当水受到热的作用时，它的温度上升，
+然后变成蒸汽。如果水被封闭在一个密封
+且足够耐压的容器中，蒸汽压力就会随温度而升高。
+温度与压力之间存在着精确的关系。在锅炉上，
+只要配备一只压力表，就能同时知道压力、从而也知道蒸汽的温度。
+
+右图：一张蒸汽表。该表中给出的压力是
+表压，也就是压力表上读到的那个值，它表示容器内的压力
+与大气压力之差；大气压力约为 1 bar（海平面附近约为 1013 毫巴，
+视气象条件而定）
+
+**潜热的概念**
+要从液态变为气态，水（和其他所有液体一样）需要极大的
+热量；这些热量不是用来升高温度，而仅仅用于从一种状态
+变为另一种状态，即从液态变为气态：当手里有 100° 的水时，
+要把它汽化（并且不改变其温度）所需的热量，约为把它从 20° C
+升到 100° C 所需热量的 7 倍；这是一种被隐藏起来的热量，
+称为「潜热」，而「显热」则是用来升高水温的那一部分热量。
+可以这样来想象潜热现象：每一个水蒸气分子在离开液体时，
+都随身带走大量隐藏的热量。
+当蒸汽沿着一处冷表面（例如：蒸汽加热板的下表面）
+凝结而回到液态时，它就把先前取走的潜热归还回来：水
+由于发生相变，是一种极好的传热工质。
+
+**水蒸气的压力对我们毫无用处**，对我们来说这是一个附带
+损害；但对蒸汽的其他用途——例如先制造机械能、
+再转化为电能——来说，这个压力则极其重要：因此所有
+发电厂，无论是核能的还是化石燃料的，都把蒸汽用作
+载能工质。蒸汽是全世界使用最广泛的载能工质。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+**也可以使用其他传热工质**，尤其是油，但这属于
+另一个广阔的领域，soleil-vapeur.org 并未涉及
+（而且若要涉及也应极为谨慎）
+
+**在锅具中**，水处在环境压力下，也就是约 1 bar 绝对压力，
+相当于 0 bar 表压。当水在 100° C 沸腾并汽化时，无论怎样
+增加热能的供给，水温都不会再升高；多出来的全部能量
+只用来汽化更多的水。
+因此，在一个用常压下的水或蒸汽烹煮食物的容器里，
+温度永远不会超过 100° C：水煮、焖煮、炖肉汤、米饭等等……
+一旦达到该温度，如果供能相对于当时的热损失而言过大，
+那么容器里的全部水都会汽化掉，并且「糊」在容器底上。
+
+在用油烹调的情况下，温度可以升到 170° C，但这已属于
+真空管集热器无法企及的领域；那时就必须采用另一种
+太阳能集热器技术，它能达到更高的温度水平。
+
+#### § 2 测量仪器
+
+**压力表与真空压力表**
+压力表显示的是相对于大气压的压力，也就是容器内的压力
+与绝对压力之间的差值。在热管灶具的情况下，热管在冷却时
+内部会出现负压；因此最好在蒸汽加热板上安装一只
+**真空压力表**，而不是压力表——后者可能并不适于承受
+低于大气压的压力。
+
+**温度计**
+对我们的用途来说，K 型探头数字温度计
+是一个非常好的选择。
+探头可以安装在
+
+- 要么装在集流管一侧，装进集流管旁边开口的那根小铜管里
+- 要么装在烹煮容器里，例如穿过玻璃盖上预留的一个小孔，
+  或者在铁皮盖上开一个孔。没有必要把探头一直伸到液体里：
+  由于有保温层，在盖板下方十几厘米处测得的温度，
+  与容器内物品的温度是相同的。
+K 型探头是一个热电偶；欲了解详情，
+请查阅维基百科上的「thermocouple」条目。
+
+**秒表，**如今在所有手机上都能找到
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+#### § 3 额外一升沸水的测试
+
+这项测试的目的是测量灶具可用的热功率
+测试的做法是
+
+- 让大约两升水沸腾
+- 加入一升冷水
+- 测量回到沸腾所需的时间
+- 进行计算
+这与「双重称重」的做法有些类似。
+
+**进行精确测试**
+
+- 记下冷水的温度
+- 测量容器内部的温度，并在 95° C 或 98° C 处停止测量。事实上可以看到，
+  温度曲线在达到 100° C 时会「变平」，操作者无法
+  判断究竟何时该停表，因此读数误差可能非常大。在高海拔地区，
+  大气压较低，沸腾的温度水平也就较低；应当先预先测几次沸点，
+  然后在低于该阈值几度的温度下进行测量。
+
+**进行计算**
+设有一升 22° C 的冷水加入容器的内容物中，经过 12 分 45 秒后
+温度回到 96° C。
+返回时间：(12 * 60) + 45 = 765 秒
+温差：96° – 22° = 74 ° C
+水的比热为每克每摄氏度 4,18 焦耳（焦耳是热能、机械能、
+电能……等的单位）
+完成我们这项操作所需的热量为
+1 000 克 * 4,18 焦耳 * 74° C = 309 320 焦耳
+这项操作在 765 秒内完成。
+功率的单位是瓦特；一台每秒产生或消耗一焦耳能量的机器，
+其功率为一瓦特。
+这 309 320 焦耳是灶具在 765 秒内提供的，即功率为
+309 320 焦耳 / 765 秒 = **404 瓦特**
+
+这里说的是**用户实际可获得的功率**。这个数字已经把
+所有损失都计算在内——从第一级热管的损失一直到隔热箱体
+箱盖的损失——而通常机器所标称的功率指的是_输入_功率。
+于是，一台「500 瓦特」的电钻确实消耗 500 瓦特，但所消耗的
+能量只有一部分会到达钻头尖端——然而只有这一部分才是
+用户关心的。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+额外一升沸水这项测试的好处是
+能对集热器的功率给出一个相当不错的量级概念。如果
+是为了把集热器相互比较，就应当把
+日照以及做记录的时刻（太阳上午与太阳下午的
+余弦效应）考虑进去。soleil-vapeur.org 的文档中
+有相关的资料。
+关于日照的测量：参见 Daystarpv.com 的
+Daystar Solar Meter。在知道太阳辐射功率的
+情况下，就有可能计算出装置的热效率。
+
+## 第 X 节 可以考虑的改进
+
+有不少变体和改进方案可以考虑，不过在第一阶段，
+最好还是限定在像这里所介绍的这种简单版本上，
+并把它真正掌握好。
+
+第二级热管尚未做过这类研究：液体的性质与数量、
+防冻液、部分真空等等。
+
+灶具的最大尺寸会是多少？换句话说：
+加热板的最大传热能力是多少？
+
+能否在集流管的每一端各装一块加热板？一旦某个
+容器已经升温到位，它所需的热量就很少了，更何况
+容器还处在隔热箱体里。这时集热器明显处于负荷不足的状态。
+能否再给第二个容器加热？
+
+隔热箱体可以用薄铁皮做成；那样的话最好把它做成
+椭圆形而不是圆形，以便拿取放在箱体内部的
+容器把手。
+
+集流管的管子可以用钢来做，第一级热管蒸发端所在的接座
+则用铜来做，并用黄铜钎料硬钎焊到钢制集流管上。
+
+增强集热器功率的办法：装一块可调方向的移动式反射板，
+上午把它铰接在移动框架的西侧边缘，下午则铰接在东侧边缘。
+集热器的使用者负责定期重新调整它的方向，
+使反射光束大致对准真空管，而不必十分精确。
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+## 第 XI 节 若干非技术性方面
+
+#### §-1 太阳能及其制约因素
+
+传统能源（木柴/煤……）除了别的特点之外，还有一项特点是：
+只要用户自己弄得到，它们就能按用户的意愿随时取用：我可以
+在我想的时候生火做饭——白天、夜晚……——在我想的地方——
+在厨房、在院子里、带着一只气瓶出门时……——也可以按我想要的方式——
+小火、大火……
+太阳能则完全不同：用户得看太阳的脸色，
+而在我们所关心的小功率范围内储存热能是不切实际的；
+关于这一点，可参见文档第 5 部分中的
+「能量与尺度效应」栏目。
+结果就是，用户会产生一种相对于「从前」的屈从感与退步感。
+
+无论是木柴还是煤，无论获取它们是免费还是付费，
+用户从久远年代起就习惯了不假思索地享受大自然
+免费提供的、把太阳能以木柴或煤的形式储存起来的
+这份工作
+习惯是为了被改变而形成的，但在约束之下做出的改变
+很少是令人欢欣的。就太阳能而言——无论是指上面介绍的热管
+集热器还是别的什么——把不便归咎于太阳的不情愿是天真的。
+真正的制约将来自各种常规能源「来源」可获得性的不断下降。
+
+**§ 2 若干经济性问题**
+
+这里要给出的是一些数量级概念，当然应由读者
+自行作出评估。
+
+2015 年，一个 18 管集热器连同其集流管的价格约为
+含税 500 欧元，不含运费。
+自制的各部分（支架、加热板、隔热箱体……）的价格
+可能相差十倍，取决于这是用户自己动手制作，
+还是由公司制作的样机价格。
+1200 欧元这个数字可以作为思考的起点。
+
+技术折旧期长达数年；在这里做长期推算是不切实际的，
+我们取四到五年这个数字。在这段期间，可能的备件
+是集流管与加热板之间的一两根软管，
+以及万一破损时每支 15 或 20 欧元的几根真空管。
+（提醒：即使少了一根或多根管子，集热器仍能继续工作）
+
+就一套太阳能供能装置而言，采购时付出的
+这笔钱从经济角度看相当于设备的价格加上
+设备整个寿命期内所能获得的等值能源的价格。
+打个比方，这有点像一位打算让汽车行驶超过 200 000 公里的
+买家，同时一次性付清
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器
+
+
+他在车辆寿命期内要消耗掉的全部燃料，也就是大约
+十五吨燃料。
+
+最后，鉴于集热器的设计目标是每天运行六到七小时、
+每年运行 200 到 300 天（每天三次烹煮、每次四公斤蔬菜），
+那么等量的传统燃料成本是多少？
+
+为免把推理搞得太复杂，这里就不再讨论
+毁林或限制温室气体生产这些概念了。
+
+**§ 3 集热器有哪几种使用模式**？
+
+由于热力学以及尺度效应方面的原因（见文档第 5 部分中
+专门讨论这一主题的栏目），太阳能装置必须有一定的
+最小尺寸才能正常工作，而这个尺寸往往超出
+满足单个用户需求所需的尺寸。
+初步看来，多级热管灶具更适合微型企业或
+手工业一类的专业用途，而不是家庭用途，
+至少也是集体用途。
+
+这里不妨与中世纪普通的公共烤炉作个类比：一个农民家庭
+由于初始投资的金额，以及无论要烤多少面包、每一炉都得
+烧掉大量柴捆，因此本身无力独享一台面包炉的
+效用；同样的推理也适用于公共磨坊。公共磨坊和公共
+烤炉只能是集体使用的。但烤炉和磨坊的所有者
+是当地领主，也就是当地社会与政治权力的掌握者。
+
+那么太阳能装置将会如何呢？它们为了划算就必须
+集体使用。它们会归私人所有并出售其使用时间，
+还是会像村民小组安装的谷物磨坊那样以共享的方式
+使用？而烹煮用热能可获得性的日益减少
+又会产生什么影响？
+
+**第 5 部分：** 迈向其他视野　**栏目**：多级热管式蒸汽太阳能集热器

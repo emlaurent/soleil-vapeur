@@ -1,441 +1,403 @@
-1ère partie **2ème partie** 3ème partie 4ème partie 5ème partie
-Production **Utilisation** Production Memento vers d'autres
-de la vapeur **de la vapeur** de glace technologique horizons
+第 1 部分 **第 2 部分** 第 3 部分 第 4 部分 第 5 部分
+蒸汽的产生 **蒸汽的利用** 制冰 技术手册 走向其他天地
 ▲
 
-**2ème Partie** Liste des chapitres:
+**第 2 部分** 章节目录：
 
-### ► Chap I – La plaque chauffante à vapeur
+### ► 第 I 章 – 蒸汽加热板 (plaque chauffante à vapeur)
 
 ```
-Chap II – Le caisson isolant
-Chap III – La stérilisation médicale http://www.soleil-vapeur.org
-Chap IV – La cuisson alimentaire à l'eau et à la vapeur
-Chap V – Performances et autres concepts
-Chap VI– Autres cuissons agro-alimentaires
-Chap VII – Agro-carburants, huiles essentielles....
-Chap VIII – Autres modes d'utilisation de la vapeur
+第 II 章 – 保温箱
+第 III 章 – 医疗灭菌 http://www.soleil-vapeur.org
+第 IV 章 – 水与蒸汽的食品烹煮
+第 V 章 – 性能与其他概念
+第 VI 章– 其他农副食品烹煮
+第 VII 章 – 农用燃料、精油……
+第 VIII 章 – 蒸汽的其他利用方式
 ```
-# Chapitre I LA PLAQUE CHAUFFANTE A VAPEUR
+# 第一章 蒸汽加热板
 
-Pages
-* 2 Section I -PRESENTATION DE LA PLAQUE CHAUFFANTE A VAPEUR
-* 4 Section II – ETUDE D LA PLAQUE CHAUFFANTE A VAPEUR
-* 4 § 1) Approvisionnement, débit et marquage des plaques
-* 5 § 2) Usinage au tour
-* 6 § 3) Percements et taraudages des plaques
-* 10 § 4) La gravure du circuit de vapeur
-* 13 § 5) L'assemblage
-* 13 § 6 Les entrées et sorties de vapeur
-* 13 § 7 Le choix du joint torique
-* 15 § 8 Perfectionnements envisageables
-* 15 § 9 Cotes pour une plaque Ø 216 mm
-* 20 Section III FABRICATION DE LA PLAQUE CHAUFFANTE A VAPEUR
-* 20 § 1 Approvisionnement, débit et marquage des plaques
-* 21 § 2 Usinage sur tour
-* 22 § 3 Percements et taraudages
-* 25 § 4 La gravure du circuit de vapeur
-* 27 § 5 L'assemblage
-* 28 Section IV UTILISATION ET PERFORMANCES DE LA PLAQUE A VAPEUR
-* 28 § 1 Utilisation
-* 28 § 2 Performances
-* 30 SECTION V UNE PLAQUE LOW COST
+页码
+* 2 第 I 节 -蒸汽加热板简介
+* 4 第 II 节 – 蒸汽加热板研究
+* 4 § 1) 板材的备料、流量与划线
+* 5 § 2) 车床加工
+* 6 § 3) 板材钻孔与攻丝
+* 10 § 4) 蒸汽回路的雕刻
+* 13 § 5) 装配
+* 13 § 6 蒸汽的进出口
+* 13 § 7 O 形圈的选择
+* 15 § 8 可考虑的改进
+* 15 § 9 Ø 216 mm 板材的尺寸
+* 20 第 III 节 蒸汽加热板的制造
+* 20 § 1 板材的备料、流量与划线
+* 21 § 2 车床加工
+* 22 § 3 钻孔与攻丝
+* 25 § 4 蒸汽回路的雕刻
+* 27 § 5 装配
+* 28 第 IV 节 蒸汽加热板的利用与性能
+* 28 § 1 利用
+* 28 § 2 性能
+* 30 第 V 节 低成本蒸汽板
 
-**2ème Partie** Utilisation de la vapeur **Chap. I** La plaque chauffante à vapeur
+**第 2 部分** 蒸汽的利用 **第 I 章** 蒸汽加热板
 
 [TOC]
 
-## SECTION I -PRESENTATION DE LA PLAQUE CHAUFFANTE À VAPEUR
+## 第 I 节 -蒸汽加热板简介
 
-Il existe de multiples:méthodes d'utilisation de la vapeur : serpentin échangeur immergé, récipient à double fond, serpentin extérieur au récipient, etc...Dans le cadre des travaux sur le capteur, un procédé original a été conçu et mis au point à l'Université Rice de Houston: la plaque chauffante à vapeur. Le principe est de faire circuler de la vapeur dans une plaque en aluminium, et d'utiliser cette plaque comme on utiliserait une plaque de cuisson électrique.
-Le procédé s'est avéré satisfaisant au point de supplanter tous les autres, tant pour des raisons techniques que pour des raisons d'ergonomie : l'utilisateur installe et enlève le récipient de cuisson sans avoir à s'occuper des raccordements de vapeur.
+蒸汽的利用方式有很多种：浸没式换热盘管、双层底容器、置于容器外部的盘管等等。在集热器 (capteur) 研制工作的框架下，人们在休斯顿的赖斯大学构思并研制出了一种独特的工艺：蒸汽加热板。其原理是让蒸汽在一块铝板内流动，并像使用电加热灶板那样使用这块板。
+这一工艺的效果令人满意，以至于无论是出于技术原因还是出于人机工程方面的原因，它都取代了所有其他方案：使用者安装和取下蒸煮容器时，无需照料蒸汽的接头。
 
-![images_2_I-001](images_2_I/images_2_I-001.png)
+![图 2-I-001](images_2_I/images_2_I-001.png)
 
-La plaque est composée de deux demi plaques superposées en aluminium, dont l'une comporte une engravure dans laquelle circule la vapeur. La vapeur fournie par le capteur entre dans l'engravure, cède son énergie thermique (que la plaque cède à son tour au récipient), et se condense. La sortie des condensats est contrôlée par le système de régulation (un robinet manuel, et un robinet automatique) afin de maintenir la vapeur à la pression et donc la température souhaitées.
+这块加热板由两块上下叠合的铝半板组成，其中一块上开有一道凹槽，蒸汽在其中流动。集热器供给的蒸汽进入凹槽，放出它的热能（加热板又把这热能传给容器），然后凝结。冷凝水的排出由调节系统（一个手动阀和一个自动阀）控制，以使蒸汽保持在所需的压力、因而也保持在所需的温度上。
 
-La plaque est disposée à l'intérieur d'un caisson isolant. Une cuillerée d'huile (alimentaire) est répandue sur la plaque, pour favoriser le transfert thermique entre la plaque et le récipient. Une différence de température de l'ordre de 20° C entre la vapeur circulant dans la plaque et le contenu du récipient est suffisante : ce faible Δ t fut parmi les plus heureuses surprises lors des travaux de soleil-vapeur.org
+加热板置于保温箱 (caisson isolant) 内。在板上摊开一勺食用油，以促进板与容器之间的传热。板内流动的蒸汽与容器内容物之间约 20° C 的温差就足够了：这个很小的 Δ t 是 soleil-vapeur.org 各项工作中最令人欣喜的意外收获之一。
 
-![images_2_I-002](images_2_I/images_2_I-002.png)
+![图 2-I-002](images_2_I/images_2_I-002.png)
 
-## SECTION II - ETUDE DE LA PLAQUE CHAUFFANTE À VAPEUR
+## 第 II 节 蒸汽加热板研究
 
-Une plaque à vapeur est composée de deux plaques en aluminium assemblées par des boulons. La plaque supérieure comporte une engravure dans laquelle circule la vapeur. L'étancheité en périphérie est assurée par un joint torique. On envisage de confectionner une plaque diam 240 mm.
+一块蒸汽加热板由两块用螺栓装配起来的铝板组成。上板上开有一道蒸汽流动的凹槽。周边的密封由 O 形圈 (joint torique) 保证。这里考虑制作直径 240 mm 的板。
 
-* Epaisseur de la tôle d'alu : 9,52 mm, ou 10 mm.
-* Section de l'engravue : 5mm x 3 mm de profondeur.
-* Angle entre les rayons de l'engravure : 30°
+* 铝板厚度：9,52 mm，或 10 mm。
+* 凹槽截面：5mm x 深 3 mm。
+* 凹槽两条圆弧之间的夹角：30°
 
-### II.1 APPROVISIONNEMENT, DEBIT ET MARQUAGE DES PLAQUES
+### II.1 备料、流量与板材划线
 
-Afin d'éviter l'achat d'une grande tôle alu chez un négociant en métaux, il est préférable de s'adresser à un atelier de tôlerie ou de carrosserie de véhicule utilitaire qui débitera une tôle à la cisaille. Veiller alors à ce que le cisaillage ne déforme pas la tôle en rives, car il est nécessaire de disposer d'une tôle bien plane (le cas échéant, faire débiter une tôle plus grande que besoin, et éliminer ultérieurement.la partie non plane.
-Autre solution d'approvisionnement aux USA : Mcmaster.com # 9246K54 tôle dimension 12" x 36" soit 304,8mm x 914,4mm, dans laquelle on peut découper deux plaques Ø 240 mm et deux plaques Ø 216 mm
+为避免向金属经销商购买一大块铝板，最好找一家钣金车间或者厢式货车的车身修理厂，用剪板机把铝板剪开。此时要注意剪切不要使板边变形，因为我们需要一块平整的板（必要时，可让对方剪一块比所需更大的板，之后再把不平整的部分切除）。
+美国的另一种备料方案：Mcmaster.com # 9246K54，板材尺寸 12" x 36"，即 304,8mm x 914,4mm，可从中裁出两块 Ø 240 mm 板材和两块 Ø 216 mm 板材
 
-![images_2_I-003](images_2_I/images_2_I-003.png)
+![图 2-I-003](images_2_I/images_2_I-003.png)
 
-* Tracer les plaques en repérant les centres
-* Découper les plaques à la scie sauteuse, en utilisant une lame à denture moyenne (une lame à
-  denture fine s'engorge rapidement dans de l'alu). Adoucir à la grosse lime les éventuelles aspérités
-  sur le pourtour, afin de faciliter la finition sur tour.
-* Marquer les centres au foret à centrer sans traverser la plaque. Utiliser un foret dont l'angle est
-  compatible avec la pointe de la poupée mobile du tour (voir ci dessous).
+* 标出板材各处的中心点，以便划线
+* 用曲线锯切割板材，采用中等齿距的锯条（细齿锯条在铝材中很快就堵塞）。用粗锉把周边的毛刺锉平，以便随后在车床上精加工。
+* 用中心钻在中心点钻窝，不要钻穿板材。所选钻头的锥角要与车床尾座顶尖的锥角相匹配（见下文）。
 
-**Repérer les plaques :** les plaques brutes ne sont généralement pas parfaitement planes. Il convient soit de les dresser (sur tour? Sur fraiseuse? À l'aide d'une presse?), soit de repérer soigneusement les déformations de façon à les contrarier et les annuler, cette dernière solution étant la plus simple. Noter que la profondeur de la gorge du joint torique devra être régulière, ce qui suppose une plaque plane.
-Assembler les plaques pour le mieux, puis **marquer les plaques,** par exemple :
-"Plaque supérieure- face de dessus" et "plaque supérieure- face de joint"
-"Plaque inférieure – face de joint" et "Plaque inférieure- face de dessous"
-Repérer aussi les plaques sur chant, pour bien les orienter, et reporter ces repères sur le plat, car les repères sur chant vont disparaître à la prochaine étape.
+**板材划线 (marquage)**：毛坯板材一般并非完全平整。可以先把它们校正平（在车床上？在铣床上？用压力机？），也可以仔细查出变形部位，设法与之对抗并把它们抵消，后一种做法最为简单。请注意，O 形圈槽的深度必须均匀，而这要求板材是平的。
+把两块板材按最佳方式对齐，然后**给板材做标记，**例如：
+"上板- 上面"和"上板- 密封面"
+"下板 – 密封面"和"下板- 底面"
+还要在板材的侧边做标记，以便正确定向，并把这些侧边标记转记到板面上，因为它们在下一步就会消失。
 
-### II.2 USINAGE SUR TOUR
+### II.2 车床加工
 
-**A) REPRISE DES CHANTS**
+**A) 侧边的粗加工**
 
-Il faut disposer d'un tour avec une hauteur sur banc de 125 mm. La plaque d'alu n'est pas prise dans les mors du mandrin, mais plaquée contre le mandrin dont on ouvre largement les mors, et maintenue par la contrepointe de la poupée mobile, que l'on engage dans le percement de centrage effectué à l'étape précédente. Régler préalablement le tour sur une vitesse très lente, et vérifier périodiquement le serrage de la poupée mobile.
+需要有一台中心高 125 mm 的车床。铝板不是夹在卡盘爪里，而是紧贴着卡盘安装、把卡盘爪大幅张开，并用尾座顶尖顶住固定，顶尖插入上一步所做的中心孔中。事先把车床调到很低的转速，并定期检查尾座的夹紧情况。
 
-**B) USINAGE DE LA GORGE DU JOINT TORIQUE**
+**B) O 形圈槽的加工**
 
-usiner la gorge du joint torique sur la plaque supérieure - face de joint. Vérifier sur le tour
-que la plaque n'est pas voilée, afin d'avoir une profondeur de gorge régulière.
+在上板 —— 密封面上加工 O 形圈槽。在车床上检查板材是否翘曲，以确保槽深均匀。
 
-![images_2_I-004](images_2_I/images_2_I-004.png)
+![图 2-I-004](images_2_I/images_2_I-004.png)
 
-Sur le mode de calcul de la gorge, voir § 7
+关于槽深的计算方法，见 § 7
 
-### II.3 PERCEMENTS ET TARAUDAGE DES PLAQUES
+### II.3 板材钻孔与攻丝
 
-**A) PERCEMENTS POUR L'ASSEMBLAGE**
+**A) 装配用的钻孔**
 
-Les plaques sont assemblées par des vis inox M6 à tête fraisée.
-Les têtes de vis sont apparentes sur la plaque supérieure – face de dessus
-Pour des questions d'étancheité, les vis sont vissées dans la plaque inférieure, puis, pour des questions de résistance, elles reçoivent un écrou. Effectuer les perçages au Ø 6,1 mm pour le passage des vis dans la plaque supérieure, et au Ø 5 mm pour les taraudages.
+两块板材用 M6 不锈钢沉头螺钉 (vis à tête fraisée) 装配。
+螺钉头露在上板 —— 上面。
+出于密封方面的考虑，螺钉拧入下板；随后出于强度方面的考虑，再配上螺母。上板上供螺钉穿过的孔钻成 Ø 6,1 mm，用于攻丝的孔钻成 Ø 5 mm。
 
-**B) PERCEMENTS POUR TARAUDAGE DES RACCORDEMENTS DE VAPEUR**
-Ces deux percements sont à effectuer uniquement sur la plaque inférieure.
+**B) 蒸汽接头攻丝用的钻孔**
+这两个孔只需在下板上加工。
 
-**C) PERCEMENTS POUR PRE-ASSEMBLAGE DES PLAQUES**
-Il est très utile de disposer de quelques percements et taraudages supplémentaires en périphérie, disposés non symétriquement, pour éviter les erreurs et inversions en tous genres lors des travaux. Les percements sont à effectuer sur une fraiseuse à affichage numérique. Les plans ci dessous fournissent les cotes des percements par rapport au centre de la plaque.
-Pour effectuer les percements, installer les deux plaques inférieure et supérieure sur la fraiseuse
-selon leur assemblage définitif ultérieur, mais en retournant l'ensemble La plaque inférieure – face de dessous est donc en vue de l'opérateur, ce qui permet de percer les entrée et sortie de vapeur.
+**C) 板材预装配用的钻孔**
+在周边布置若干额外的钻孔和攻丝孔、并且刻意不作对称安排，是非常有用的，这可以避免施工中出现各种错误和装反。钻孔应在带数字显示的铣床 (fraiseuse à affichage numérique) 上进行。下面的图纸给出了各孔相对于板材中心的尺寸。
+钻孔时，把下板和上板按今后最终装配的姿态装到铣床上，但要把整个组件翻转过来。于是下板 —— 底面正对操作者，这样就可以钻出蒸汽的进、出口孔。
 
-![images_2_I-005](images_2_I/images_2_I-005.png)
+![图 2-I-005](images_2_I/images_2_I-005.png)
 
-Dans un premier temps, effectuer **tous** les percements au Ø 5 mm **jusqu'à mi épaisseur** environ de la plaque supérieure, y compris les entrée-sortie de vapeur, afin de les repérer ultérieurement. Pour des questions de lisibilité, les cotes des percements sont fournies sur deux feuilles de plans différentes, mais tous ces percements Ø 5 mm s'effectuent sans avoir à dépointer les plaques de la fraiseuse.
+第一步，用 Ø 5 mm 的钻头把**所有**孔钻到上板厚度**约一半**的深度，包括蒸汽进、出口孔在内，以便随后能识别它们。出于可读性的考虑，各孔的尺寸分别画在两张不同的图纸上，但这些 Ø 5 mm 的孔都可以在不必把板材从铣床上重新找正的情况下加工出来。
 
-![images_2_I-006](images_2_I/images_2_I-006.png)
+![图 2-I-006](images_2_I/images_2_I-006.png)
 
-Avec un peu de malchance, il peut être nécessaire de percer de part en part la plaque inférieure en son centre, afin de le repérer sur la fraiseuse. Ce n'est pas bien grave, il sera toujours possible plus tard de tarauder le percement et de le boucher avec une vis à tête fraisée.
+运气不好时，可能需要把下板的中心钻穿，以便在铣床上定位。这也不要紧，以后总可以对该孔攻丝，并用一颗沉头螺钉把它堵上。
 
-![images_2_I-007](images_2_I/images_2_I-007.png)
+![图 2-I-007](images_2_I/images_2_I-007.png)
 
-![images_2_I-008](images_2_I/images_2_I-008.png)
+![图 2-I-008](images_2_I/images_2_I-008.png)
 
-On peut ensuite reprendre chaque plaque :
-**Plaque inférieure** : 
+接着可以对每块板分别加工：
+**下板** ： 
 
-* tarauder les percements d'assemblage et de préassemblage
+* 对装配孔和预装配孔攻丝
 
 
-- repercer et tarauder les entrées-sortie de vapeur à 1/8"
-**Plaque supérieure** : - reprendre tous les percements au foret Ø 6,1mm
-- effectuer les fraisages pour les têtes de vis. Contrôler la conformité de l'angle de la fraise avec l'angle des têtes de vis (normalisé à 90° pour les vis à pas métrique, et veiller à ce que aucune tête de vis ne dépasse, le transfert thermique ne le supporterait pas un espace entre la plaque et le récipient (ce n'est pas bien grave si la tête est légèrement en retrait). Pour la même raison, il peut être nécessaire d'ébavurer les fraisages avec une toile abrasive.
+- 对蒸汽进、出口孔用 1/8" 钻头重新钻孔并攻丝
+**上板**： - 把所有孔用 Ø 6,1mm 钻头重新钻孔
+- 为螺钉头加工沉孔。检查铣刀锥角与螺钉头锥角是否相符（公制螺钉的锥角标准值为 90°），并注意不能有任何螺钉头凸出，因为板与容器之间出现空隙会严重影响传热（螺钉头略微凹进去倒也无妨）。出于同样的理由，可能需要用砂布把沉孔的毛刺磨掉。
 
-### II.4 LA GRAVURE DU CIRCUIT DE VAPEUR
+### II.4 蒸汽回路的雕刻
 
-Le circuit de vapeur est gravé sur la plaque supérieure- face de joint, c'est à dire sur la même gorge que le joint torique.
-**Section du circuit** : largeur 5 mm, profondeur 3 mm
-**Une fraise "end mill"** double flute Ø 5 mm convient, par exemple Mcmaster 8555A62.
-**Installer la plaque** sur la table de la fraiseuse, insérer deux vis M6 dans les percements "extrême gauche" et "extrême droite". Caler les deux vis contre la rainure centrale de la table de la fraiseuse, et fixer la plaque sur la table. Insérer une pointe à centrer dans le mandrin de la fraiseuse, centrer la table par rapport au centre de la plaque, et mettre l'affichage digital à Zéro en X et en Y
+蒸汽回路雕刻在上板 —— 密封面上，也就是与 O 形圈同一条槽内。
+**回路截面**：宽 5 mm，深 3 mm
+**一把 "end mill" 双刃立铣刀**，Ø 5 mm 就够用，例如 Mcmaster 8555A62。
+**安装板材**到铣床工作台上，把两颗 M6 螺钉插入"最左端"和"最右端"的孔中。把两颗螺钉顶在铣床工作台的中央槽上，把板材固定在工作台上。在铣床主轴中装入一支中心钻，把工作台相对于板材中心找正，并把数字显示的 X 和 Y 坐标置零。
 
-![images_2_I-009](images_2_I/images_2_I-009.png)
+![图 2-I-009](images_2_I/images_2_I-009.png)
 
-**Effectuer la première passe** : Graver les deux rayons parallèles à la table, et les deux
-perpendiculaires
+**加工第一刀**：雕刻与工作台平行的两条圆弧，以及与它们垂直的两条
 
-![images_2_I-010](images_2_I/images_2_I-010.png)
+![图 2-I-010](images_2_I/images_2_I-010.png)
 
-**Déposer/reposer la plaque** sur la table de la fraiseuse en la calant comme précédemment après
-une rotation de 30°.
-**Effectuer la seconde passe**.
-**Noter** que la seconde passe et la première passe ne sont pas exactement identiques, voir notamment la cote 28,29 mm sur la première, et la cote 24,5 sur la seconde. Toutefois il n'y a pas d'inconvénient majeur si une engravure se prolonge quelque peu au delà du tracé prévu, sauf à l'approche du joint torique.
+**把板材从铣床工作台上取下／重新装上**，按前面同样的方法定位，板材转过 30°。
+**加工第二刀**。
+**请注意**，第二刀和第一刀并不完全相同：第一刀上的尺寸是 28,29 mm，第二刀上是 24,5。不过，如果某条凹槽略微超出原定轨迹，也没有什么大问题，靠近 O 形圈处则除外。
 
-NB L'entrée de vapeur n'est pas positionnée comme sur les photos
+注意：蒸汽入口的位置与照片上的不同。
 
-![images_2_I-011](images_2_I/images_2_I-011.png)
+![图 2-I-011](images_2_I/images_2_I-011.png)
 
-### II.5 L'ASSEMBLAGE
+### II.5 装配
 
-**Utiliser des vis à tête plate fraisée** M6 L = 25mm en acier inoxydable, sans rondelle (à cause de l'étancheite). En l'attente d'une note de calcul concernant les vis, veiller à utiliser des vis dont la résistance est connue et certifiée, par exemple Mcmaster.com # 92125A242 "minimum tensile strenght of 100 000psi", ou équivalent métrique. Ce sont souvent des vis à empreinte hexagonale ou cruciforme. Les vis à empreinte ordinaire "tête fendue" ne conviennent généralement pas, leur résistance n'est pas précisée, et de plus on peut remarquer une bavure sur la tête de la vis, résultant de l'usinage de l'empreinte.
-**Utiliser un produit d'étancheité** du type "frein filet" résistant à la température (Loctite 272 ?). Garnir le filet, mais aussi la tête de vis, ainsi que l'écrou.
-**Serrage dynamométrique** il est hautement souhaitable d'effectuer un serrage à la clé dynamométrique. Le cas échéant, on peut se procurer une clé dynamométrique chez les revendeurs de cycles, elles sont utilisées par les amateurs pour le serrage contrôlé des pièces en carbone de leur bicyclette.
-Couple de serrage : la longueur du taraudage dans la plaque inférieure est de 9,5 ou 10 mm, c'est à dire le double de la longueur du taraudage d'un écrou M6 normalisé (5 mm). En prenant pour référence la boulonnerie acier de classe moyenne lubrifiée (le produit d'étancheité ayant un rôle de lubrifiant), un couple de 8 à 9 Nm = 5,9 à 6,6 lbfxft = 70 à 80 lbf.xIn semble adapté aux circonstances. Pour le serrage de l'écrou, on conserve la même valeur.
+**使用 M6 L = 25mm 的不锈钢沉头螺钉**，不加垫圈（为了密封）。在有关螺钉强度的计算说明出台之前，要使用强度明确并且经过认证的螺钉，例如 Mcmaster.com # 92125A242 "minimum tensile strenght of 100 000psi"，或公制等效型号。这类螺钉通常是六角槽或十字槽的。普通的"一字槽"螺钉一般不合适：它们的强度没有标明，而且还能在螺钉头上看到因加工槽口而留下的毛刺。
+**使用一种密封胶**，即耐高温型的"螺纹锁固胶 (frein filet)"（Loctite 272 ？）。螺纹要涂满，螺钉头和螺母也要涂。
+**力矩拧紧**：强烈建议用扭矩扳手 (clé dynamométrique) 拧紧。必要时可以从自行车商店买到扭矩扳手，业余爱好者用它们来可控地拧紧自行车上的碳纤维零件。
+拧紧力矩：下板内的攻丝深度为 9,5 或 10 mm，即标准 M6 螺母的攻丝深度（5 mm）的两倍。以中等强度等级的润滑钢制螺纹连接件为参考（密封胶在这里起润滑作用），8 到 9 Nm = 5,9 到 6,6 lbfxft = 70 到 80 lbf.xIn 的力矩似乎适合本场合。拧紧螺母时保持同样的数值。
 
-### II.6 LES ENTREE ET SORTIE DE VAPEUR
+### II.6 蒸汽进出口
 
-Utiliser deux raccords coudes au quart male-femelle 1/8" en acier, en fonte malléable, ou en Inox.
-Braser à l'argent 40% un raccord laiton sur le filetage femelle, et y raccorder ensuite un tuyau vapeur Ø 6 mm. Faire un essai préalable de vissage du raccord sur la plaque, et vérifier qu'il ne dépasse pas à l'intérieur de la plaque vapeur. Si le raccord n'est pas bien orienté après vissage, on peut essayer de reprendre son filetage à la filière 1/8". Garnir le filetage de frein filet ou de Teflon. Prendre garde au fait que les vis d'assemblage peuvent gêner le vissage du raccord sur la plaque. Il est peut-être judicieux de visser le raccord avant de refermer la plaque
+使用两个 1/8" 内外螺纹弯头接头 (raccords coudes)，材质为钢、可锻铸铁或不锈钢。
+在内螺纹上用含银 40% 的硬钎料把一个黄铜接头钎焊上去，然后再接上一根 Ø 6 mm 的蒸汽管。先做一次接头在板上试旋装的试验，检查它不会凸入蒸汽板的内部。如果接头旋上后方向不合适，可以试着用 1/8" 板牙 (filière) 重新套丝。螺纹上涂螺纹胶或聚四氟乙烯 (Teflon)。注意装配螺钉可能会妨碍接头在板上旋入。也许先把接头旋好、再合上板材是更明智的做法。
 
-### II.7 LE CHOIX DU JOINT TORIQUE
+### II.7 O 形圈的选择
 
-Voici, à toutes fins utiles, comment a été effectué le choix du joint torique.
+下面说明 O 形圈的选择过程，以备参考。
 
-**Documentation** On peut utiliser, entre autres, trois sources de documentation
+**资料来源** 可以使用（除此以外还有别的）三个资料来源
 
-- le Joint Français, [http://www.oring.fr/LJF_Catalogue_Torique.pdf](http://www.oring.fr/LJF_Catalogue_Torique.pdf)
-- Eriks [http://www.eriksusa.com/en/products/o-rings/](http://www.eriksusa.com/en/products/o-rings/) et O-rings .info
-- Parker [http://www.parker.com](http://www.parker.com) Le catalogue O ring de chez Parker a le très grand avantage de
-    fournir les dimensions en pouces (colonne 5), en millimètres (colonne 7), et en Uniform
-    Dash Number (colonne2), qui est une référence commune pour tous les fabricants et
-    revendeurs de joints toriques. La Nominal Size (colonne 2) est une dénomination obsolète
-    dont il ne faut pas tenir compte. Pour notre usage, on peut se reporter à la page 230 du
-    catalogue.
+- Le Joint Français，[http://www.oring.fr/LJF_Catalogue_Torique.pdf](http://www.oring.fr/LJF_Catalogue_Torique.pdf)
+- Eriks [http://www.eriksusa.com/en/products/o-rings/](http://www.eriksusa.com/en/products/o-rings/) 和 O-rings.info
+- Parker [http://www.parker.com](http://www.parker.com) Parker 公司的 O 形圈样本目录有一个非常大的优点：它同时以英寸（第 5 列）、毫米（第 7 列）以及 Unified
+    Dash Number（第 2 列）给出尺寸，而 Dash Number 是所有 O 形圈制造商和
+    经销商通用的编号。Nominal Size（第 2 列）是一个已经过时的名称，
+    不应加以考虑。就我们的用途而言，可以查阅样本目录的第 230 页。
 
-**Fournisseurs** entre autres :
+**供应商** 除其他之外：
 
-- solutions-élastomères.com (= Total = Hutchinson = Le joint français)
+- solutions-élastomères.com（= Total = Hutchinson = Le joint français）
 - Mcmaster.com
 
-**Choix du matériau**
+**材料的选择**
 
-* chez Le Joint Français ce matériau est dénommé FPM (et EP 851?), cf pages 5 et 7 du
-  catalogue.
+* 在 Le Joint Français 的样本目录中，这种材料称为 FPM（是 EP 851 吗？），参见样本目录第 5 页和第 7 页。
 
-* chez Eriks ce matériau est dénommé Viton, cf pages 13 et 86 du catalogue.
+* 在 Eriks 的样本目录中，这种材料称为 Viton，参见样本目录第 13 页和第 86 页。
 
-- Chez Parker ce matériau est dénommé FKM
+- 在 Parker 的样本目录中，这种材料称为 FKM
 
-**Diamètre de tore**
-On choisit ici une Cross Section Diameter = CSD = d2 (chez LJF) = 3,53 mm. Voir Eriks page 31.
-**Type de montage**
-C'est un montage statique axial avec pression venant de l'intérieur. Selon Le Joint Français page 27
-"si la pression agit de l'intérieur vers l'extérieur, le joint torique présentera un diamètre extérieur
-légèrement supérieur de 1 à 2% à la cote H sur laquelle il prendra appui, H étant le diamètre
-extérieur de la gorge du joint torique", ce qui est corroboré par Eriks page 132 / axial seal "When
+**圆环截面直径**
+这里选用截面直径 Cross Section Diameter = CSD = d2（LJF 记法）= 3,53 mm。参见 Eriks 样本目录第 31 页。
+**安装方式**
+这是内压轴向静态安装。根据 Le Joint Français 样本目录第 27 页："如果压力由内向外作用，O 形圈的外径将比它所支承的 H 尺寸略大 1 到 2%，H 是 O 形圈槽的外径"，这一点也得到 Eriks 样本目录第 132 页 / axial seal 的印证："When
 system pressure is from the outside, the groove inside diameter is of primary importance and the
 groove width then determines the outside diameter. When system pressure is from the inside, the
 reverse is true..."
-**Dimension du joint et diam extérieur de la gorge**
-Soit un joint diamètre intérieur 202,80 mm, diam extérieur 209,86 mm.
-En réduisant le diamètre de 1,2% environ, on obtient une cote H de 207,4mm, soit 103,7 mm de
-rayon, pour l'extérieur de la gorge
-**Choix final et références**
-On retient ce joint torique : diam intérieur 202,80 mm, diam de tore 3,53 mm, Uniform Dash
-Number 266, en Viton FKM. Par exemple : Mcmaster 9464K565.
-**Profondeur de gorge**
+**O 形圈尺寸与槽的外径**
+取内径 202,80 mm、外径 209,86 mm 的 O 形圈。
+把直径减小约 1,2%，得到 H 尺寸为 207,4mm，即槽外侧的半径为
+103,7 mm
+**最终选择与型号**
+选定这个 O 形圈：内径 202,80 mm，圆环截面直径 3,53 mm，Unified Dash
+Number 266，材质为 Viton FKM。例如：Mcmaster 9464K565。
+**槽深**
 
-* selon Le Joint Fançais page 26 : profondeur 2,70 mm pour un écrasement de 23%
+* 根据 Le Joint Français 样本目录第 26 页：槽深 2,70 mm，对应压缩率 23%
 
-* selon Eriks page 139 : profondeur 2,67 mm pour un écrasement de 24,36%.
-  La profondeur de gorge doit être assez précise, pour obtenir une bonne compression du joint,
-  garante de l'étancheité. C'est pourquoi il faut veiller, dès le début des opérations, à la planéité de la plaque sans laquelle l'usinage précis n'est gère possible.
+* 根据 Eriks 样本目录第 139 页：槽深 2,67 mm，对应压缩率 24,36%。
+  槽深必须足够精确，以获得 O 形圈良好的压缩量，从而保证密封。正因如此，从作业一开始就要注意板材的平整度，否则就无法进行精确加工。
 
-**Largeur et diamètre intérieur de la gorge**
+**槽宽与槽内径**
 
-* selon le Joint Français page 26: largeur 5 mm
+* 根据 Le Joint Français 样本目录第 26 页：槽宽 5 mm
 
-* selon Eriks page 139 : 4,05 à 4,60 mm
+* 根据 Eriks 样本目录第 139 页：4,05 到 4,60 mm
 
-En fait dans notre cas la largeur de la gorge n'est pas très importante, tant que le joint y trouve le volume suffisant après compression. On retient ici une gorge de 5 mm de large, donc un diamètre intérieur de 197,4 mm, soit 98,7 mm de rayon.
+其实在我们的情形中，只要压缩后 O 形圈在槽内仍有足够的体积，槽宽并不是非常重要。这里取宽 5 mm 的槽，因此槽内径为 197,4 mm，即半径 98,7 mm。
 
-### II.8 PERFECTIONNEMENTS ENVISAGEABLES
+### II.8 可考虑的改进
 
-Telle quelle la plaque chauffante à vapeur donne satisfaction, mais il reste encore à
-approfondir plusieurs aspects
+蒸汽加热板本身已经令人满意，但仍有若干方面需要深入研究
 
-- étude de résistance des matériaux : quelle épaisseur pour la plaque supérieure? Quelle
-    épaisseur pour la plaque inférieure, sachant qu'il faut pouvoir tarauder pour le entée-sortie
-    de vapeur?
-- Nombre et répartition des boulons?
-- Longueur de l'engravure pour la vapeur? Pour faciliter son usinage,il est souhaitable, il est
-    souhaitable que l'angle entre les "rayons" de l'engravure soit de 15, 18, 22,5, ou 30°. Quel
-    est le minimum (30 ° comme ci dessus?), quel est l'optimum?
+- 材料强度研究：上板取多厚的板材？下板取多厚的板材，考虑到必须能为蒸汽的进、出口攻丝？
+- 螺栓的数量与布置？
+- 蒸汽凹槽要多长？为便于加工，希望凹槽两条"圆弧"之间的夹角为 15、18、22,5 或 30°。最小值是多少（像上文那样取 30°？），最优值又是多少？
 
-### II.9 COTES POUR UNE PLAQUE Ø 216 mm
+### II.9 板材尺寸 Ø 216 mm
 
-![images_2_I-013](images_2_I/images_2_I-013.png)![images_2_I-012](images_2_I/images_2_I-012.png)
+![图 2-I-013](images_2_I/images_2_I-013.png)![图 2-I-012](images_2_I/images_2_I-012.png)
 
-![images_2_I-014](images_2_I/images_2_I-014.png)
+![图 2-I-014](images_2_I/images_2_I-014.png)
 
-![images_2_I-015](images_2_I/images_2_I-015.png)
+![图 2-I-015](images_2_I/images_2_I-015.png)
 
-![images_2_I-016](images_2_I/images_2_I-016.png)
+![图 2-I-016](images_2_I/images_2_I-016.png)
 
-![images_2_I-017](images_2_I/images_2_I-017.png)
+![图 2-I-017](images_2_I/images_2_I-017.png)
 
-(les percements pour IN et OUT sont placés différemment que sur les photos)
+（IN 和 OUT 用的孔位与照片上的不同）
 
 
-NB L'entrée de vapeur n'est pas positionnée comme sur les photos
+注意：蒸汽入口的位置与照片上的不同。
 
-## SECTION III - FABRICATION DE LA PLAQUE CHAUFFANTE À VAPEUR
+## 第 III 节 蒸汽加热板的制造
 
-La section III "Fabrication de la plaque chauffante à vapeur" n'est qu'un regroupement des plans
-déjà présentés dans la section "Etude" , afin de disposer d'un jeu de plans en atelier. Pour les détails, il faudra autant que besoin se reporter aux indications de la section "Etude"
+第 III 节"蒸汽加热板的制造"只是把"研究"一节中已经介绍过的图纸重新归集到一起，以便在车间里备齐一整套图纸。需要细节时，应随时查阅"研究"一节的说明
 
-Fabrication d'une plaque chauffante diam 240 mm, composée de 2 toles d'alu ep 9,52 ou 10 mm.
+制造一块直径 240 mm 的蒸汽加热板，它由 2 块厚度为 9,52 或 10 mm 的铝板组成。
 
-![images_2_I-019](images_2_I/images_2_I-019.png)
+![图 2-I-019](images_2_I/images_2_I-019.png)
 
-(les détails de fabrication ne correspondent pas aux plans ci dessous)
+（制造细节与下面的图纸不一致）
 
-### III.1 APPROVISIONNEMENT, DEBIT ET MARQUAGE DES PLAQUES
+### III.1 备料、流量与板材划线
 
-![images_2_I-018](images_2_I/images_2_I-018.png)
+![图 2-I-018](images_2_I/images_2_I-018.png)
 
-Marquer les centres au foret à centrer sans traverser la plaque. Utiliser un foret dont l'angle est
-compatible avec la pointe de la poupée mobile du tour (voir ci dessous).
+用中心钻在中心点钻窝，不要钻穿板材。所选钻头的锥角要与车床尾座顶尖的锥角相匹配（见下文）。
 
-**Repérer les plaques :** les plaques brutes ne sont généralement pas parfaitement planes. Il convient soit de les dresser (sur tour? Sur fraiseuse? À l'aide d'une presse?), soit de repérer soigneusement les déformations de façon à les contrarier et les annuler, cette dernière solution étant la plus simple. Noter que la profondeur de la gorge du joint torique devra être régulière, ce qui suppose une plaque plane.
-Assembler les plaques pour le mieux, puis **marquer les plaques,** par exemple :
-"Plaque supérieure- face de dessus" et "plaque supérieure- face de joint"
-"Plaque inférieure – face de joint" et "Plaque inférieure- face de dessous"
-Repérer aussi les plaques sur chant, pour bien les orienter, et reporter ces repères sur le plat, car les repères sur chant vont disparaître à la prochaine étape.
+**板材划线**：毛坯板材一般并非完全平整。可以先把它们校正平（在车床上？在铣床上？用压力机？），也可以仔细查出变形部位，设法与之对抗并把它们抵消，后一种做法最为简单。请注意，O 形圈槽的深度必须均匀，而这要求板材是平的。
+把两块板材按最佳方式对齐，然后**给板材做标记，**例如：
+"上板- 上面"和"上板- 密封面"
+"下板 – 密封面"和"下板- 底面"
+还要在板材的侧边做标记，以便正确定向，并把这些侧边标记转记到板面上，因为它们在下一步就会消失。
 
-### III.2 USINAGE SUR TOUR
+### III.2 车床加工
 
-**A) REPRISE DES CHANTS**
+**A) 侧边的粗加工**
 
-**B) USINAGE DE LA GORGE DU JOINT TORIQUE**
+**B) O 形圈槽的加工**
 
-usiner la gorge du joint torique sur la plaque supérieure - face de joint. Vérifier sur le tour
-que la plaque n'est pas voilée, afin d'avoir une profondeur de gorge régulière.
+在上板 —— 密封面上加工 O 形圈槽。在车床上检查板材是否翘曲，以确保槽深均匀。
 
-![images_2_I-020](images_2_I/images_2_I-020.png)
+![图 2-I-020](images_2_I/images_2_I-020.png)
 
-### III.3 PERCEMENTS ET TARAUDAGE DES PLAQUES
+### III.3 板材钻孔与攻丝
 
-**A) PERCEMENTS POUR L'ASSEMBLAGE**
+**A) 装配用的钻孔**
 
-Les plaques sont assemblées par des vis inox M6 à tête fraisée.
-Les têtes de vis sont apparentes sur la plaque supérieure – face de dessus
-Les vis sont vissées dans la plaque inférieure, puis elles reçoivent un écrou.
-Effectuer les perçages au Ø 6,1 mm pour le passage des vis dans la plaque supérieure, et au Ø 5 mm pour les taraudages.
+两块板材用 M6 不锈钢沉头螺钉装配。
+螺钉头露在上板 —— 上面。
+螺钉拧入下板，随后再配上螺母。
+上板上供螺钉穿过的孔钻成 Ø 6,1 mm，用于攻丝的孔钻成 Ø 5 mm。
 
-**B) PERCEMENTS POUR TARAUDAGE DES RACCORDEMENTS DE VAPEUR**
-Ces deux percements sont à effectuer uniquement sur la plaque inférieure.
+**B) 蒸汽接头攻丝用的钻孔**
+这两个孔只需在下板上加工。
 
-**C) PERCEMENTS POUR PRE-ASSEMBLAGE DES PLAQUES**
-Il est très utile de disposer de quelques percements et taraudages supplémentaires en périphérie,
-disposés non symétriquement, pour éviter les erreurs et inversions en tous genres lors des travaux.
+**C) 板材预装配用的钻孔**
+在周边布置若干额外的钻孔和攻丝孔、并且刻意不作对称安排，是非常有用的，这可以避免施工中出现各种错误和装反。
 
-![images_2_I-021](images_2_I/images_2_I-021.png)
+![图 2-I-021](images_2_I/images_2_I-021.png)
 
-Dans un premier temps, effectuer **tous** les percements au Ø 5 mm **jusqu'à mi épaisseur** environ de la plaque supérieure, y compris les entrée-sortie de vapeur, afin de les repérer ultérieurement.
-Pour des questions de lisibilité, les cotes des percements sont fournies sur deux feuilles de plans
-différentes, mais tous ces percements Ø 5 mm s'effectuent sans avoir à dépointer les plaques de la fraiseuse.
+第一步，用 Ø 5 mm 的钻头把**所有**孔钻到上板厚度**约一半**的深度，包括蒸汽进、出口孔在内，以便随后能识别它们。
+出于可读性的考虑，各孔的尺寸分别画在两张不同的图纸上，
+但这些 Ø 5 mm 的孔都可以在不必把板材从铣床上重新找正的情况下加工出来。
 
-Avec un peu de malchance, il peut être nécessaire de percer de part en part la plaque inférieure en son centre, afin de le repérer sur la fraiseuse. Ce n'est pas bien grave, il sera toujours possible plus tard de tarauder le percement et de le boucher avec une vis à tête fraisée.
+运气不好时，可能需要把下板的中心钻穿，以便在铣床上定位。这也不要紧，以后总可以对该孔攻丝，并用一颗沉头螺钉把它堵上。
 
-![images_2_I-022](images_2_I/images_2_I-022.png)
+![图 2-I-022](images_2_I/images_2_I-022.png)
 
-![images_2_I-023](images_2_I/images_2_I-023.png)
+![图 2-I-023](images_2_I/images_2_I-023.png)
 
-On peut ensuite reprendre chaque plaque :
-**Plaque inférieure** : - tarauder les percements d'assemblage et de préassemblage
+接着可以对每块板分别加工：
+**下板** ： - 对装配孔和预装配孔攻丝
 
-- repercer et tarauder les entrées-sortie de vapeur à 1/8"
+- 对蒸汽进、出口孔用 1/8" 钻头重新钻孔并攻丝
 
-**Plaque supérieure** : - reprendre tous les percements au foret Ø 6,1mm
+**上板**： - 把所有孔用 Ø 6,1mm 钻头重新钻孔
 
-- effectuer les fraisages pour les têtes de vis. Contrôler la conformité de l'angle
-de la fraise avec l'angle des têtes de vis (normalisé à 90° pour les vis à pas métrique, et veiller à ce
-que aucune tête de vis ne dépasse, le transfert thermique ne le supporterait pas un espace entre la
-plaque et le récipient.(ce n'est pas bien grave si la tête est légèrement en retrait) Pour la même
-raison, il peut être nécessaire d'ébavurer les fraisages avec une toile abrasive.
+- 为螺钉头加工沉孔。检查铣刀锥角与螺钉头锥角是否相符（公制螺钉的锥角标准值为 90°），并注意不能有任何螺钉头凸出，因为板与容器之间出现空隙会严重影响传热（螺钉头略微凹进去倒也无妨）。出于同样的理由，可能需要用砂布把沉孔的毛刺磨掉。
 
-### III.4 LA GRAVURE DU CIRCUIT DE VAPEUR
+### III.4 蒸汽回路的雕刻
 
-Le circuit de vapeur est gravé sur la plaque supérieure- face de joint, c'est à dire sur la même gorge que le joint torique.
-**Section du circuit** : largeur 5 mm, profondeur 3 mm
-**Une fraise "end mill"** double flute Ø 5 mm convient, par exemple Mcmaster 8555A62.
-**Installer la plaque** sur la table de la fraiseuse, insérer deux vis M6 dans les percements "extrême.
-gauche" et "extrême droite". Caler les deux vis contre la rainure centrale de la table de la fraiseuse, et fixer la plaque sur la table. Insérer une pointe à centrer dans le mandrin de la fraiseuse, centrer la table par rapport au centre de la plaque, et mettre l'affichage digital à Zéro en X et en Y
+蒸汽回路雕刻在上板 —— 密封面上，也就是与 O 形圈同一条槽内。
+**回路截面**：宽 5 mm，深 3 mm
+**一把 "end mill" 双刃立铣刀**，Ø 5 mm 就够用，例如 Mcmaster 8555A62。
+**安装板材**到铣床工作台上，把两颗 M6 螺钉插入"最左端"和"最右端"的孔中。把两颗螺钉顶在铣床工作台的中央槽上，把板材固定在工作台上。在铣床主轴中装入一支中心钻，把工作台相对于板材中心找正，并把数字显示的 X 和 Y 坐标置零
 
-![images_2_I-024](images_2_I/images_2_I-024.png)
+![图 2-I-024](images_2_I/images_2_I-024.png)
 
-**Effectuer la première passe** : Graver les deux rayons parallèles à la table, et les deux
-perpendiculaires
+**加工第一刀**：雕刻与工作台平行的两条圆弧，以及与它们垂直的两条
 
-![images_2_I-025](images_2_I/images_2_I-025.png)
+![图 2-I-025](images_2_I/images_2_I-025.png)
 
-**Déposer/reposer la plaque** sur la table de la fraiseuse en la calant comme précédemment après
-une rotation de 30°.
-**Effectuer la seconde passe**.
-**Noter** que la seconde passe et la première passe ne sont pas exactement identiques, voir notamment la cote 28,29 mm sur la première, et la cote 24,5 sur la seconde. Toutefois il n'y a pas d'inconvénient majeur si une engravure se prolonge quelque peu au delà du tracé prévu, sauf à l'approche du joint torique,
+**把板材从铣床工作台上取下／重新装上**，按前面同样的方法定位，板材转过 30°。
+**加工第二刀**。
+**请注意**，第二刀和第一刀并不完全相同：第一刀上的尺寸是 28,29 mm，第二刀上是 24,5。不过，如果某条凹槽略微超出原定轨迹，也没有什么大问题，靠近 O 形圈处则除外。
 
-![images_2_I-026](images_2_I/images_2_I-026.png)
+![图 2-I-026](images_2_I/images_2_I-026.png)
 
-NB L'entrée de vapeur n'est pas positionnée comme sur les photos
+注意：蒸汽入口的位置与照片上的不同。
 
-### III.5 L'ASSEMBLAGE
-Utiliser des vis à tête plate fraisée** M6 L = 25mm en acier inoxydable, sans rondelle (à
-cause de l'étancheite).
-**Utiliser un produit d'étancheité** du type "frein filet" résistant à la température (Loctite
-272 ?). Garnir le filet, mais aussi la tête de vis, ainsi que l'écrou.
-**Serrage dynamométrique** 8 à 9 Nm = 5,9 à 6,6 lbf.ft = 70 à 80 lbf.pour la vis, et ensute
-pour l'écrou
+### III.5 装配
+使用 M6 L = 25mm 的不锈钢沉头螺钉，不加垫圈（为了密封）。
+**使用一种密封胶**，即耐高温型的"螺纹锁固胶"（Loctite
+272 ？）。螺纹要涂满，螺钉头和螺母也要涂。
+**力矩拧紧** 螺钉用 8 到 9 Nm = 5,9 到 6,6 lbf.ft = 70 到 80 lbf，螺母同样如此
 
-## SECTION IV UTILISATION ET PERFORMANCES DE LA PLAQUE CHAUFFANTE À VAPEUR
+## 第 IV 节 蒸汽加热板的使用与性能
 
-### IV.1 UTILISATION DE LA PLAQUE CHAUFFANTE À VAPEUR
+### IV.1 蒸汽加热板的使用
 
-Toutes les informations concernant la régulation de la vapeur (1ère partie, Chapitre IV, Section VIII) et la conduite du capteur (1ère partie, Chapitre VI, Section II) concernent également la plaque chauffante à vapeur, le lecteur voudra bien s'y reporter
+所有关于蒸汽调节（第 1 部分，第 IV 章，第 VIII 节）以及集热器操作（第 1 部分，第 VI 章，第 II 节）的信息同样适用于蒸汽加热板，请读者参阅
 
-### IV.2 PERFORMANCES ET FONCTIONNEMENT DE LA PLAQUE À VAPEUR
+### IV.2 蒸汽加热板的性能与工作原理
 
-La notion de performances de la plaque à vapeur n'est pas aussi simple que pour le dispositif de production de vapeur. Il s'agit ici de production, mais uniquement de transfert thermique, lequel dépend entre autres des paramètres suivants
+蒸汽加热板的"性能"这一概念不像蒸汽发生装置那样简单。这里涉及的是热的产生，但仅仅是热传递，而热传递取决于以下参数
 
-- la surface de la plaque : toutes choses égales par ailleurs, une grande plaque transmet plus de chaleur qu'une petite plaque (était-il besoin de le dire? ). Donc une plaque d'une surface donnée a une limite haute qu'elle ne pourra dépasser.
-- la qualité du transfert thermique entre la vapeur et la plaque. Ici, il est excellent
-- la qualité du transfert thermique entre la plaque et le récipient ; l'huile est là pour l'améliorer.
-- La qualité du transfert thermique à travers le fond du récipient de cuisson
-- La qualité du transfert thermique dans le récipient. Elle est excellente si il y a un peu d'eau dans le fond du récipient, qui se vaporise, transfère la chaleur aux aliments, se condense, puis se vaporise à nouveau etc... : c'est la cuisson à la vapeur à pression atmosphérique. Par contre, si le récipient est rempli de pommes de terre sans une seule goutte d'eau, le transfert thermique interne est exécrable voire nul, la vapeur fournie par le capteur fuse à la sortie des robinets de régulation, et les pommes de terre ne seront jamais cuites (ni brûlées)
-- Mais surtout, l'importance du transfert thermique est fonction de la différence de température entre le fluide thermique (la vapeur) et le contenu du récipient de cuisson. Plus cette différence est importante, et plus le transfert est intense. S'il n'y a plus de différence de température, il n'y a plus aucun transfert. Or cette différence de température varie tout au long de la mise en chauffe du récipient de cuisson. En début de cuisson, le Δ t est important, l'échange thermique aussi, puis cela va s'amenuisant au fur et à mesure de la mise en chauffe. Dans le cas d'une cuisson à l'eau, ce sont les quelques derniers degrés avant ébullition qui sont critiques. Au delà, il suffit d'un peu d'énergie (donc d'un peu de transfert) pour maintenir l'ébullition, c'est à dire pour compenser les pertes, lesquelles sont assez faibles puisque le récipient est dans un caisson isolant. Le conducteur du capteur profite de cette période de maintien à ébullition pour charger son bouilleur en eau fraiche à vaporiser, et être prêt pour la prochaine séance.
+- 加热板的面积：在其他条件相同的情况下，大板比小板传递的热量多（这还需要说吗？）。因此，一块给定面积的板存在一个它无法超过的上限。
+- 蒸汽与板之间传热的好坏。这里非常出色
+- 板与容器之间传热的好坏；油的作用正是改善这一点。
+- 穿过蒸煮容器底部的传热质量
+- 容器内部传热的好坏。如果容器底部有一点水，它会汽化、把热量传给食物、凝结、然后再次汽化……这就是常压蒸汽烹煮 (cuisson à la vapeur à pression atmosphérique)。反之，如果容器里装满土豆却没有一滴水，容器内部的传热就糟糕透顶、甚至于零，集热器供给的蒸汽会从调节阀出口喷出来，而土豆永远也煮不熟（更谈不上烤熟）
+- 但最重要的是，传热的强弱取决于载热流体（蒸汽）与蒸煮容器内容物之间的温差。这个温差越大，传热就越强烈。如果没有温差了，就再也没有任何传热。而这个温差在蒸煮容器整个升温过程中一直在变化。升温开始阶段 Δ t 很大，热交换也很强，随后随着升温进行而逐渐减小。在水煮的情况下，沸腾前的最后几度才是关键。越过这个阶段之后，只需要一点能量（即一点传热）就能维持沸腾，也就是补偿热损失——由于容器放在保温箱里，这些损失相当小。集热器的操作者正好利用这段维持沸腾的时间，给自己的锅炉装上新鲜的、准备汽化的水，为下一次作业做好准备。
 
-Autrement dit, une bonne plaque chauffante à vapeur est celle qui est capable de transférer au récipient toute l'énergie fournie par le capteur, y compris au moment où le contenu du récipient est sur le point de parvenir à son seuil maximum de température
+换句话说，一块好的蒸汽加热板，就是那种能把集热器提供的全部能量传给容器的能力的加热板，哪怕是在容器内容物即将达到其最高温度阈值的时刻
 
-**Le test de bon fonctionnement de la plaque chauffante à vapeur** est assez simple : si il n'y a pas de vapeur en sortie du système de régulation, cela signifie que toute la vapeur fournie est condensée, donc que le transfert thermique s'effectue correctement. La puissance de transfert de la plaque est alors assimilable à la puissance du capteur (voir "performances du capteur" dans la première partie de la documentation).
+**蒸汽加热板工作是否正常的测试**相当简单：如果调节系统出口处没有蒸汽，就说明供给的蒸汽全部凝结了，也就是说传热正常进行。此时加热板的传热功率可等同于集热器的功率（参见文档第一部分的"集热器的性能"）。
 
-Si de la vapeur apparaît en sortie du système de régulation, la cause peut en être:
+如果调节系统出口处出现蒸汽，可能的原因有：
 
-_a) Une mauvaise adéquation des composants_
-Par exemple : plaque trop petite,
+_a) 部件之间搭配不当_
+例如：加热板太小，
 
-_b) une mauvaise utilisation des composants_
-Par exemple : absence d'huile entre la plaque et le récipient, contenu du récipient insuffisant, absence d'eau dans le récipient, ou bien un Δ t insuffisant (on peut alors essayer de travailler à une pression supérieure, en manoeuvrant les robinets de régulation manuelle ou automatique) ou bien... l'eau est peut-être en train de bouillir?
+_b) 部件使用不当_
+例如：板与容器之间没有油、容器内容物不足、容器里没有水，或者温差 Δ t 不足（此时可以试着在更高压力下工作，操作手动或自动调节阀），又或者……水是不是正在沸腾？
 
-Si la puissance du capteur augmente ;, il est évident qu'à un moment donné la plaque ne sera plus capable de transmettre toute l'énergie au récipient. Il sera peut-être temps de brancher une seconde plaque sur le capteur. Si l'échangeur était un tube de cuivre de quelques dizaines de centimètres immergé dans un grand récipient d'eau, il absorberait toute l'énergie fournie par un grand capteur :
-les capacités d'échange thermique de la plaque et celles d'un tube cuivre immergé sont sans
-commune mesure – mais l'ergonomie n'est pas la même. Tout est affaire d'adéquation entre les
-différents composants. Pour un capteur de 2m², la plaque à vapeur est tout à fait adaptée.
+如果集热器的功率提高，那么显然到某个时刻加热板就不再能把全部能量传给容器了。也许是时候在集热器上再并联一块加热板了。如果换热器是一根几十厘米长、浸没在大容器水中的铜管，它就能吸收大集热器供给的全部能量：
+加热板的换热能力与浸没铜管的换热能力完全不可同日而语——但人机工程性并不相同。一切都取决于各部件之间的搭配。对于 2m² 的集热器，蒸汽加热板是完全合适的。
 
-## SECTION V UNE PLAQUE À VAPEUR LOW COST
+## 第 V 节 低成本蒸汽板
 
-Plusieurs plaques chauffantes à vapeur ont été construites avant de parvenir à la configuration décrite dans les sections précédentes. La toute première plaque à vapeur était même d'un type différent. Elle consistait en une plaque de cuisinière électrique de récupération, dans laquelle avait été inséré, à la place de la résistance électrique, un tube de cuivre. Elle fonctionnait fort bien, capable d'effectuer une cuisson dans un petit autocuiseur Lagostina (qui travaille à 1 bar/121° C). En fait les limites de cette plaque n'ont jamais été testées, et il serait un peu prématuré de l'envoyer aux oubliettes (comme l'ont été la plupart des essais de Soleil-Vapeur...)
+在达到前面各节所述的构型之前，人们已经造过好几块蒸汽加热板。最早的那一块蒸汽板甚至是另一种类型：它由一块回收来的电灶灶板构成，在原电热丝的位置上插入了一根铜管。它工作得非常好，能够在一个小的 Lagostina 压力锅 (autocuiseur) 中完成烹煮（该压力锅在 1 bar/121° C 下工作）。事实上，人们从未测试过这块板的极限，把它打入冷宫（就像 Soleil-Vapeur 的大多数试验那样）还稍微为时过早……
 
-Photos d'une plaque chauffante confectionnée à partir d'une plaque de cuisinière électrique.
+用一块电灶灶板制作的蒸汽加热板照片。
 
-![images_2_I-027](images_2_I/images_2_I-027.png)
+![图 2-I-027](images_2_I/images_2_I-027.png)
 
-![images_2_I-028](images_2_I/images_2_I-028.png)
+![图 2-I-028](images_2_I/images_2_I-028.png)
 
-Voici quelques indications concernant sa fabrication
+下面给出关于其制作的一些说明
 
-**- se procurer une plaque de cuisinière électrique** , le plus grand diamètre sera le mieux (la capacité de transfert thermique dépend, entre autres, de la surface disponible pour le transfert)
-**- dégarnir la résistance électrique** et la pâte réfractaire qui l'entoure
-**- modifier le parcours des résistances** dans la fonte de la plaque. Les plaques électriques sont prévues pour fonctionner en triphasé ou en monophasé, il y a donc trois parcours pour trois résistances. Il faut les rectifier quelque peu, afin de pouvoir loger un seul serpentin en un parcours unique. La modification s'effectue à la petite meuleuse à une main, éventuellement avec une petite meuleuse de bricolage type Dremel. Ne pas hésiter à tailler franchement dans la fonte pour laisser le passage au tube de cuivre, et nettoyer très proprement le fond de l'engravure pour faciliter me transfert thermique et la mise en œuvre de la soudure.
-**- se procurer un tube de cuivre Ø 4,8 mm**. Ce type de tube est utilisé pour les circuits de freinage de camions, on peut se le procurer chez les revendeurs de pièces détachées automobiles ou camions.
+**- 弄到一块电灶灶板**，直径越大越好（传热能力除其他因素外，取决于可供传热的面积）
+**- 拆掉电热丝**以及包围它的耐火泥
+**- 改动加热丝在灶板铸铁中的走向**。电灶板是为三相或单相供电设计的，因此三条加热丝有三条走向。必须把它们稍作改造，以便把一整条盘管装进唯一的走向里。改造用小型手持角磨机进行，也可以用 Dremel 之类的家用手电钻。要舍得在铸铁上多切一些，给铜管让出通道，并把凹槽底部清理得非常干净，以利于传热和焊接作业的进行。
+**- 弄到一根 Ø 4,8 mm 的铜管**。这类管子用于卡车的制动管路，可以在汽车或卡车零配件经销商那里买到。
 
-**- Ovaliser légèrement le tube.** Le diamètre 4,8 mm est légèrement trop fort pour insérer le tube dans l'engravure. Il est nécessaire de l'ovaliser légèrement, sur toute sa longueur, en le pressant avec doigté dans un étau.
-**- Insérer le tube dans l'engravure** en serpentin, au besoin avec quelques coups de marteau en interposant une cale de bois.
-**- Afin d'assurer un meilleur transfert thermique** entre le tuyau et la plaque, répandre de la brasure tendre sur la "galette" en procédant ainsi
+**- 把管子稍微压扁成椭圆。** 4,8 mm 的直径略粗了一点，把管子装进凹槽时有些吃力。需要用台钳夹住管子、用手细致地压，把它的全长都稍微压扁成椭圆。
+**- 把管子以盘管的形式装进凹槽**，必要时垫上一块木片，用锤子轻敲几下。
+**- 为了在管子与板之间获得更好的传热**，按下面的方法在"圆饼件"上涂覆软钎料
 
-   - se procurer une bobine de brasure tendre à l'étain, si possible avec peu de plomb, et le décapant y afférent. La température de fusion est de l'ordre de 180° C
-   - Mettre l'ensemble à chauffer dans un four. Un four de cuisinière convient très bien, régler le thermostat à 220° (?) environ.
-   - Lorsque la galette est chaude, la sortir du four, répandre le décapant, et faire fondre la brasure en l'approchant du cuivre et de la fonte. Elle doit fondre instantanément, et se répandre toute seule, sinon reprendre la chauffe.
+   - 弄一卷含锡的软钎料，尽量少含铅，并配上相应的助焊剂。它的熔化温度约为 180° C
+    - 把整个组件放进烤箱加热。电灶烤箱非常合适，把温控器调到约 220°（？）左右。
+    - 当"圆饼件"热了以后，把它从烤箱中取出，涂上助焊剂，把钎料凑近铜管和铸铁使其熔化。它应当瞬间熔化并自行流开，否则就重新加热。
 
-Nul ne s'engagera sur le coefficient général de transfert thermique de l'ensemble ainsi constitué, mais le fait est que, compte tenu des faibles flux thermiques en jeu, cet ensemble fonctionne. Sur ce principe, il n'est donc pas interdit d'imaginer des variantes en fonction des disponibilités locales.
+没有人会（也无法）断言这样组成的整体总传热系数是多少，但事实是：考虑到所涉及的热流很小，这个整体确实能工作。在这个原理的基础上，根据当地条件设想出一些变体，也并非不允许。
 
-Pour ce qui est des performances, tout ce qui a été dit dans la section précédente reste valable pour les plaques "low cost".
-
-
-
+至于性能，上一节所说的一切对"低成本"加热板同样适用。
